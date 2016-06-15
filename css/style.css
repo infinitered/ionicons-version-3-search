@@ -1,0 +1,15 @@
+#icons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between; }
+
+.icon-container {
+  margin-bottom: 20px;
+  width: 220px; }
+  .icon-container i {
+    font-size: 2em;
+    margin-right: 5px; }
+  .icon-container .name {
+    font-size: 0.8em; }
+
+/*# sourceMappingURL=style.css.map */

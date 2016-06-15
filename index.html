@@ -14,8 +14,9 @@
   <link rel="stylesheet" type="text/css" href="css/style.css">
 
   <!-- React, React DOM, Browser Babel -->
-  <script src="https://fb.me/react-15.1.0.min.js"></script>
-  <script src="https://fb.me/react-dom-15.1.0.min.js"></script>
+  <!-- TODO: switch to minified react -->
+  <script src="https://fb.me/react-15.1.0.js"></script>
+  <script src="https://fb.me/react-dom-15.1.0.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.6.16/browser.js"></script>
 
   <!-- JQuery -->
@@ -23,6 +24,7 @@
   <!-- Bootstrap JS -->
   <!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script> -->
 
+  <!-- TODO: delete these after all major name changes identified (afterward will be manually updated in clean files) -->
   <!-- Data Clean Up Scripts (used for initial matching and tags) -->
   <!-- <script type="text/javascript" src="scripts/tags.js"></script>
   <script type="text/javascript" src="scripts/icon_data_2_0_1.js"></script>
@@ -30,7 +32,8 @@
   <script type="text/javascript" src="scripts/InitialDataCleanUp.js"></script> -->
 
   <!-- React Script for page -->
-  <script type="text/babel" src="script.js"></script>
+  <script type="text/javascript" src="scripts/cleanIcons_3_0.js"></script>
+  <script type="text/babel" src="scripts/script.babel"></script>
 </head>
 <body>
   <div class="container">
@@ -48,8 +51,8 @@
     <i class="icon ion-md-arrow-down"></i>
     <h3>Search</h3>
     <h3>Converter Box?</h3>
-    <h3>Icons</h3>
 
+    <div id="app"></div>
   </div>
 
 </body>

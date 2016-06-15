@@ -1,0 +1,41 @@
+var Icons = React.createClass({
+  render: function(){
+    var icons = this.props.icons.map(function(icon){
+      return (
+        <div key={icon.name} className="icon-container">
+          <i className={"icon ion-" + icon.name}></i>
+          <span className="text-muted name">
+            {icon.name}
+          </span>
+        </div>
+      );
+    });
+
+    return (
+      <div id="icons">
+        {icons}
+      </div>
+    );
+  }
+});
+
+var Main = React.createClass({
+  getInitialState: function(){
+    return {
+      icons: cleanIcons_3_0
+    }
+  },
+
+  render: function(){
+    return (
+      <div id="main">
+        <Icons icons={this.state.icons} />
+      </div>
+    );
+  }
+});
+
+ReactDOM.render(
+  <Main />,
+  document.getElementById("app")
+);
