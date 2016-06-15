@@ -46,7 +46,12 @@ APP.InitialDataCleanUp = (function(){
           // Don't do anything since logo ones are included in next but need this here so it doesn't do a lookup on "logo" every time
         } else {
           // Grab core tags from available list
-          icon.tags = icon.tags.concat(tags3_0[tag]);
+          var remainingTags = tags3_0[tag];
+          if (remainingTags){
+            icon.tags = icon.tags.concat(remainingTags);
+          } else {
+            icon.tags.push(tag);
+          }
         }
       });
 

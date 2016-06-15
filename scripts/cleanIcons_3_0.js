@@ -21,7 +21,7 @@ var cleanIcons_3_0 = [
       "include",
       "invite",
       "plus",
-      null
+      "circle"
     ],
     "oldName": null
   },
@@ -34,7 +34,7 @@ var cleanIcons_3_0 = [
       "include",
       "invite",
       "plus",
-      null,
+      "circle",
       "outline"
     ],
     "oldName": null
@@ -130,7 +130,7 @@ var cleanIcons_3_0 = [
     "name": "ios-american-football",
     "tags": [
       "ios",
-      null,
+      "american",
       "football"
     ],
     "oldName": null
@@ -140,7 +140,7 @@ var cleanIcons_3_0 = [
     "name": "ios-american-football-outline",
     "tags": [
       "ios",
-      null,
+      "american",
       "football",
       "outline"
     ],
@@ -269,8 +269,8 @@ var cleanIcons_3_0 = [
     "oldName": "ios-arrow-back",
     "tags": [
       "ios",
-      null,
-      null
+      "arrow",
+      "back"
     ]
   },
   {
@@ -278,8 +278,8 @@ var cleanIcons_3_0 = [
     "name": "ios-arrow-back-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "arrow",
+      "back",
       "outline"
     ],
     "oldName": null
@@ -290,8 +290,8 @@ var cleanIcons_3_0 = [
     "oldName": "ios-arrow-down",
     "tags": [
       "ios",
-      null,
-      null
+      "arrow",
+      "down"
     ]
   },
   {
@@ -299,8 +299,8 @@ var cleanIcons_3_0 = [
     "name": "ios-arrow-down-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "arrow",
+      "down",
       "outline"
     ],
     "oldName": null
@@ -310,8 +310,8 @@ var cleanIcons_3_0 = [
     "name": "ios-arrow-dropdown",
     "tags": [
       "ios",
-      null,
-      null
+      "arrow",
+      "dropdown"
     ],
     "oldName": null
   },
@@ -320,9 +320,9 @@ var cleanIcons_3_0 = [
     "name": "ios-arrow-dropdown-circle",
     "tags": [
       "ios",
-      null,
-      null,
-      null
+      "arrow",
+      "dropdown",
+      "circle"
     ],
     "oldName": null
   },
@@ -331,9 +331,9 @@ var cleanIcons_3_0 = [
     "name": "ios-arrow-dropdown-circle-outline",
     "tags": [
       "ios",
-      null,
-      null,
-      null,
+      "arrow",
+      "dropdown",
+      "circle",
       "outline"
     ],
     "oldName": null
@@ -343,8 +343,8 @@ var cleanIcons_3_0 = [
     "name": "ios-arrow-dropdown-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "arrow",
+      "dropdown",
       "outline"
     ],
     "oldName": null
@@ -354,8 +354,8 @@ var cleanIcons_3_0 = [
     "name": "ios-arrow-dropleft",
     "tags": [
       "ios",
-      null,
-      null
+      "arrow",
+      "dropleft"
     ],
     "oldName": null
   },
@@ -364,9 +364,9 @@ var cleanIcons_3_0 = [
     "name": "ios-arrow-dropleft-circle",
     "tags": [
       "ios",
-      null,
-      null,
-      null
+      "arrow",
+      "dropleft",
+      "circle"
     ],
     "oldName": null
   },
@@ -375,9 +375,9 @@ var cleanIcons_3_0 = [
     "name": "ios-arrow-dropleft-circle-outline",
     "tags": [
       "ios",
-      null,
-      null,
-      null,
+      "arrow",
+      "dropleft",
+      "circle",
       "outline"
     ],
     "oldName": null
@@ -387,8 +387,8 @@ var cleanIcons_3_0 = [
     "name": "ios-arrow-dropleft-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "arrow",
+      "dropleft",
       "outline"
     ],
     "oldName": null
@@ -398,8 +398,8 @@ var cleanIcons_3_0 = [
     "name": "ios-arrow-dropright",
     "tags": [
       "ios",
-      null,
-      null
+      "arrow",
+      "dropright"
     ],
     "oldName": null
   },
@@ -408,9 +408,9 @@ var cleanIcons_3_0 = [
     "name": "ios-arrow-dropright-circle",
     "tags": [
       "ios",
-      null,
-      null,
-      null
+      "arrow",
+      "dropright",
+      "circle"
     ],
     "oldName": null
   },
@@ -419,9 +419,9 @@ var cleanIcons_3_0 = [
     "name": "ios-arrow-dropright-circle-outline",
     "tags": [
       "ios",
-      null,
-      null,
-      null,
+      "arrow",
+      "dropright",
+      "circle",
       "outline"
     ],
     "oldName": null
@@ -431,8 +431,8 @@ var cleanIcons_3_0 = [
     "name": "ios-arrow-dropright-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "arrow",
+      "dropright",
       "outline"
     ],
     "oldName": null
@@ -442,8 +442,8 @@ var cleanIcons_3_0 = [
     "name": "ios-arrow-dropup",
     "tags": [
       "ios",
-      null,
-      null
+      "arrow",
+      "dropup"
     ],
     "oldName": null
   },
@@ -452,9 +452,9 @@ var cleanIcons_3_0 = [
     "name": "ios-arrow-dropup-circle",
     "tags": [
       "ios",
-      null,
-      null,
-      null
+      "arrow",
+      "dropup",
+      "circle"
     ],
     "oldName": null
   },
@@ -463,9 +463,9 @@ var cleanIcons_3_0 = [
     "name": "ios-arrow-dropup-circle-outline",
     "tags": [
       "ios",
-      null,
-      null,
-      null,
+      "arrow",
+      "dropup",
+      "circle",
       "outline"
     ],
     "oldName": null
@@ -475,8 +475,8 @@ var cleanIcons_3_0 = [
     "name": "ios-arrow-dropup-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "arrow",
+      "dropup",
       "outline"
     ],
     "oldName": null
@@ -487,8 +487,8 @@ var cleanIcons_3_0 = [
     "oldName": "ios-arrow-forward",
     "tags": [
       "ios",
-      null,
-      null
+      "arrow",
+      "forward"
     ]
   },
   {
@@ -496,8 +496,8 @@ var cleanIcons_3_0 = [
     "name": "ios-arrow-forward-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "arrow",
+      "forward",
       "outline"
     ],
     "oldName": null
@@ -507,9 +507,9 @@ var cleanIcons_3_0 = [
     "name": "ios-arrow-round-back",
     "tags": [
       "ios",
-      null,
-      null,
-      null
+      "arrow",
+      "round",
+      "back"
     ],
     "oldName": null
   },
@@ -518,9 +518,9 @@ var cleanIcons_3_0 = [
     "name": "ios-arrow-round-back-outline",
     "tags": [
       "ios",
-      null,
-      null,
-      null,
+      "arrow",
+      "round",
+      "back",
       "outline"
     ],
     "oldName": null
@@ -530,9 +530,9 @@ var cleanIcons_3_0 = [
     "name": "ios-arrow-round-down",
     "tags": [
       "ios",
-      null,
-      null,
-      null
+      "arrow",
+      "round",
+      "down"
     ],
     "oldName": null
   },
@@ -541,9 +541,9 @@ var cleanIcons_3_0 = [
     "name": "ios-arrow-round-down-outline",
     "tags": [
       "ios",
-      null,
-      null,
-      null,
+      "arrow",
+      "round",
+      "down",
       "outline"
     ],
     "oldName": null
@@ -553,9 +553,9 @@ var cleanIcons_3_0 = [
     "name": "ios-arrow-round-forward",
     "tags": [
       "ios",
-      null,
-      null,
-      null
+      "arrow",
+      "round",
+      "forward"
     ],
     "oldName": null
   },
@@ -564,9 +564,9 @@ var cleanIcons_3_0 = [
     "name": "ios-arrow-round-forward-outline",
     "tags": [
       "ios",
-      null,
-      null,
-      null,
+      "arrow",
+      "round",
+      "forward",
       "outline"
     ],
     "oldName": null
@@ -576,9 +576,9 @@ var cleanIcons_3_0 = [
     "name": "ios-arrow-round-up",
     "tags": [
       "ios",
-      null,
-      null,
-      null
+      "arrow",
+      "round",
+      "up"
     ],
     "oldName": null
   },
@@ -587,9 +587,9 @@ var cleanIcons_3_0 = [
     "name": "ios-arrow-round-up-outline",
     "tags": [
       "ios",
-      null,
-      null,
-      null,
+      "arrow",
+      "round",
+      "up",
       "outline"
     ],
     "oldName": null
@@ -600,8 +600,8 @@ var cleanIcons_3_0 = [
     "oldName": "ios-arrow-up",
     "tags": [
       "ios",
-      null,
-      null
+      "arrow",
+      "up"
     ]
   },
   {
@@ -609,8 +609,8 @@ var cleanIcons_3_0 = [
     "name": "ios-arrow-up-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "arrow",
+      "up",
       "outline"
     ],
     "oldName": null
@@ -759,8 +759,8 @@ var cleanIcons_3_0 = [
     "name": "ios-battery-charging",
     "tags": [
       "ios",
-      null,
-      null
+      "battery",
+      "charging"
     ],
     "oldName": null
   },
@@ -769,8 +769,8 @@ var cleanIcons_3_0 = [
     "name": "ios-battery-charging-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "battery",
+      "charging",
       "outline"
     ],
     "oldName": null
@@ -780,8 +780,8 @@ var cleanIcons_3_0 = [
     "name": "ios-battery-dead",
     "tags": [
       "ios",
-      null,
-      null
+      "battery",
+      "dead"
     ],
     "oldName": null
   },
@@ -790,8 +790,8 @@ var cleanIcons_3_0 = [
     "name": "ios-battery-dead-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "battery",
+      "dead",
       "outline"
     ],
     "oldName": null
@@ -801,8 +801,8 @@ var cleanIcons_3_0 = [
     "name": "ios-battery-full",
     "tags": [
       "ios",
-      null,
-      null
+      "battery",
+      "full"
     ],
     "oldName": null
   },
@@ -811,8 +811,8 @@ var cleanIcons_3_0 = [
     "name": "ios-battery-full-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "battery",
+      "full",
       "outline"
     ],
     "oldName": null
@@ -1496,7 +1496,7 @@ var cleanIcons_3_0 = [
     "tags": [
       "ios",
       "checkmark",
-      null
+      "circle"
     ],
     "oldName": null
   },
@@ -1506,7 +1506,7 @@ var cleanIcons_3_0 = [
     "tags": [
       "ios",
       "checkmark",
-      null,
+      "circle",
       "outline"
     ],
     "oldName": null
@@ -1582,7 +1582,7 @@ var cleanIcons_3_0 = [
       "close",
       "delete",
       "remove",
-      null
+      "circle"
     ],
     "oldName": null
   },
@@ -1594,7 +1594,7 @@ var cleanIcons_3_0 = [
       "close",
       "delete",
       "remove",
-      null,
+      "circle",
       "outline"
     ],
     "oldName": null
@@ -1616,8 +1616,8 @@ var cleanIcons_3_0 = [
     "name": "ios-closed-captioning",
     "tags": [
       "ios",
-      null,
-      null
+      "closed",
+      "captioning"
     ],
     "oldName": null
   },
@@ -1626,8 +1626,8 @@ var cleanIcons_3_0 = [
     "name": "ios-closed-captioning-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "closed",
+      "captioning",
       "outline"
     ],
     "oldName": null
@@ -1653,7 +1653,7 @@ var cleanIcons_3_0 = [
       "storage",
       "weather",
       "whether",
-      null
+      "circle"
     ],
     "oldName": null
   },
@@ -1666,7 +1666,7 @@ var cleanIcons_3_0 = [
       "storage",
       "weather",
       "whether",
-      null,
+      "circle",
       "outline"
     ],
     "oldName": null
@@ -1680,7 +1680,7 @@ var cleanIcons_3_0 = [
       "storage",
       "weather",
       "whether",
-      null
+      "done"
     ],
     "oldName": null
   },
@@ -1693,7 +1693,7 @@ var cleanIcons_3_0 = [
       "storage",
       "weather",
       "whether",
-      null,
+      "done",
       "outline"
     ],
     "oldName": null
@@ -1750,7 +1750,7 @@ var cleanIcons_3_0 = [
       "storage",
       "weather",
       "whether",
-      null
+      "upload"
     ]
   },
   {
@@ -1763,7 +1763,7 @@ var cleanIcons_3_0 = [
       "storage",
       "weather",
       "whether",
-      null,
+      "upload",
       "outline"
     ]
   },
@@ -1789,7 +1789,7 @@ var cleanIcons_3_0 = [
       "overcast",
       "weather",
       "whether",
-      null
+      "night"
     ]
   },
   {
@@ -1802,7 +1802,7 @@ var cleanIcons_3_0 = [
       "overcast",
       "weather",
       "whether",
-      null,
+      "night",
       "outline"
     ]
   },
@@ -1882,7 +1882,7 @@ var cleanIcons_3_0 = [
       "develop",
       "hacker",
       "program",
-      null
+      "working"
     ],
     "oldName": null
   },
@@ -1895,7 +1895,7 @@ var cleanIcons_3_0 = [
       "develop",
       "hacker",
       "program",
-      null,
+      "working",
       "outline"
     ],
     "oldName": null
@@ -1930,8 +1930,8 @@ var cleanIcons_3_0 = [
     "name": "ios-color-fill",
     "tags": [
       "ios",
-      null,
-      null
+      "color",
+      "fill"
     ],
     "oldName": null
   },
@@ -1940,8 +1940,8 @@ var cleanIcons_3_0 = [
     "name": "ios-color-fill-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "color",
+      "fill",
       "outline"
     ],
     "oldName": null
@@ -1952,8 +1952,8 @@ var cleanIcons_3_0 = [
     "oldName": "ios-color-filter",
     "tags": [
       "ios",
-      null,
-      null
+      "color",
+      "filter"
     ]
   },
   {
@@ -1962,8 +1962,8 @@ var cleanIcons_3_0 = [
     "oldName": "ios-color-filter-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "color",
+      "filter",
       "outline"
     ]
   },
@@ -1972,8 +1972,8 @@ var cleanIcons_3_0 = [
     "name": "ios-color-palette",
     "tags": [
       "ios",
-      null,
-      null
+      "color",
+      "palette"
     ],
     "oldName": null
   },
@@ -1982,8 +1982,8 @@ var cleanIcons_3_0 = [
     "name": "ios-color-palette-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "color",
+      "palette",
       "outline"
     ],
     "oldName": null
@@ -1994,8 +1994,8 @@ var cleanIcons_3_0 = [
     "oldName": "ios-color-wand",
     "tags": [
       "ios",
-      null,
-      null
+      "color",
+      "wand"
     ]
   },
   {
@@ -2004,8 +2004,8 @@ var cleanIcons_3_0 = [
     "oldName": "ios-color-wand-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "color",
+      "wand",
       "outline"
     ]
   },
@@ -2322,8 +2322,8 @@ var cleanIcons_3_0 = [
     "name": "ios-done-all",
     "tags": [
       "ios",
-      null,
-      null
+      "done",
+      "all"
     ],
     "oldName": null
   },
@@ -2332,8 +2332,8 @@ var cleanIcons_3_0 = [
     "name": "ios-done-all-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "done",
+      "all",
       "outline"
     ],
     "oldName": null
@@ -2466,7 +2466,7 @@ var cleanIcons_3_0 = [
       "look",
       "see",
       "view",
-      null
+      "off"
     ],
     "oldName": null
   },
@@ -2480,7 +2480,7 @@ var cleanIcons_3_0 = [
       "look",
       "see",
       "view",
-      null,
+      "off",
       "outline"
     ],
     "oldName": null
@@ -2594,7 +2594,7 @@ var cleanIcons_3_0 = [
     "name": "ios-finger-print",
     "tags": [
       "ios",
-      null,
+      "finger",
       "print"
     ],
     "oldName": null
@@ -2604,7 +2604,7 @@ var cleanIcons_3_0 = [
     "name": "ios-finger-print-outline",
     "tags": [
       "ios",
-      null,
+      "finger",
       "print",
       "outline"
     ],
@@ -2817,9 +2817,9 @@ var cleanIcons_3_0 = [
     "oldName": "ios-game-controller-a",
     "tags": [
       "ios",
-      null,
-      null,
-      null
+      "game",
+      "controller",
+      "a"
     ]
   },
   {
@@ -2828,9 +2828,9 @@ var cleanIcons_3_0 = [
     "oldName": "ios-game-controller-a-outline",
     "tags": [
       "ios",
-      null,
-      null,
-      null,
+      "game",
+      "controller",
+      "a",
       "outline"
     ]
   },
@@ -2840,9 +2840,9 @@ var cleanIcons_3_0 = [
     "oldName": "ios-game-controller-b",
     "tags": [
       "ios",
-      null,
-      null,
-      null
+      "game",
+      "controller",
+      "b"
     ]
   },
   {
@@ -2851,9 +2851,9 @@ var cleanIcons_3_0 = [
     "oldName": "ios-game-controller-b-outline",
     "tags": [
       "ios",
-      null,
-      null,
-      null,
+      "game",
+      "controller",
+      "b",
       "outline"
     ]
   },
@@ -2862,8 +2862,8 @@ var cleanIcons_3_0 = [
     "name": "ios-git-branch",
     "tags": [
       "ios",
-      null,
-      null
+      "git",
+      "branch"
     ],
     "oldName": null
   },
@@ -2872,8 +2872,8 @@ var cleanIcons_3_0 = [
     "name": "ios-git-branch-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "git",
+      "branch",
       "outline"
     ],
     "oldName": null
@@ -2883,8 +2883,8 @@ var cleanIcons_3_0 = [
     "name": "ios-git-commit",
     "tags": [
       "ios",
-      null,
-      null
+      "git",
+      "commit"
     ],
     "oldName": null
   },
@@ -2893,8 +2893,8 @@ var cleanIcons_3_0 = [
     "name": "ios-git-commit-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "git",
+      "commit",
       "outline"
     ],
     "oldName": null
@@ -2904,8 +2904,8 @@ var cleanIcons_3_0 = [
     "name": "ios-git-compare",
     "tags": [
       "ios",
-      null,
-      null
+      "git",
+      "compare"
     ],
     "oldName": null
   },
@@ -2914,8 +2914,8 @@ var cleanIcons_3_0 = [
     "name": "ios-git-compare-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "git",
+      "compare",
       "outline"
     ],
     "oldName": null
@@ -2925,8 +2925,8 @@ var cleanIcons_3_0 = [
     "name": "ios-git-merge",
     "tags": [
       "ios",
-      null,
-      null
+      "git",
+      "merge"
     ],
     "oldName": null
   },
@@ -2935,8 +2935,8 @@ var cleanIcons_3_0 = [
     "name": "ios-git-merge-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "git",
+      "merge",
       "outline"
     ],
     "oldName": null
@@ -2946,8 +2946,8 @@ var cleanIcons_3_0 = [
     "name": "ios-git-network",
     "tags": [
       "ios",
-      null,
-      null
+      "git",
+      "network"
     ],
     "oldName": null
   },
@@ -2956,8 +2956,8 @@ var cleanIcons_3_0 = [
     "name": "ios-git-network-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "git",
+      "network",
       "outline"
     ],
     "oldName": null
@@ -2967,9 +2967,9 @@ var cleanIcons_3_0 = [
     "name": "ios-git-pull-request",
     "tags": [
       "ios",
-      null,
-      null,
-      null
+      "git",
+      "pull",
+      "request"
     ],
     "oldName": null
   },
@@ -2978,9 +2978,9 @@ var cleanIcons_3_0 = [
     "name": "ios-git-pull-request-outline",
     "tags": [
       "ios",
-      null,
-      null,
-      null,
+      "git",
+      "pull",
+      "request",
       "outline"
     ],
     "oldName": null
@@ -3186,7 +3186,7 @@ var cleanIcons_3_0 = [
       "help",
       "information",
       "question",
-      null
+      "buoy"
     ],
     "oldName": null
   },
@@ -3199,7 +3199,7 @@ var cleanIcons_3_0 = [
       "help",
       "information",
       "question",
-      null,
+      "buoy",
       "outline"
     ],
     "oldName": null
@@ -3213,7 +3213,7 @@ var cleanIcons_3_0 = [
       "help",
       "information",
       "question",
-      null
+      "circle"
     ],
     "oldName": null
   },
@@ -3226,7 +3226,7 @@ var cleanIcons_3_0 = [
       "help",
       "information",
       "question",
-      null,
+      "circle",
       "outline"
     ],
     "oldName": null
@@ -3270,8 +3270,8 @@ var cleanIcons_3_0 = [
     "name": "ios-ice-cream",
     "tags": [
       "ios",
-      null,
-      null
+      "ice",
+      "cream"
     ],
     "oldName": null
   },
@@ -3280,8 +3280,8 @@ var cleanIcons_3_0 = [
     "name": "ios-ice-cream-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "ice",
+      "cream",
       "outline"
     ],
     "oldName": null
@@ -3372,7 +3372,7 @@ var cleanIcons_3_0 = [
       "help",
       "information",
       "knowledge",
-      null
+      "circle"
     ],
     "oldName": null
   },
@@ -3384,7 +3384,7 @@ var cleanIcons_3_0 = [
       "help",
       "information",
       "knowledge",
-      null,
+      "circle",
       "outline"
     ],
     "oldName": null
@@ -3606,7 +3606,7 @@ var cleanIcons_3_0 = [
     "tags": [
       "ios",
       "list",
-      null
+      "box"
     ],
     "oldName": null
   },
@@ -3616,7 +3616,7 @@ var cleanIcons_3_0 = [
     "tags": [
       "ios",
       "list",
-      null,
+      "box",
       "outline"
     ],
     "oldName": null
@@ -3680,8 +3680,8 @@ var cleanIcons_3_0 = [
     "name": "ios-log-in",
     "tags": [
       "ios",
-      null,
-      null
+      "log",
+      "in"
     ],
     "oldName": null
   },
@@ -3690,8 +3690,8 @@ var cleanIcons_3_0 = [
     "name": "ios-log-in-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "log",
+      "in",
       "outline"
     ],
     "oldName": null
@@ -3701,8 +3701,8 @@ var cleanIcons_3_0 = [
     "name": "ios-log-out",
     "tags": [
       "ios",
-      null,
-      null
+      "log",
+      "out"
     ],
     "oldName": null
   },
@@ -3711,8 +3711,8 @@ var cleanIcons_3_0 = [
     "name": "ios-log-out-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "log",
+      "out",
       "outline"
     ],
     "oldName": null
@@ -3992,7 +3992,7 @@ var cleanIcons_3_0 = [
       "sound",
       "speaker",
       "talk",
-      null
+      "off"
     ]
   },
   {
@@ -4005,7 +4005,7 @@ var cleanIcons_3_0 = [
       "sound",
       "speaker",
       "talk",
-      null,
+      "off",
       "outline"
     ],
     "oldName": null
@@ -4124,8 +4124,8 @@ var cleanIcons_3_0 = [
     "oldName": "ios-musical-note",
     "tags": [
       "ios",
-      null,
-      null
+      "musical",
+      "note"
     ]
   },
   {
@@ -4133,8 +4133,8 @@ var cleanIcons_3_0 = [
     "name": "ios-musical-note-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "musical",
+      "note",
       "outline"
     ],
     "oldName": null
@@ -4145,8 +4145,8 @@ var cleanIcons_3_0 = [
     "oldName": "ios-musical-notes",
     "tags": [
       "ios",
-      null,
-      null
+      "musical",
+      "notes"
     ]
   },
   {
@@ -4154,8 +4154,8 @@ var cleanIcons_3_0 = [
     "name": "ios-musical-notes-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "musical",
+      "notes",
       "outline"
     ],
     "oldName": null
@@ -4192,8 +4192,8 @@ var cleanIcons_3_0 = [
     "name": "ios-no-smoking",
     "tags": [
       "ios",
-      null,
-      null
+      "no",
+      "smoking"
     ],
     "oldName": null
   },
@@ -4202,8 +4202,8 @@ var cleanIcons_3_0 = [
     "name": "ios-no-smoking-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "no",
+      "smoking",
       "outline"
     ],
     "oldName": null
@@ -4223,7 +4223,7 @@ var cleanIcons_3_0 = [
     "tags": [
       "ios",
       "notifications",
-      null
+      "off"
     ],
     "oldName": null
   },
@@ -4233,7 +4233,7 @@ var cleanIcons_3_0 = [
     "tags": [
       "ios",
       "notifications",
-      null,
+      "off",
       "outline"
     ],
     "oldName": null
@@ -4412,7 +4412,7 @@ var cleanIcons_3_0 = [
     "name": "ios-partly-sunny",
     "tags": [
       "ios",
-      null,
+      "partly",
       "light",
       "sky",
       "sunny",
@@ -4426,7 +4426,7 @@ var cleanIcons_3_0 = [
     "name": "ios-partly-sunny-outline",
     "tags": [
       "ios",
-      null,
+      "partly",
       "light",
       "sky",
       "sunny",
@@ -4578,8 +4578,8 @@ var cleanIcons_3_0 = [
     "name": "ios-phone-landscape",
     "tags": [
       "ios",
-      null,
-      null
+      "phone",
+      "landscape"
     ],
     "oldName": null
   },
@@ -4588,8 +4588,8 @@ var cleanIcons_3_0 = [
     "name": "ios-phone-landscape-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "phone",
+      "landscape",
       "outline"
     ],
     "oldName": null
@@ -4599,8 +4599,8 @@ var cleanIcons_3_0 = [
     "name": "ios-phone-portrait",
     "tags": [
       "ios",
-      null,
-      null
+      "phone",
+      "portrait"
     ],
     "oldName": null
   },
@@ -4609,8 +4609,8 @@ var cleanIcons_3_0 = [
     "name": "ios-phone-portrait-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "phone",
+      "portrait",
       "outline"
     ],
     "oldName": null
@@ -4970,8 +4970,8 @@ var cleanIcons_3_0 = [
     "name": "ios-qr-scanner",
     "tags": [
       "ios",
-      null,
-      null
+      "qr",
+      "scanner"
     ],
     "oldName": null
   },
@@ -4980,8 +4980,8 @@ var cleanIcons_3_0 = [
     "name": "ios-qr-scanner-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "qr",
+      "scanner",
       "outline"
     ],
     "oldName": null
@@ -5024,8 +5024,8 @@ var cleanIcons_3_0 = [
     "tags": [
       "ios",
       "radio",
-      null,
-      null
+      "button",
+      "off"
     ],
     "oldName": null
   },
@@ -5035,8 +5035,8 @@ var cleanIcons_3_0 = [
     "tags": [
       "ios",
       "radio",
-      null,
-      null,
+      "button",
+      "off",
       "outline"
     ],
     "oldName": null
@@ -5047,8 +5047,8 @@ var cleanIcons_3_0 = [
     "tags": [
       "ios",
       "radio",
-      null,
-      null
+      "button",
+      "on"
     ],
     "oldName": null
   },
@@ -5058,8 +5058,8 @@ var cleanIcons_3_0 = [
     "tags": [
       "ios",
       "radio",
-      null,
-      null,
+      "button",
+      "on",
       "outline"
     ],
     "oldName": null
@@ -5168,7 +5168,7 @@ var cleanIcons_3_0 = [
       "reload",
       "renew",
       "reset",
-      null
+      "circle"
     ],
     "oldName": null
   },
@@ -5181,7 +5181,7 @@ var cleanIcons_3_0 = [
       "reload",
       "renew",
       "reset",
-      null,
+      "circle",
       "outline"
     ],
     "oldName": null
@@ -5218,7 +5218,7 @@ var cleanIcons_3_0 = [
       "minus",
       "remove",
       "subtract",
-      null
+      "circle"
     ],
     "oldName": null
   },
@@ -5230,7 +5230,7 @@ var cleanIcons_3_0 = [
       "minus",
       "remove",
       "subtract",
-      null,
+      "circle",
       "outline"
     ],
     "oldName": null
@@ -5328,8 +5328,8 @@ var cleanIcons_3_0 = [
     "name": "ios-return-left",
     "tags": [
       "ios",
-      null,
-      null
+      "return",
+      "left"
     ],
     "oldName": null
   },
@@ -5338,8 +5338,8 @@ var cleanIcons_3_0 = [
     "name": "ios-return-left-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "return",
+      "left",
       "outline"
     ],
     "oldName": null
@@ -5349,8 +5349,8 @@ var cleanIcons_3_0 = [
     "name": "ios-return-right",
     "tags": [
       "ios",
-      null,
-      null
+      "return",
+      "right"
     ],
     "oldName": null
   },
@@ -5359,8 +5359,8 @@ var cleanIcons_3_0 = [
     "name": "ios-return-right-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "return",
+      "right",
       "outline"
     ],
     "oldName": null
@@ -5371,7 +5371,7 @@ var cleanIcons_3_0 = [
     "oldName": "ios-reverse-camera",
     "tags": [
       "ios",
-      null,
+      "reverse",
       "camera",
       "image",
       "photo"
@@ -5383,7 +5383,7 @@ var cleanIcons_3_0 = [
     "oldName": "ios-reverse-camera-outline",
     "tags": [
       "ios",
-      null,
+      "reverse",
       "camera",
       "image",
       "photo",
@@ -5577,7 +5577,7 @@ var cleanIcons_3_0 = [
     "tags": [
       "ios",
       "share",
-      null
+      "alt"
     ],
     "oldName": null
   },
@@ -5587,7 +5587,7 @@ var cleanIcons_3_0 = [
     "tags": [
       "ios",
       "share",
-      null,
+      "alt",
       "outline"
     ],
     "oldName": null
@@ -5647,8 +5647,8 @@ var cleanIcons_3_0 = [
     "name": "ios-skip-backward",
     "tags": [
       "ios",
-      null,
-      null
+      "skip",
+      "backward"
     ],
     "oldName": null
   },
@@ -5657,8 +5657,8 @@ var cleanIcons_3_0 = [
     "name": "ios-skip-backward-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "skip",
+      "backward",
       "outline"
     ],
     "oldName": null
@@ -5668,8 +5668,8 @@ var cleanIcons_3_0 = [
     "name": "ios-skip-forward",
     "tags": [
       "ios",
-      null,
-      null
+      "skip",
+      "forward"
     ],
     "oldName": null
   },
@@ -5678,8 +5678,8 @@ var cleanIcons_3_0 = [
     "name": "ios-skip-forward-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "skip",
+      "forward",
       "outline"
     ],
     "oldName": null
@@ -5765,7 +5765,7 @@ var cleanIcons_3_0 = [
       "ios",
       "favorite",
       "star",
-      null
+      "half"
     ]
   },
   {
@@ -5775,7 +5775,7 @@ var cleanIcons_3_0 = [
       "ios",
       "favorite",
       "star",
-      null,
+      "half",
       "outline"
     ],
     "oldName": null
@@ -5937,8 +5937,8 @@ var cleanIcons_3_0 = [
     "name": "ios-tablet-landscape",
     "tags": [
       "ios",
-      null,
-      null
+      "tablet",
+      "landscape"
     ],
     "oldName": null
   },
@@ -5947,8 +5947,8 @@ var cleanIcons_3_0 = [
     "name": "ios-tablet-landscape-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "tablet",
+      "landscape",
       "outline"
     ],
     "oldName": null
@@ -5958,8 +5958,8 @@ var cleanIcons_3_0 = [
     "name": "ios-tablet-portrait",
     "tags": [
       "ios",
-      null,
-      null
+      "tablet",
+      "portrait"
     ],
     "oldName": null
   },
@@ -5968,8 +5968,8 @@ var cleanIcons_3_0 = [
     "name": "ios-tablet-portrait-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "tablet",
+      "portrait",
       "outline"
     ],
     "oldName": null
@@ -6046,8 +6046,8 @@ var cleanIcons_3_0 = [
     "name": "ios-thumbs-down",
     "tags": [
       "ios",
-      null,
-      null
+      "thumbs",
+      "down"
     ],
     "oldName": null
   },
@@ -6056,8 +6056,8 @@ var cleanIcons_3_0 = [
     "name": "ios-thumbs-down-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "thumbs",
+      "down",
       "outline"
     ],
     "oldName": null
@@ -6067,8 +6067,8 @@ var cleanIcons_3_0 = [
     "name": "ios-thumbs-up",
     "tags": [
       "ios",
-      null,
-      null
+      "thumbs",
+      "up"
     ],
     "oldName": null
   },
@@ -6077,8 +6077,8 @@ var cleanIcons_3_0 = [
     "name": "ios-thumbs-up-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "thumbs",
+      "up",
       "outline"
     ],
     "oldName": null
@@ -6236,8 +6236,8 @@ var cleanIcons_3_0 = [
     "name": "ios-trending-down",
     "tags": [
       "ios",
-      null,
-      null
+      "trending",
+      "down"
     ],
     "oldName": null
   },
@@ -6246,8 +6246,8 @@ var cleanIcons_3_0 = [
     "name": "ios-trending-down-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "trending",
+      "down",
       "outline"
     ],
     "oldName": null
@@ -6257,8 +6257,8 @@ var cleanIcons_3_0 = [
     "name": "ios-trending-up",
     "tags": [
       "ios",
-      null,
-      null
+      "trending",
+      "up"
     ],
     "oldName": null
   },
@@ -6267,8 +6267,8 @@ var cleanIcons_3_0 = [
     "name": "ios-trending-up-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "trending",
+      "up",
       "outline"
     ],
     "oldName": null
@@ -6399,8 +6399,8 @@ var cleanIcons_3_0 = [
     "name": "ios-volume-down",
     "tags": [
       "ios",
-      null,
-      null
+      "volume",
+      "down"
     ],
     "oldName": null
   },
@@ -6409,8 +6409,8 @@ var cleanIcons_3_0 = [
     "name": "ios-volume-down-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "volume",
+      "down",
       "outline"
     ],
     "oldName": null
@@ -6420,8 +6420,8 @@ var cleanIcons_3_0 = [
     "name": "ios-volume-mute",
     "tags": [
       "ios",
-      null,
-      null
+      "volume",
+      "mute"
     ],
     "oldName": null
   },
@@ -6430,8 +6430,8 @@ var cleanIcons_3_0 = [
     "name": "ios-volume-mute-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "volume",
+      "mute",
       "outline"
     ],
     "oldName": null
@@ -6441,8 +6441,8 @@ var cleanIcons_3_0 = [
     "name": "ios-volume-off",
     "tags": [
       "ios",
-      null,
-      null
+      "volume",
+      "off"
     ],
     "oldName": null
   },
@@ -6451,8 +6451,8 @@ var cleanIcons_3_0 = [
     "name": "ios-volume-off-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "volume",
+      "off",
       "outline"
     ],
     "oldName": null
@@ -6462,8 +6462,8 @@ var cleanIcons_3_0 = [
     "name": "ios-volume-up",
     "tags": [
       "ios",
-      null,
-      null
+      "volume",
+      "up"
     ],
     "oldName": null
   },
@@ -6472,8 +6472,8 @@ var cleanIcons_3_0 = [
     "name": "ios-volume-up-outline",
     "tags": [
       "ios",
-      null,
-      null,
+      "volume",
+      "up",
       "outline"
     ],
     "oldName": null
@@ -6772,8 +6772,8 @@ var cleanIcons_3_0 = [
     "name": "logo-freebsd-devil",
     "oldName": "social-freebsd-devil",
     "tags": [
-      null,
-      null
+      "freebsd",
+      "devil"
     ]
   },
   {
@@ -7139,7 +7139,7 @@ var cleanIcons_3_0 = [
       "include",
       "invite",
       "plus",
-      null
+      "circle"
     ]
   },
   {
@@ -7182,7 +7182,7 @@ var cleanIcons_3_0 = [
     "name": "md-american-football",
     "tags": [
       "md",
-      null,
+      "american",
       "football"
     ],
     "oldName": null
@@ -7249,8 +7249,8 @@ var cleanIcons_3_0 = [
     "oldName": "android-arrow-back",
     "tags": [
       "md",
-      null,
-      null
+      "arrow",
+      "back"
     ]
   },
   {
@@ -7259,8 +7259,8 @@ var cleanIcons_3_0 = [
     "oldName": "android-arrow-down",
     "tags": [
       "md",
-      null,
-      null
+      "arrow",
+      "down"
     ]
   },
   {
@@ -7269,8 +7269,8 @@ var cleanIcons_3_0 = [
     "oldName": "android-arrow-dropdown",
     "tags": [
       "md",
-      null,
-      null
+      "arrow",
+      "dropdown"
     ]
   },
   {
@@ -7279,9 +7279,9 @@ var cleanIcons_3_0 = [
     "oldName": "android-arrow-dropdown-circle",
     "tags": [
       "md",
-      null,
-      null,
-      null
+      "arrow",
+      "dropdown",
+      "circle"
     ]
   },
   {
@@ -7290,8 +7290,8 @@ var cleanIcons_3_0 = [
     "oldName": "android-arrow-dropleft",
     "tags": [
       "md",
-      null,
-      null
+      "arrow",
+      "dropleft"
     ]
   },
   {
@@ -7300,9 +7300,9 @@ var cleanIcons_3_0 = [
     "oldName": "android-arrow-dropleft-circle",
     "tags": [
       "md",
-      null,
-      null,
-      null
+      "arrow",
+      "dropleft",
+      "circle"
     ]
   },
   {
@@ -7311,8 +7311,8 @@ var cleanIcons_3_0 = [
     "oldName": "android-arrow-dropright",
     "tags": [
       "md",
-      null,
-      null
+      "arrow",
+      "dropright"
     ]
   },
   {
@@ -7321,9 +7321,9 @@ var cleanIcons_3_0 = [
     "oldName": "android-arrow-dropright-circle",
     "tags": [
       "md",
-      null,
-      null,
-      null
+      "arrow",
+      "dropright",
+      "circle"
     ]
   },
   {
@@ -7332,8 +7332,8 @@ var cleanIcons_3_0 = [
     "oldName": "android-arrow-dropup",
     "tags": [
       "md",
-      null,
-      null
+      "arrow",
+      "dropup"
     ]
   },
   {
@@ -7342,9 +7342,9 @@ var cleanIcons_3_0 = [
     "oldName": "android-arrow-dropup-circle",
     "tags": [
       "md",
-      null,
-      null,
-      null
+      "arrow",
+      "dropup",
+      "circle"
     ]
   },
   {
@@ -7353,8 +7353,8 @@ var cleanIcons_3_0 = [
     "oldName": "android-arrow-forward",
     "tags": [
       "md",
-      null,
-      null
+      "arrow",
+      "forward"
     ]
   },
   {
@@ -7362,9 +7362,9 @@ var cleanIcons_3_0 = [
     "name": "md-arrow-round-back",
     "tags": [
       "md",
-      null,
-      null,
-      null
+      "arrow",
+      "round",
+      "back"
     ],
     "oldName": null
   },
@@ -7373,9 +7373,9 @@ var cleanIcons_3_0 = [
     "name": "md-arrow-round-down",
     "tags": [
       "md",
-      null,
-      null,
-      null
+      "arrow",
+      "round",
+      "down"
     ],
     "oldName": null
   },
@@ -7384,9 +7384,9 @@ var cleanIcons_3_0 = [
     "name": "md-arrow-round-forward",
     "tags": [
       "md",
-      null,
-      null,
-      null
+      "arrow",
+      "round",
+      "forward"
     ],
     "oldName": null
   },
@@ -7395,9 +7395,9 @@ var cleanIcons_3_0 = [
     "name": "md-arrow-round-up",
     "tags": [
       "md",
-      null,
-      null,
-      null
+      "arrow",
+      "round",
+      "up"
     ],
     "oldName": null
   },
@@ -7407,8 +7407,8 @@ var cleanIcons_3_0 = [
     "oldName": "android-arrow-up",
     "tags": [
       "md",
-      null,
-      null
+      "arrow",
+      "up"
     ]
   },
   {
@@ -7482,8 +7482,8 @@ var cleanIcons_3_0 = [
     "name": "md-battery-charging",
     "tags": [
       "md",
-      null,
-      null
+      "battery",
+      "charging"
     ],
     "oldName": null
   },
@@ -7492,8 +7492,8 @@ var cleanIcons_3_0 = [
     "name": "md-battery-dead",
     "tags": [
       "md",
-      null,
-      null
+      "battery",
+      "dead"
     ],
     "oldName": null
   },
@@ -7502,8 +7502,8 @@ var cleanIcons_3_0 = [
     "name": "md-battery-full",
     "tags": [
       "md",
-      null,
-      null
+      "battery",
+      "full"
     ],
     "oldName": null
   },
@@ -7850,7 +7850,7 @@ var cleanIcons_3_0 = [
     "tags": [
       "md",
       "checkmark",
-      null
+      "circle"
     ]
   },
   {
@@ -7859,7 +7859,7 @@ var cleanIcons_3_0 = [
     "tags": [
       "md",
       "checkmark",
-      null,
+      "circle",
       "outline"
     ],
     "oldName": null
@@ -7903,7 +7903,7 @@ var cleanIcons_3_0 = [
       "close",
       "delete",
       "remove",
-      null
+      "circle"
     ],
     "oldName": null
   },
@@ -7912,8 +7912,8 @@ var cleanIcons_3_0 = [
     "name": "md-closed-captioning",
     "tags": [
       "md",
-      null,
-      null
+      "closed",
+      "captioning"
     ],
     "oldName": null
   },
@@ -7939,7 +7939,7 @@ var cleanIcons_3_0 = [
       "storage",
       "weather",
       "whether",
-      null
+      "circle"
     ]
   },
   {
@@ -7952,7 +7952,7 @@ var cleanIcons_3_0 = [
       "storage",
       "weather",
       "whether",
-      null
+      "done"
     ]
   },
   {
@@ -7991,7 +7991,7 @@ var cleanIcons_3_0 = [
       "storage",
       "weather",
       "whether",
-      null
+      "upload"
     ],
     "oldName": null
   },
@@ -8016,7 +8016,7 @@ var cleanIcons_3_0 = [
       "overcast",
       "weather",
       "whether",
-      null
+      "night"
     ],
     "oldName": null
   },
@@ -8055,7 +8055,7 @@ var cleanIcons_3_0 = [
       "develop",
       "hacker",
       "program",
-      null
+      "working"
     ],
     "oldName": null
   },
@@ -8076,8 +8076,8 @@ var cleanIcons_3_0 = [
     "name": "md-color-fill",
     "tags": [
       "md",
-      null,
-      null
+      "color",
+      "fill"
     ],
     "oldName": null
   },
@@ -8086,8 +8086,8 @@ var cleanIcons_3_0 = [
     "name": "md-color-filter",
     "tags": [
       "md",
-      null,
-      null
+      "color",
+      "filter"
     ],
     "oldName": null
   },
@@ -8097,8 +8097,8 @@ var cleanIcons_3_0 = [
     "oldName": "android-color-palette",
     "tags": [
       "md",
-      null,
-      null
+      "color",
+      "palette"
     ]
   },
   {
@@ -8106,8 +8106,8 @@ var cleanIcons_3_0 = [
     "name": "md-color-wand",
     "tags": [
       "md",
-      null,
-      null
+      "color",
+      "wand"
     ],
     "oldName": null
   },
@@ -8264,8 +8264,8 @@ var cleanIcons_3_0 = [
     "oldName": "android-done-all",
     "tags": [
       "md",
-      null,
-      null
+      "done",
+      "all"
     ]
   },
   {
@@ -8341,7 +8341,7 @@ var cleanIcons_3_0 = [
       "look",
       "see",
       "view",
-      null
+      "off"
     ],
     "oldName": null
   },
@@ -8393,7 +8393,7 @@ var cleanIcons_3_0 = [
     "name": "md-finger-print",
     "tags": [
       "md",
-      null,
+      "finger",
       "print"
     ],
     "oldName": null
@@ -8499,9 +8499,9 @@ var cleanIcons_3_0 = [
     "name": "md-game-controller-a",
     "tags": [
       "md",
-      null,
-      null,
-      null
+      "game",
+      "controller",
+      "a"
     ],
     "oldName": null
   },
@@ -8510,9 +8510,9 @@ var cleanIcons_3_0 = [
     "name": "md-game-controller-b",
     "tags": [
       "md",
-      null,
-      null,
-      null
+      "game",
+      "controller",
+      "b"
     ],
     "oldName": null
   },
@@ -8521,8 +8521,8 @@ var cleanIcons_3_0 = [
     "name": "md-git-branch",
     "tags": [
       "md",
-      null,
-      null
+      "git",
+      "branch"
     ],
     "oldName": null
   },
@@ -8531,8 +8531,8 @@ var cleanIcons_3_0 = [
     "name": "md-git-commit",
     "tags": [
       "md",
-      null,
-      null
+      "git",
+      "commit"
     ],
     "oldName": null
   },
@@ -8541,8 +8541,8 @@ var cleanIcons_3_0 = [
     "name": "md-git-compare",
     "tags": [
       "md",
-      null,
-      null
+      "git",
+      "compare"
     ],
     "oldName": null
   },
@@ -8551,8 +8551,8 @@ var cleanIcons_3_0 = [
     "name": "md-git-merge",
     "tags": [
       "md",
-      null,
-      null
+      "git",
+      "merge"
     ],
     "oldName": null
   },
@@ -8561,8 +8561,8 @@ var cleanIcons_3_0 = [
     "name": "md-git-network",
     "tags": [
       "md",
-      null,
-      null
+      "git",
+      "network"
     ],
     "oldName": null
   },
@@ -8571,9 +8571,9 @@ var cleanIcons_3_0 = [
     "name": "md-git-pull-request",
     "tags": [
       "md",
-      null,
-      null,
-      null
+      "git",
+      "pull",
+      "request"
     ],
     "oldName": null
   },
@@ -8695,7 +8695,7 @@ var cleanIcons_3_0 = [
       "help",
       "information",
       "question",
-      null
+      "buoy"
     ],
     "oldName": null
   },
@@ -8708,7 +8708,7 @@ var cleanIcons_3_0 = [
       "help",
       "information",
       "question",
-      null
+      "circle"
     ],
     "oldName": null
   },
@@ -8727,8 +8727,8 @@ var cleanIcons_3_0 = [
     "name": "md-ice-cream",
     "tags": [
       "md",
-      null,
-      null
+      "ice",
+      "cream"
     ],
     "oldName": null
   },
@@ -8783,7 +8783,7 @@ var cleanIcons_3_0 = [
       "help",
       "information",
       "knowledge",
-      null
+      "circle"
     ],
     "oldName": null
   },
@@ -8893,7 +8893,7 @@ var cleanIcons_3_0 = [
     "tags": [
       "md",
       "list",
-      null
+      "box"
     ],
     "oldName": null
   },
@@ -8923,8 +8923,8 @@ var cleanIcons_3_0 = [
     "name": "md-log-in",
     "tags": [
       "md",
-      null,
-      null
+      "log",
+      "in"
     ],
     "oldName": null
   },
@@ -8933,8 +8933,8 @@ var cleanIcons_3_0 = [
     "name": "md-log-out",
     "tags": [
       "md",
-      null,
-      null
+      "log",
+      "out"
     ],
     "oldName": null
   },
@@ -9081,7 +9081,7 @@ var cleanIcons_3_0 = [
       "sound",
       "speaker",
       "talk",
-      null
+      "off"
     ],
     "oldName": null
   },
@@ -9135,8 +9135,8 @@ var cleanIcons_3_0 = [
     "name": "md-musical-note",
     "tags": [
       "md",
-      null,
-      null
+      "musical",
+      "note"
     ],
     "oldName": null
   },
@@ -9145,8 +9145,8 @@ var cleanIcons_3_0 = [
     "name": "md-musical-notes",
     "tags": [
       "md",
-      null,
-      null
+      "musical",
+      "notes"
     ],
     "oldName": null
   },
@@ -9168,8 +9168,8 @@ var cleanIcons_3_0 = [
     "name": "md-no-smoking",
     "tags": [
       "md",
-      null,
-      null
+      "no",
+      "smoking"
     ],
     "oldName": null
   },
@@ -9189,7 +9189,7 @@ var cleanIcons_3_0 = [
     "tags": [
       "md",
       "notifications",
-      null
+      "off"
     ]
   },
   {
@@ -9283,7 +9283,7 @@ var cleanIcons_3_0 = [
     "name": "md-partly-sunny",
     "tags": [
       "md",
-      null,
+      "partly",
       "light",
       "sky",
       "sunny",
@@ -9364,8 +9364,8 @@ var cleanIcons_3_0 = [
     "oldName": "android-phone-landscape",
     "tags": [
       "md",
-      null,
-      null
+      "phone",
+      "landscape"
     ]
   },
   {
@@ -9374,8 +9374,8 @@ var cleanIcons_3_0 = [
     "oldName": "android-phone-portrait",
     "tags": [
       "md",
-      null,
-      null
+      "phone",
+      "portrait"
     ]
   },
   {
@@ -9551,8 +9551,8 @@ var cleanIcons_3_0 = [
     "name": "md-qr-scanner",
     "tags": [
       "md",
-      null,
-      null
+      "qr",
+      "scanner"
     ],
     "oldName": null
   },
@@ -9583,8 +9583,8 @@ var cleanIcons_3_0 = [
     "tags": [
       "md",
       "radio",
-      null,
-      null
+      "button",
+      "off"
     ]
   },
   {
@@ -9594,8 +9594,8 @@ var cleanIcons_3_0 = [
     "tags": [
       "md",
       "radio",
-      null,
-      null
+      "button",
+      "on"
     ]
   },
   {
@@ -9654,7 +9654,7 @@ var cleanIcons_3_0 = [
       "reload",
       "renew",
       "reset",
-      null
+      "circle"
     ],
     "oldName": null
   },
@@ -9678,7 +9678,7 @@ var cleanIcons_3_0 = [
       "minus",
       "remove",
       "subtract",
-      null
+      "circle"
     ]
   },
   {
@@ -9722,8 +9722,8 @@ var cleanIcons_3_0 = [
     "name": "md-return-left",
     "tags": [
       "md",
-      null,
-      null
+      "return",
+      "left"
     ],
     "oldName": null
   },
@@ -9732,8 +9732,8 @@ var cleanIcons_3_0 = [
     "name": "md-return-right",
     "tags": [
       "md",
-      null,
-      null
+      "return",
+      "right"
     ],
     "oldName": null
   },
@@ -9742,7 +9742,7 @@ var cleanIcons_3_0 = [
     "name": "md-reverse-camera",
     "tags": [
       "md",
-      null,
+      "reverse",
       "camera",
       "image",
       "photo"
@@ -9847,7 +9847,7 @@ var cleanIcons_3_0 = [
     "tags": [
       "md",
       "share",
-      null
+      "alt"
     ]
   },
   {
@@ -9874,8 +9874,8 @@ var cleanIcons_3_0 = [
     "name": "md-skip-backward",
     "tags": [
       "md",
-      null,
-      null
+      "skip",
+      "backward"
     ],
     "oldName": null
   },
@@ -9884,8 +9884,8 @@ var cleanIcons_3_0 = [
     "name": "md-skip-forward",
     "tags": [
       "md",
-      null,
-      null
+      "skip",
+      "forward"
     ],
     "oldName": null
   },
@@ -9947,7 +9947,7 @@ var cleanIcons_3_0 = [
       "md",
       "favorite",
       "star",
-      null
+      "half"
     ]
   },
   {
@@ -10033,8 +10033,8 @@ var cleanIcons_3_0 = [
     "name": "md-tablet-landscape",
     "tags": [
       "md",
-      null,
-      null
+      "tablet",
+      "landscape"
     ],
     "oldName": null
   },
@@ -10043,8 +10043,8 @@ var cleanIcons_3_0 = [
     "name": "md-tablet-portrait",
     "tags": [
       "md",
-      null,
-      null
+      "tablet",
+      "portrait"
     ],
     "oldName": null
   },
@@ -10085,8 +10085,8 @@ var cleanIcons_3_0 = [
     "name": "md-thumbs-down",
     "tags": [
       "md",
-      null,
-      null
+      "thumbs",
+      "down"
     ],
     "oldName": null
   },
@@ -10095,8 +10095,8 @@ var cleanIcons_3_0 = [
     "name": "md-thumbs-up",
     "tags": [
       "md",
-      null,
-      null
+      "thumbs",
+      "up"
     ],
     "oldName": null
   },
@@ -10176,8 +10176,8 @@ var cleanIcons_3_0 = [
     "name": "md-trending-down",
     "tags": [
       "md",
-      null,
-      null
+      "trending",
+      "down"
     ],
     "oldName": null
   },
@@ -10186,8 +10186,8 @@ var cleanIcons_3_0 = [
     "name": "md-trending-up",
     "tags": [
       "md",
-      null,
-      null
+      "trending",
+      "up"
     ],
     "oldName": null
   },
@@ -10255,8 +10255,8 @@ var cleanIcons_3_0 = [
     "oldName": "android-volume-down",
     "tags": [
       "md",
-      null,
-      null
+      "volume",
+      "down"
     ]
   },
   {
@@ -10265,8 +10265,8 @@ var cleanIcons_3_0 = [
     "oldName": "android-volume-mute",
     "tags": [
       "md",
-      null,
-      null
+      "volume",
+      "mute"
     ]
   },
   {
@@ -10275,8 +10275,8 @@ var cleanIcons_3_0 = [
     "oldName": "android-volume-off",
     "tags": [
       "md",
-      null,
-      null
+      "volume",
+      "off"
     ]
   },
   {
@@ -10285,8 +10285,8 @@ var cleanIcons_3_0 = [
     "oldName": "android-volume-up",
     "tags": [
       "md",
-      null,
-      null
+      "volume",
+      "up"
     ]
   },
   {
@@ -10359,4 +10359,4 @@ var cleanIcons_3_0 = [
     ],
     "oldName": null
   }
-]
+];
