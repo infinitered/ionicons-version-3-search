@@ -271,7 +271,9 @@ var cleanIcons_3_0 = [
       "arrow",
       "back"
     ],
-    "communityTags": []
+    "communityTags": [
+      "chevron"
+    ]
   },
   {
     "code": "0xf3cf",
@@ -282,7 +284,9 @@ var cleanIcons_3_0 = [
       "back",
       "outline"
     ],
-    "communityTags": []
+    "communityTags": [
+      "chevron"
+    ]
   },
   {
     "code": "0xf3d0",
@@ -292,7 +296,9 @@ var cleanIcons_3_0 = [
       "arrow",
       "down"
     ],
-    "communityTags": []
+    "communityTags": [
+      "chevron"
+    ]
   },
   {
     "code": "0xf3d0",
@@ -303,7 +309,9 @@ var cleanIcons_3_0 = [
       "down",
       "outline"
     ],
-    "communityTags": []
+    "communityTags": [
+      "chevron"
+    ]
   },
   {
     "code": "0xf110",
@@ -313,7 +321,9 @@ var cleanIcons_3_0 = [
       "arrow",
       "dropdown"
     ],
-    "communityTags": []
+    "communityTags": [
+      "chevron"
+    ]
   },
   {
     "code": "0xf10f",
@@ -324,7 +334,9 @@ var cleanIcons_3_0 = [
       "dropdown",
       "circle"
     ],
-    "communityTags": []
+    "communityTags": [
+      "chevron"
+    ]
   },
   {
     "code": "0xf10f",
@@ -336,7 +348,9 @@ var cleanIcons_3_0 = [
       "circle",
       "outline"
     ],
-    "communityTags": []
+    "communityTags": [
+      "chevron"
+    ]
   },
   {
     "code": "0xf110",
@@ -347,7 +361,9 @@ var cleanIcons_3_0 = [
       "dropdown",
       "outline"
     ],
-    "communityTags": []
+    "communityTags": [
+      "chevron"
+    ]
   },
   {
     "code": "0xf112",
@@ -357,7 +373,9 @@ var cleanIcons_3_0 = [
       "arrow",
       "dropleft"
     ],
-    "communityTags": []
+    "communityTags": [
+      "chevron"
+    ]
   },
   {
     "code": "0xf111",
@@ -368,7 +386,9 @@ var cleanIcons_3_0 = [
       "dropleft",
       "circle"
     ],
-    "communityTags": []
+    "communityTags": [
+      "chevron"
+    ]
   },
   {
     "code": "0xf111",
@@ -380,7 +400,9 @@ var cleanIcons_3_0 = [
       "circle",
       "outline"
     ],
-    "communityTags": []
+    "communityTags": [
+      "chevron"
+    ]
   },
   {
     "code": "0xf112",
@@ -391,7 +413,9 @@ var cleanIcons_3_0 = [
       "dropleft",
       "outline"
     ],
-    "communityTags": []
+    "communityTags": [
+      "chevron"
+    ]
   },
   {
     "code": "0xf114",
@@ -401,7 +425,9 @@ var cleanIcons_3_0 = [
       "arrow",
       "dropright"
     ],
-    "communityTags": []
+    "communityTags": [
+      "chevron"
+    ]
   },
   {
     "code": "0xf113",
@@ -412,7 +438,9 @@ var cleanIcons_3_0 = [
       "dropright",
       "circle"
     ],
-    "communityTags": []
+    "communityTags": [
+      "chevron"
+    ]
   },
   {
     "code": "0xf113",
@@ -424,7 +452,9 @@ var cleanIcons_3_0 = [
       "circle",
       "outline"
     ],
-    "communityTags": []
+    "communityTags": [
+      "chevron"
+    ]
   },
   {
     "code": "0xf114",
@@ -435,7 +465,9 @@ var cleanIcons_3_0 = [
       "dropright",
       "outline"
     ],
-    "communityTags": []
+    "communityTags": [
+      "chevron"
+    ]
   },
   {
     "code": "0xf116",
@@ -445,7 +477,9 @@ var cleanIcons_3_0 = [
       "arrow",
       "dropup"
     ],
-    "communityTags": []
+    "communityTags": [
+      "chevron"
+    ]
   },
   {
     "code": "0xf115",
@@ -456,7 +490,9 @@ var cleanIcons_3_0 = [
       "dropup",
       "circle"
     ],
-    "communityTags": []
+    "communityTags": [
+      "chevron"
+    ]
   },
   {
     "code": "0xf115",
@@ -468,7 +504,9 @@ var cleanIcons_3_0 = [
       "circle",
       "outline"
     ],
-    "communityTags": []
+    "communityTags": [
+      "chevron"
+    ]
   },
   {
     "code": "0xf116",
@@ -479,7 +517,9 @@ var cleanIcons_3_0 = [
       "dropup",
       "outline"
     ],
-    "communityTags": []
+    "communityTags": [
+      "chevron"
+    ]
   },
   {
     "code": "0xf3d1",
@@ -489,7 +529,9 @@ var cleanIcons_3_0 = [
       "arrow",
       "forward"
     ],
-    "communityTags": []
+    "communityTags": [
+      "chevron"
+    ]
   },
   {
     "code": "0xf3d1",
@@ -500,7 +542,9 @@ var cleanIcons_3_0 = [
       "forward",
       "outline"
     ],
-    "communityTags": []
+    "communityTags": [
+      "chevron"
+    ]
   },
   {
     "code": "0xf117",
@@ -602,7 +646,9 @@ var cleanIcons_3_0 = [
       "arrow",
       "up"
     ],
-    "communityTags": []
+    "communityTags": [
+      "chevron"
+    ]
   },
   {
     "code": "0xf3d8",
@@ -613,7 +659,9 @@ var cleanIcons_3_0 = [
       "up",
       "outline"
     ],
-    "communityTags": []
+    "communityTags": [
+      "chevron"
+    ]
   },
   {
     "code": "0xf3da",
