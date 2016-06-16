@@ -9,6 +9,11 @@
   width: 220px;
   display: flex;
   align-items: center;
+  cursor: pointer;
+
+  &:hover, &:hover .name {
+    color: #bbb;
+  }
 
   i {
     font-size: 2em;
