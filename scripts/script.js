@@ -78,7 +78,7 @@ var SearchForm = React.createClass({
 var IconModal = React.createClass({
   render: function(){
     var icon = this.props.icon,
-        fullHTML = '<i class="icon ' + icon.name + 'ion-home"></i>';
+        fullHTML = '<i class="icon ion-' + icon.name + '"></i>';
 
     return (
       <div className="modal fade" id="iconModal" tabindex="-1" role="dialog" aria-labelledby="iconModalLabel">
@@ -174,9 +174,16 @@ var Main = React.createClass({
 
     if (filterTextLower !== ''){
       icons = icons.filter(function(icon){
-        var inName = icon.name.indexOf(filterTextLower) !== -1;
-        var inTags = icon.tags.join(' ').indexOf(filterTextLower) !== -1;
-        return (inName || inTags);
+        var filterWords = filterTextLower.split('-'),
+            nameAndTags = icon.name + '-' + icon.tags.join(' ') + '-' + icon.communityTags.join(' ');
+
+        for (var i = 0; i < filterWords.length; i++) {
+          if (nameAndTags.indexOf(filterWords[i]) === -1){
+            return false;
+          }
+        }
+        // return (nameAndTags.indexOf(filterTextLower) !== -1);
+        return true;
       });
     }
 

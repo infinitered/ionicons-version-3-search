@@ -1,4 +1,4 @@
-
+// Version 3.0 tag data from https://github.com/driftyco/ionicons/blob/3.0/builder/tags.json
 var tags3_0 = {
   "add": [
     "add",
