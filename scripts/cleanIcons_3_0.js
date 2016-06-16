@@ -2913,7 +2913,9 @@ var cleanIcons_3_0 = [
       "git",
       "branch"
     ],
-    "communityTags": []
+    "communityTags": [
+      "fork"
+    ]
   },
   {
     "code": "0xf183",
@@ -2924,7 +2926,9 @@ var cleanIcons_3_0 = [
       "branch",
       "outline"
     ],
-    "communityTags": []
+    "communityTags": [
+      "fork"
+    ]
   },
   {
     "code": "0xf184",
@@ -8572,7 +8576,9 @@ var cleanIcons_3_0 = [
       "git",
       "branch"
     ],
-    "communityTags": []
+    "communityTags": [
+      "fork"
+    ]
   },
   {
     "code": "0xf2fb",
