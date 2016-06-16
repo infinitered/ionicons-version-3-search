@@ -1,4 +1,4 @@
-// Output after running InitialDataCleanUp
+// Output after merging and cleaning up data
 var cleanIcons_3_0 = [
   {
     "code": "0xf102",
@@ -10,7 +10,7 @@ var cleanIcons_3_0 = [
       "invite",
       "plus"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf101",
@@ -23,7 +23,7 @@ var cleanIcons_3_0 = [
       "plus",
       "circle"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf100",
@@ -37,7 +37,7 @@ var cleanIcons_3_0 = [
       "circle",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf102",
@@ -50,43 +50,42 @@ var cleanIcons_3_0 = [
       "plus",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf3c8",
     "name": "ios-alarm",
-    "oldName": "ios-alarm",
     "tags": [
       "ios",
       "alarm"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf3c7",
     "name": "ios-alarm-outline",
-    "oldName": "ios-alarm-outline",
     "tags": [
       "ios",
       "alarm",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf3ca",
     "name": "ios-albums",
-    "oldName": "ios-albums",
     "tags": [
       "ios",
       "albums",
       "boxes",
       "slides",
       "square"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf3c9",
     "name": "ios-albums-outline",
-    "oldName": "ios-albums-outline",
     "tags": [
       "ios",
       "albums",
@@ -94,7 +93,8 @@ var cleanIcons_3_0 = [
       "slides",
       "square",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf104",
@@ -108,7 +108,7 @@ var cleanIcons_3_0 = [
       "notice",
       "warning"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf103",
@@ -123,7 +123,7 @@ var cleanIcons_3_0 = [
       "warning",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf106",
@@ -133,7 +133,7 @@ var cleanIcons_3_0 = [
       "american",
       "football"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf105",
@@ -144,24 +144,23 @@ var cleanIcons_3_0 = [
       "football",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf3ce",
     "name": "ios-analytics",
-    "oldName": "ios-analytics",
     "tags": [
       "ios",
       "analytics",
       "data",
       "metrics",
       "track"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf3cd",
     "name": "ios-analytics-outline",
-    "oldName": "ios-analytics-outline",
     "tags": [
       "ios",
       "analytics",
@@ -169,7 +168,8 @@ var cleanIcons_3_0 = [
       "metrics",
       "track",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf108",
@@ -183,7 +183,7 @@ var cleanIcons_3_0 = [
       "light",
       "settings"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf107",
@@ -198,7 +198,7 @@ var cleanIcons_3_0 = [
       "settings",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf10a",
@@ -208,7 +208,7 @@ var cleanIcons_3_0 = [
       "apps",
       "applications"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf109",
@@ -219,7 +219,7 @@ var cleanIcons_3_0 = [
       "applications",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf10c",
@@ -229,7 +229,7 @@ var cleanIcons_3_0 = [
       "appstore",
       "store"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf10b",
@@ -240,7 +240,7 @@ var cleanIcons_3_0 = [
       "store",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf10e",
@@ -250,7 +250,7 @@ var cleanIcons_3_0 = [
       "archive",
       "email"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf10d",
@@ -261,17 +261,17 @@ var cleanIcons_3_0 = [
       "email",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf3cf",
     "name": "ios-arrow-back",
-    "oldName": "ios-arrow-back",
     "tags": [
       "ios",
       "arrow",
       "back"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf3cf",
@@ -282,17 +282,17 @@ var cleanIcons_3_0 = [
       "back",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf3d0",
     "name": "ios-arrow-down",
-    "oldName": "ios-arrow-down",
     "tags": [
       "ios",
       "arrow",
       "down"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf3d0",
@@ -303,7 +303,7 @@ var cleanIcons_3_0 = [
       "down",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf110",
@@ -313,7 +313,7 @@ var cleanIcons_3_0 = [
       "arrow",
       "dropdown"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf10f",
@@ -324,7 +324,7 @@ var cleanIcons_3_0 = [
       "dropdown",
       "circle"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf10f",
@@ -336,7 +336,7 @@ var cleanIcons_3_0 = [
       "circle",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf110",
@@ -347,7 +347,7 @@ var cleanIcons_3_0 = [
       "dropdown",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf112",
@@ -357,7 +357,7 @@ var cleanIcons_3_0 = [
       "arrow",
       "dropleft"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf111",
@@ -368,7 +368,7 @@ var cleanIcons_3_0 = [
       "dropleft",
       "circle"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf111",
@@ -380,7 +380,7 @@ var cleanIcons_3_0 = [
       "circle",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf112",
@@ -391,7 +391,7 @@ var cleanIcons_3_0 = [
       "dropleft",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf114",
@@ -401,7 +401,7 @@ var cleanIcons_3_0 = [
       "arrow",
       "dropright"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf113",
@@ -412,7 +412,7 @@ var cleanIcons_3_0 = [
       "dropright",
       "circle"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf113",
@@ -424,7 +424,7 @@ var cleanIcons_3_0 = [
       "circle",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf114",
@@ -435,7 +435,7 @@ var cleanIcons_3_0 = [
       "dropright",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf116",
@@ -445,7 +445,7 @@ var cleanIcons_3_0 = [
       "arrow",
       "dropup"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf115",
@@ -456,7 +456,7 @@ var cleanIcons_3_0 = [
       "dropup",
       "circle"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf115",
@@ -468,7 +468,7 @@ var cleanIcons_3_0 = [
       "circle",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf116",
@@ -479,17 +479,17 @@ var cleanIcons_3_0 = [
       "dropup",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf3d1",
     "name": "ios-arrow-forward",
-    "oldName": "ios-arrow-forward",
     "tags": [
       "ios",
       "arrow",
       "forward"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf3d1",
@@ -500,7 +500,7 @@ var cleanIcons_3_0 = [
       "forward",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf117",
@@ -511,7 +511,7 @@ var cleanIcons_3_0 = [
       "round",
       "back"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf117",
@@ -523,7 +523,7 @@ var cleanIcons_3_0 = [
       "back",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf118",
@@ -534,7 +534,7 @@ var cleanIcons_3_0 = [
       "round",
       "down"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf118",
@@ -546,7 +546,7 @@ var cleanIcons_3_0 = [
       "down",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf119",
@@ -557,7 +557,7 @@ var cleanIcons_3_0 = [
       "round",
       "forward"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf119",
@@ -569,7 +569,7 @@ var cleanIcons_3_0 = [
       "forward",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf11a",
@@ -580,7 +580,7 @@ var cleanIcons_3_0 = [
       "round",
       "up"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf11a",
@@ -592,17 +592,17 @@ var cleanIcons_3_0 = [
       "up",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf3d8",
     "name": "ios-arrow-up",
-    "oldName": "ios-arrow-up",
     "tags": [
       "ios",
       "arrow",
       "up"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf3d8",
@@ -613,28 +613,28 @@ var cleanIcons_3_0 = [
       "up",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf3da",
     "name": "ios-at",
-    "oldName": "ios-at",
     "tags": [
       "ios",
       "@",
       "at"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf3d9",
     "name": "ios-at-outline",
-    "oldName": "ios-at-outline",
     "tags": [
       "ios",
       "@",
       "at",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf11b",
@@ -643,7 +643,7 @@ var cleanIcons_3_0 = [
       "ios",
       "attach"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf11b",
@@ -653,7 +653,7 @@ var cleanIcons_3_0 = [
       "attach",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf11d",
@@ -662,7 +662,7 @@ var cleanIcons_3_0 = [
       "ios",
       "backspace"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf11c",
@@ -672,49 +672,49 @@ var cleanIcons_3_0 = [
       "backspace",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf3dc",
     "name": "ios-barcode",
-    "oldName": "ios-barcode",
     "tags": [
       "ios",
       "barcode",
       "camera",
       "reader"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf3db",
     "name": "ios-barcode-outline",
-    "oldName": "ios-barcode-outline",
     "tags": [
       "ios",
       "barcode",
       "camera",
       "reader",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf3de",
     "name": "ios-baseball",
-    "oldName": "ios-baseball",
     "tags": [
       "ios",
       "baseball"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf3dd",
     "name": "ios-baseball-outline",
-    "oldName": "ios-baseball-outline",
     "tags": [
       "ios",
       "baseball",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf11f",
@@ -723,7 +723,7 @@ var cleanIcons_3_0 = [
       "ios",
       "basket"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf11e",
@@ -733,26 +733,26 @@ var cleanIcons_3_0 = [
       "basket",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf3e0",
     "name": "ios-basketball",
-    "oldName": "ios-basketball",
     "tags": [
       "ios",
       "basketball"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf3df",
     "name": "ios-basketball-outline",
-    "oldName": "ios-basketball-outline",
     "tags": [
       "ios",
       "basketball",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf120",
@@ -762,7 +762,7 @@ var cleanIcons_3_0 = [
       "battery",
       "charging"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf120",
@@ -773,7 +773,7 @@ var cleanIcons_3_0 = [
       "charging",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf121",
@@ -783,7 +783,7 @@ var cleanIcons_3_0 = [
       "battery",
       "dead"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf121",
@@ -794,7 +794,7 @@ var cleanIcons_3_0 = [
       "dead",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf122",
@@ -804,7 +804,7 @@ var cleanIcons_3_0 = [
       "battery",
       "full"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf122",
@@ -815,7 +815,7 @@ var cleanIcons_3_0 = [
       "full",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf124",
@@ -827,7 +827,7 @@ var cleanIcons_3_0 = [
       "mixture",
       "potion"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf123",
@@ -840,7 +840,7 @@ var cleanIcons_3_0 = [
       "potion",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf126",
@@ -852,7 +852,7 @@ var cleanIcons_3_0 = [
       "eat",
       "food"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf125",
@@ -865,7 +865,7 @@ var cleanIcons_3_0 = [
       "food",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf127",
@@ -874,7 +874,7 @@ var cleanIcons_3_0 = [
       "ios",
       "bicycle"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf127",
@@ -884,7 +884,7 @@ var cleanIcons_3_0 = [
       "bicycle",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf128",
@@ -895,7 +895,7 @@ var cleanIcons_3_0 = [
       "cloud",
       "connection"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf128",
@@ -907,7 +907,7 @@ var cleanIcons_3_0 = [
       "connection",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf12a",
@@ -916,7 +916,7 @@ var cleanIcons_3_0 = [
       "ios",
       "boat"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf129",
@@ -926,26 +926,26 @@ var cleanIcons_3_0 = [
       "boat",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf3e4",
     "name": "ios-body",
-    "oldName": "ios-body",
     "tags": [
       "ios",
       "body"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf3e3",
     "name": "ios-body-outline",
-    "oldName": "ios-body-outline",
     "tags": [
       "ios",
       "body",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf12c",
@@ -956,7 +956,7 @@ var cleanIcons_3_0 = [
       "heat",
       "hot"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf12b",
@@ -968,28 +968,28 @@ var cleanIcons_3_0 = [
       "hot",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf3e8",
     "name": "ios-book",
-    "oldName": "ios-book",
     "tags": [
       "ios",
       "book",
       "read"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf3e7",
     "name": "ios-book-outline",
-    "oldName": "ios-book-outline",
     "tags": [
       "ios",
       "book",
       "read",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf12e",
@@ -1001,7 +1001,7 @@ var cleanIcons_3_0 = [
       "save",
       "tag"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf12d",
@@ -1014,28 +1014,28 @@ var cleanIcons_3_0 = [
       "tag",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf3ea",
     "name": "ios-bookmarks",
-    "oldName": "ios-bookmarks",
     "tags": [
       "ios",
       "bookmarks",
       "favorite"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf3e9",
     "name": "ios-bookmarks-outline",
-    "oldName": "ios-bookmarks-outline",
     "tags": [
       "ios",
       "bookmarks",
       "favorite",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf130",
@@ -1044,7 +1044,7 @@ var cleanIcons_3_0 = [
       "ios",
       "bowtie"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf12f",
@@ -1054,51 +1054,51 @@ var cleanIcons_3_0 = [
       "bowtie",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf3ee",
     "name": "ios-briefcase",
-    "oldName": "ios-briefcase",
     "tags": [
       "ios",
       "briefcase",
       "folder",
       "organize"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf3ed",
     "name": "ios-briefcase-outline",
-    "oldName": "ios-briefcase-outline",
     "tags": [
       "ios",
       "briefcase",
       "folder",
       "organize",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf3f0",
     "name": "ios-browsers",
-    "oldName": "ios-browsers",
     "tags": [
       "ios",
       "browsers",
       "square"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf3ef",
     "name": "ios-browsers-outline",
-    "oldName": "ios-browsers-outline",
     "tags": [
       "ios",
       "browsers",
       "square",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf132",
@@ -1107,7 +1107,7 @@ var cleanIcons_3_0 = [
       "ios",
       "brush"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf131",
@@ -1117,7 +1117,7 @@ var cleanIcons_3_0 = [
       "brush",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf134",
@@ -1130,7 +1130,7 @@ var cleanIcons_3_0 = [
       "hacker",
       "program"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf133",
@@ -1144,7 +1144,7 @@ var cleanIcons_3_0 = [
       "program",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf136",
@@ -1153,7 +1153,7 @@ var cleanIcons_3_0 = [
       "ios",
       "build"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf135",
@@ -1163,7 +1163,7 @@ var cleanIcons_3_0 = [
       "build",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf138",
@@ -1172,7 +1172,7 @@ var cleanIcons_3_0 = [
       "ios",
       "bulb"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf137",
@@ -1182,7 +1182,7 @@ var cleanIcons_3_0 = [
       "bulb",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf13a",
@@ -1191,7 +1191,7 @@ var cleanIcons_3_0 = [
       "ios",
       "bus"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf139",
@@ -1201,7 +1201,7 @@ var cleanIcons_3_0 = [
       "bus",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf13c",
@@ -1210,7 +1210,7 @@ var cleanIcons_3_0 = [
       "ios",
       "cafe"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf13b",
@@ -1220,47 +1220,46 @@ var cleanIcons_3_0 = [
       "cafe",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf3f2",
     "name": "ios-calculator",
-    "oldName": "ios-calculator",
     "tags": [
       "ios",
       "arithmatic",
       "calculator",
       "math"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf3f1",
     "name": "ios-calculator-outline",
-    "oldName": "ios-calculator-outline",
     "tags": [
       "ios",
       "arithmatic",
       "calculator",
       "math",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf3f4",
     "name": "ios-calendar",
-    "oldName": "ios-calendar",
     "tags": [
       "ios",
       "calendar",
       "date",
       "month",
       "week"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf3f3",
     "name": "ios-calendar-outline",
-    "oldName": "ios-calendar-outline",
     "tags": [
       "ios",
       "calendar",
@@ -1268,7 +1267,8 @@ var cleanIcons_3_0 = [
       "month",
       "week",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf13e",
@@ -1278,7 +1278,7 @@ var cleanIcons_3_0 = [
       "call",
       "telephone"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf13d",
@@ -1289,30 +1289,30 @@ var cleanIcons_3_0 = [
       "telephone",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf3f6",
     "name": "ios-camera",
-    "oldName": "ios-camera",
     "tags": [
       "ios",
       "camera",
       "image",
       "photo"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf3f5",
     "name": "ios-camera-outline",
-    "oldName": "ios-camera-outline",
     "tags": [
       "ios",
       "camera",
       "image",
       "photo",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf140",
@@ -1321,7 +1321,7 @@ var cleanIcons_3_0 = [
       "ios",
       "car"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf13f",
@@ -1331,7 +1331,7 @@ var cleanIcons_3_0 = [
       "car",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf142",
@@ -1348,7 +1348,7 @@ var cleanIcons_3_0 = [
       "price",
       "shopping"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf141",
@@ -1366,26 +1366,26 @@ var cleanIcons_3_0 = [
       "shopping",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf3f8",
     "name": "ios-cart",
-    "oldName": "ios-cart",
     "tags": [
       "ios",
       "cart"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf3f7",
     "name": "ios-cart-outline",
-    "oldName": "ios-cart-outline",
     "tags": [
       "ios",
       "cart",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf144",
@@ -1401,7 +1401,7 @@ var cleanIcons_3_0 = [
       "price",
       "shopping"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf143",
@@ -1418,28 +1418,28 @@ var cleanIcons_3_0 = [
       "shopping",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf3fa",
     "name": "ios-chatboxes",
-    "oldName": "ios-chatboxes",
     "tags": [
       "ios",
       "chatboxes",
       "talk"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf3f9",
     "name": "ios-chatboxes-outline",
-    "oldName": "ios-chatboxes-outline",
     "tags": [
       "ios",
       "chatboxes",
       "talk",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf146",
@@ -1449,7 +1449,7 @@ var cleanIcons_3_0 = [
       "chatbubbles",
       "talk"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf145",
@@ -1460,7 +1460,7 @@ var cleanIcons_3_0 = [
       "talk",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf148",
@@ -1469,7 +1469,7 @@ var cleanIcons_3_0 = [
       "ios",
       "checkbox"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf147",
@@ -1479,16 +1479,16 @@ var cleanIcons_3_0 = [
       "checkbox",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf3ff",
     "name": "ios-checkmark",
-    "oldName": "ios-checkmark",
     "tags": [
       "ios",
       "checkmark"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf14a",
@@ -1498,7 +1498,7 @@ var cleanIcons_3_0 = [
       "checkmark",
       "circle"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf149",
@@ -1509,17 +1509,17 @@ var cleanIcons_3_0 = [
       "circle",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf3ff",
     "name": "ios-checkmark-outline",
-    "oldName": "ios-checkmark-outline",
     "tags": [
       "ios",
       "checkmark",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf14c",
@@ -1529,7 +1529,7 @@ var cleanIcons_3_0 = [
       "clipboard",
       "write"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf14b",
@@ -1540,39 +1540,39 @@ var cleanIcons_3_0 = [
       "write",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf403",
     "name": "ios-clock",
-    "oldName": "ios-clock",
     "tags": [
       "ios",
       "clock",
       "time"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf402",
     "name": "ios-clock-outline",
-    "oldName": "ios-clock-outline",
     "tags": [
       "ios",
       "clock",
       "time",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf406",
     "name": "ios-close",
-    "oldName": "ios-close",
     "tags": [
       "ios",
       "close",
       "delete",
       "remove"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf14e",
@@ -1584,7 +1584,7 @@ var cleanIcons_3_0 = [
       "remove",
       "circle"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf14d",
@@ -1597,19 +1597,19 @@ var cleanIcons_3_0 = [
       "circle",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf406",
     "name": "ios-close-outline",
-    "oldName": "ios-close-outline",
     "tags": [
       "ios",
       "close",
       "delete",
       "remove",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf150",
@@ -1619,7 +1619,7 @@ var cleanIcons_3_0 = [
       "closed",
       "captioning"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf14f",
@@ -1630,19 +1630,19 @@ var cleanIcons_3_0 = [
       "captioning",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf40c",
     "name": "ios-cloud",
-    "oldName": "ios-cloud",
     "tags": [
       "ios",
       "cloud",
       "storage",
       "weather",
       "whether"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf152",
@@ -1655,7 +1655,7 @@ var cleanIcons_3_0 = [
       "whether",
       "circle"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf151",
@@ -1669,7 +1669,7 @@ var cleanIcons_3_0 = [
       "circle",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf154",
@@ -1682,7 +1682,7 @@ var cleanIcons_3_0 = [
       "whether",
       "done"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf153",
@@ -1696,12 +1696,11 @@ var cleanIcons_3_0 = [
       "done",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf408",
     "name": "ios-cloud-download",
-    "oldName": "ios-cloud-download",
     "tags": [
       "ios",
       "cloud",
@@ -1710,12 +1709,12 @@ var cleanIcons_3_0 = [
       "whether",
       "download",
       "export"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf407",
     "name": "ios-cloud-download-outline",
-    "oldName": "ios-cloud-download-outline",
     "tags": [
       "ios",
       "cloud",
@@ -1725,12 +1724,12 @@ var cleanIcons_3_0 = [
       "download",
       "export",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf409",
     "name": "ios-cloud-outline",
-    "oldName": "ios-cloud-outline",
     "tags": [
       "ios",
       "cloud",
@@ -1738,12 +1737,12 @@ var cleanIcons_3_0 = [
       "weather",
       "whether",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf40b",
     "name": "ios-cloud-upload",
-    "oldName": "ios-cloud-upload",
     "tags": [
       "ios",
       "cloud",
@@ -1751,12 +1750,12 @@ var cleanIcons_3_0 = [
       "weather",
       "whether",
       "upload"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf40a",
     "name": "ios-cloud-upload-outline",
-    "oldName": "ios-cloud-upload-outline",
     "tags": [
       "ios",
       "cloud",
@@ -1765,24 +1764,24 @@ var cleanIcons_3_0 = [
       "whether",
       "upload",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf410",
     "name": "ios-cloudy",
-    "oldName": "ios-cloudy",
     "tags": [
       "ios",
       "cloudy",
       "overcast",
       "weather",
       "whether"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf40e",
     "name": "ios-cloudy-night",
-    "oldName": "ios-cloudy-night",
     "tags": [
       "ios",
       "cloudy",
@@ -1790,12 +1789,12 @@ var cleanIcons_3_0 = [
       "weather",
       "whether",
       "night"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf40d",
     "name": "ios-cloudy-night-outline",
-    "oldName": "ios-cloudy-night-outline",
     "tags": [
       "ios",
       "cloudy",
@@ -1804,12 +1803,12 @@ var cleanIcons_3_0 = [
       "whether",
       "night",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf40f",
     "name": "ios-cloudy-outline",
-    "oldName": "ios-cloudy-outline",
     "tags": [
       "ios",
       "cloudy",
@@ -1817,7 +1816,8 @@ var cleanIcons_3_0 = [
       "weather",
       "whether",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf157",
@@ -1829,7 +1829,7 @@ var cleanIcons_3_0 = [
       "hacker",
       "program"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf155",
@@ -1843,7 +1843,7 @@ var cleanIcons_3_0 = [
       "download",
       "export"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf155",
@@ -1858,7 +1858,7 @@ var cleanIcons_3_0 = [
       "export",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf157",
@@ -1871,7 +1871,7 @@ var cleanIcons_3_0 = [
       "program",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf156",
@@ -1884,7 +1884,7 @@ var cleanIcons_3_0 = [
       "program",
       "working"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf156",
@@ -1898,24 +1898,23 @@ var cleanIcons_3_0 = [
       "working",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf412",
     "name": "ios-cog",
-    "oldName": "ios-cog",
     "tags": [
       "ios",
       "cog",
       "gear",
       "options",
       "settings"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf411",
     "name": "ios-cog-outline",
-    "oldName": "ios-cog-outline",
     "tags": [
       "ios",
       "cog",
@@ -1923,7 +1922,8 @@ var cleanIcons_3_0 = [
       "options",
       "settings",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf159",
@@ -1933,7 +1933,7 @@ var cleanIcons_3_0 = [
       "color",
       "fill"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf158",
@@ -1944,28 +1944,28 @@ var cleanIcons_3_0 = [
       "fill",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf414",
     "name": "ios-color-filter",
-    "oldName": "ios-color-filter",
     "tags": [
       "ios",
       "color",
       "filter"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf413",
     "name": "ios-color-filter-outline",
-    "oldName": "ios-color-filter-outline",
     "tags": [
       "ios",
       "color",
       "filter",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf15b",
@@ -1975,7 +1975,7 @@ var cleanIcons_3_0 = [
       "color",
       "palette"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf15a",
@@ -1986,28 +1986,28 @@ var cleanIcons_3_0 = [
       "palette",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf416",
     "name": "ios-color-wand",
-    "oldName": "ios-color-wand",
     "tags": [
       "ios",
       "color",
       "wand"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf415",
     "name": "ios-color-wand-outline",
-    "oldName": "ios-color-wand-outline",
     "tags": [
       "ios",
       "color",
       "wand",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf15d",
@@ -2019,7 +2019,7 @@ var cleanIcons_3_0 = [
       "location",
       "navigation"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf15c",
@@ -2032,7 +2032,7 @@ var cleanIcons_3_0 = [
       "navigation",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf15f",
@@ -2041,7 +2041,7 @@ var cleanIcons_3_0 = [
       "ios",
       "construct"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf15e",
@@ -2051,30 +2051,30 @@ var cleanIcons_3_0 = [
       "construct",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf41a",
     "name": "ios-contact",
-    "oldName": "ios-contact",
     "tags": [
       "ios",
       "contact",
       "people",
       "users"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf419",
     "name": "ios-contact-outline",
-    "oldName": "ios-contact-outline",
     "tags": [
       "ios",
       "contact",
       "people",
       "users",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf161",
@@ -2085,7 +2085,7 @@ var cleanIcons_3_0 = [
       "people",
       "users"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf160",
@@ -2097,7 +2097,7 @@ var cleanIcons_3_0 = [
       "users",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf162",
@@ -2106,7 +2106,7 @@ var cleanIcons_3_0 = [
       "ios",
       "contract"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf162",
@@ -2116,7 +2116,7 @@ var cleanIcons_3_0 = [
       "contract",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf163",
@@ -2130,7 +2130,7 @@ var cleanIcons_3_0 = [
       "light",
       "settings"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf163",
@@ -2145,30 +2145,30 @@ var cleanIcons_3_0 = [
       "settings",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf41c",
     "name": "ios-copy",
-    "oldName": "ios-copy",
     "tags": [
       "ios",
       "copy",
       "duplicate",
       "paper"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf41b",
     "name": "ios-copy-outline",
-    "oldName": "ios-copy-outline",
     "tags": [
       "ios",
       "copy",
       "duplicate",
       "paper",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf165",
@@ -2177,7 +2177,7 @@ var cleanIcons_3_0 = [
       "ios",
       "create"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf164",
@@ -2187,16 +2187,16 @@ var cleanIcons_3_0 = [
       "create",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf41e",
     "name": "ios-crop",
-    "oldName": "ios-crop",
     "tags": [
       "ios",
       "crop"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf166",
@@ -2206,7 +2206,7 @@ var cleanIcons_3_0 = [
       "crop",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf168",
@@ -2218,7 +2218,7 @@ var cleanIcons_3_0 = [
       "cube",
       "square"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf167",
@@ -2231,7 +2231,7 @@ var cleanIcons_3_0 = [
       "square",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf16a",
@@ -2240,7 +2240,7 @@ var cleanIcons_3_0 = [
       "ios",
       "cut"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf169",
@@ -2250,7 +2250,7 @@ var cleanIcons_3_0 = [
       "cut",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf16c",
@@ -2259,7 +2259,7 @@ var cleanIcons_3_0 = [
       "ios",
       "desktop"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf16b",
@@ -2269,7 +2269,7 @@ var cleanIcons_3_0 = [
       "desktop",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf16e",
@@ -2280,7 +2280,7 @@ var cleanIcons_3_0 = [
       "disc",
       "vinyl"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf16d",
@@ -2292,7 +2292,7 @@ var cleanIcons_3_0 = [
       "vinyl",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf170",
@@ -2303,7 +2303,7 @@ var cleanIcons_3_0 = [
       "file",
       "paper"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf16f",
@@ -2315,7 +2315,7 @@ var cleanIcons_3_0 = [
       "paper",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf171",
@@ -2325,7 +2325,7 @@ var cleanIcons_3_0 = [
       "done",
       "all"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf171",
@@ -2336,28 +2336,28 @@ var cleanIcons_3_0 = [
       "all",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf420",
     "name": "ios-download",
-    "oldName": "ios-download",
     "tags": [
       "ios",
       "download",
       "export"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf41f",
     "name": "ios-download-outline",
-    "oldName": "ios-download-outline",
     "tags": [
       "ios",
       "download",
       "export",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf173",
@@ -2366,7 +2366,7 @@ var cleanIcons_3_0 = [
       "ios",
       "easel"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf172",
@@ -2376,7 +2376,7 @@ var cleanIcons_3_0 = [
       "easel",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf175",
@@ -2389,7 +2389,7 @@ var cleanIcons_3_0 = [
       "egg",
       "twitter"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf174",
@@ -2403,7 +2403,7 @@ var cleanIcons_3_0 = [
       "twitter",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf177",
@@ -2412,7 +2412,7 @@ var cleanIcons_3_0 = [
       "ios",
       "exit"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf176",
@@ -2422,7 +2422,7 @@ var cleanIcons_3_0 = [
       "exit",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf178",
@@ -2431,7 +2431,7 @@ var cleanIcons_3_0 = [
       "ios",
       "expand"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf178",
@@ -2441,12 +2441,11 @@ var cleanIcons_3_0 = [
       "expand",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf425",
     "name": "ios-eye",
-    "oldName": "ios-eye",
     "tags": [
       "ios",
       "exposed",
@@ -2454,7 +2453,8 @@ var cleanIcons_3_0 = [
       "look",
       "see",
       "view"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf17a",
@@ -2468,7 +2468,7 @@ var cleanIcons_3_0 = [
       "view",
       "off"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf179",
@@ -2483,12 +2483,11 @@ var cleanIcons_3_0 = [
       "off",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf424",
     "name": "ios-eye-outline",
-    "oldName": "ios-eye-outline",
     "tags": [
       "ios",
       "exposed",
@@ -2497,24 +2496,24 @@ var cleanIcons_3_0 = [
       "see",
       "view",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf427",
     "name": "ios-fastforward",
-    "oldName": "ios-fastforward",
     "tags": [
       "ios",
       "fastforward",
       "jump",
       "next",
       "skip"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf426",
     "name": "ios-fastforward-outline",
-    "oldName": "ios-fastforward-outline",
     "tags": [
       "ios",
       "fastforward",
@@ -2522,7 +2521,8 @@ var cleanIcons_3_0 = [
       "next",
       "skip",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf17b",
@@ -2534,7 +2534,7 @@ var cleanIcons_3_0 = [
       "girl",
       "lady"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf17b",
@@ -2547,47 +2547,47 @@ var cleanIcons_3_0 = [
       "lady",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf429",
     "name": "ios-filing",
-    "oldName": "ios-filing",
     "tags": [
       "ios",
       "archive",
       "filing"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf428",
     "name": "ios-filing-outline",
-    "oldName": "ios-filing-outline",
     "tags": [
       "ios",
       "archive",
       "filing",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf42b",
     "name": "ios-film",
-    "oldName": "ios-film",
     "tags": [
       "ios",
       "film"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf42a",
     "name": "ios-film-outline",
-    "oldName": "ios-film-outline",
     "tags": [
       "ios",
       "film",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf17c",
@@ -2597,7 +2597,7 @@ var cleanIcons_3_0 = [
       "finger",
       "print"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf17c",
@@ -2608,47 +2608,46 @@ var cleanIcons_3_0 = [
       "print",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf42d",
     "name": "ios-flag",
-    "oldName": "ios-flag",
     "tags": [
       "ios",
       "favorite",
       "flag",
       "marker"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf42c",
     "name": "ios-flag-outline",
-    "oldName": "ios-flag-outline",
     "tags": [
       "ios",
       "favorite",
       "flag",
       "marker",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf42f",
     "name": "ios-flame",
-    "oldName": "ios-flame",
     "tags": [
       "ios",
       "fire",
       "flame",
       "heat",
       "hot"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf42e",
     "name": "ios-flame-outline",
-    "oldName": "ios-flame-outline",
     "tags": [
       "ios",
       "fire",
@@ -2656,7 +2655,8 @@ var cleanIcons_3_0 = [
       "heat",
       "hot",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf17e",
@@ -2668,7 +2668,7 @@ var cleanIcons_3_0 = [
       "weather",
       "whether"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf17d",
@@ -2681,24 +2681,23 @@ var cleanIcons_3_0 = [
       "whether",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf431",
     "name": "ios-flask",
-    "oldName": "ios-flask",
     "tags": [
       "ios",
       "bubbles",
       "flask",
       "mixture",
       "potion"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf430",
     "name": "ios-flask-outline",
-    "oldName": "ios-flask-outline",
     "tags": [
       "ios",
       "bubbles",
@@ -2706,36 +2705,37 @@ var cleanIcons_3_0 = [
       "mixture",
       "potion",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf433",
     "name": "ios-flower",
-    "oldName": "ios-flower",
     "tags": [
       "ios",
       "flower"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf432",
     "name": "ios-flower-outline",
-    "oldName": "ios-flower-outline",
     "tags": [
       "ios",
       "flower",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf435",
     "name": "ios-folder",
-    "oldName": "ios-folder",
     "tags": [
       "ios",
       "file",
       "folder"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf180",
@@ -2746,7 +2746,7 @@ var cleanIcons_3_0 = [
       "folder",
       "open"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf17f",
@@ -2758,37 +2758,37 @@ var cleanIcons_3_0 = [
       "open",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf434",
     "name": "ios-folder-outline",
-    "oldName": "ios-folder-outline",
     "tags": [
       "ios",
       "file",
       "folder",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf437",
     "name": "ios-football",
-    "oldName": "ios-football",
     "tags": [
       "ios",
       "football"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf436",
     "name": "ios-football-outline",
-    "oldName": "ios-football-outline",
     "tags": [
       "ios",
       "football",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf182",
@@ -2798,7 +2798,7 @@ var cleanIcons_3_0 = [
       "funnel",
       "sort"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf181",
@@ -2809,53 +2809,53 @@ var cleanIcons_3_0 = [
       "sort",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf439",
     "name": "ios-game-controller-a",
-    "oldName": "ios-game-controller-a",
     "tags": [
       "ios",
       "game",
       "controller",
       "a"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf438",
     "name": "ios-game-controller-a-outline",
-    "oldName": "ios-game-controller-a-outline",
     "tags": [
       "ios",
       "game",
       "controller",
       "a",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf43b",
     "name": "ios-game-controller-b",
-    "oldName": "ios-game-controller-b",
     "tags": [
       "ios",
       "game",
       "controller",
       "b"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf43a",
     "name": "ios-game-controller-b-outline",
-    "oldName": "ios-game-controller-b-outline",
     "tags": [
       "ios",
       "game",
       "controller",
       "b",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf183",
@@ -2865,7 +2865,7 @@ var cleanIcons_3_0 = [
       "git",
       "branch"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf183",
@@ -2876,7 +2876,7 @@ var cleanIcons_3_0 = [
       "branch",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf184",
@@ -2886,7 +2886,7 @@ var cleanIcons_3_0 = [
       "git",
       "commit"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf184",
@@ -2897,7 +2897,7 @@ var cleanIcons_3_0 = [
       "commit",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf185",
@@ -2907,7 +2907,7 @@ var cleanIcons_3_0 = [
       "git",
       "compare"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf185",
@@ -2918,7 +2918,7 @@ var cleanIcons_3_0 = [
       "compare",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf186",
@@ -2928,7 +2928,7 @@ var cleanIcons_3_0 = [
       "git",
       "merge"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf186",
@@ -2939,7 +2939,7 @@ var cleanIcons_3_0 = [
       "merge",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf187",
@@ -2949,7 +2949,7 @@ var cleanIcons_3_0 = [
       "git",
       "network"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf187",
@@ -2960,7 +2960,7 @@ var cleanIcons_3_0 = [
       "network",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf188",
@@ -2971,7 +2971,7 @@ var cleanIcons_3_0 = [
       "pull",
       "request"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf188",
@@ -2983,12 +2983,11 @@ var cleanIcons_3_0 = [
       "request",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf43f",
     "name": "ios-glasses",
-    "oldName": "ios-glasses",
     "tags": [
       "ios",
       "glasses",
@@ -2996,12 +2995,12 @@ var cleanIcons_3_0 = [
       "reading",
       "see",
       "steve"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf43e",
     "name": "ios-glasses-outline",
-    "oldName": "ios-glasses-outline",
     "tags": [
       "ios",
       "glasses",
@@ -3010,7 +3009,8 @@ var cleanIcons_3_0 = [
       "see",
       "steve",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf18a",
@@ -3019,7 +3019,7 @@ var cleanIcons_3_0 = [
       "ios",
       "globe"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf189",
@@ -3029,7 +3029,7 @@ var cleanIcons_3_0 = [
       "globe",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf18c",
@@ -3039,7 +3039,7 @@ var cleanIcons_3_0 = [
       "grid",
       "menu"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf18b",
@@ -3050,7 +3050,7 @@ var cleanIcons_3_0 = [
       "menu",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf18e",
@@ -3062,7 +3062,7 @@ var cleanIcons_3_0 = [
       "settings",
       "tools"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf18d",
@@ -3075,7 +3075,7 @@ var cleanIcons_3_0 = [
       "tools",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf190",
@@ -3085,7 +3085,7 @@ var cleanIcons_3_0 = [
       "hand",
       "stop"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf18f",
@@ -3096,7 +3096,7 @@ var cleanIcons_3_0 = [
       "stop",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf192",
@@ -3109,7 +3109,7 @@ var cleanIcons_3_0 = [
       "like",
       "yes"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf191",
@@ -3123,7 +3123,7 @@ var cleanIcons_3_0 = [
       "yes",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf194",
@@ -3132,7 +3132,7 @@ var cleanIcons_3_0 = [
       "ios",
       "headset"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf193",
@@ -3142,40 +3142,40 @@ var cleanIcons_3_0 = [
       "headset",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf443",
     "name": "ios-heart",
-    "oldName": "ios-heart",
     "tags": [
       "ios",
       "heart",
       "love"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf442",
     "name": "ios-heart-outline",
-    "oldName": "ios-heart-outline",
     "tags": [
       "ios",
       "heart",
       "love",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf446",
     "name": "ios-help",
-    "oldName": "ios-help",
     "tags": [
       "ios",
       "?",
       "help",
       "information",
       "question"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf196",
@@ -3188,7 +3188,7 @@ var cleanIcons_3_0 = [
       "question",
       "buoy"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf195",
@@ -3202,7 +3202,7 @@ var cleanIcons_3_0 = [
       "buoy",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf198",
@@ -3215,7 +3215,7 @@ var cleanIcons_3_0 = [
       "question",
       "circle"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf197",
@@ -3229,12 +3229,11 @@ var cleanIcons_3_0 = [
       "circle",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf446",
     "name": "ios-help-outline",
-    "oldName": "ios-help-outline",
     "tags": [
       "ios",
       "?",
@@ -3242,28 +3241,29 @@ var cleanIcons_3_0 = [
       "information",
       "question",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf448",
     "name": "ios-home",
-    "oldName": "ios-home",
     "tags": [
       "ios",
       "home",
       "house"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf447",
     "name": "ios-home-outline",
-    "oldName": "ios-home-outline",
     "tags": [
       "ios",
       "home",
       "house",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf19a",
@@ -3273,7 +3273,7 @@ var cleanIcons_3_0 = [
       "ice",
       "cream"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf199",
@@ -3284,7 +3284,7 @@ var cleanIcons_3_0 = [
       "cream",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf19c",
@@ -3295,7 +3295,7 @@ var cleanIcons_3_0 = [
       "image",
       "photo"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf19b",
@@ -3307,7 +3307,7 @@ var cleanIcons_3_0 = [
       "photo",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf19e",
@@ -3317,7 +3317,7 @@ var cleanIcons_3_0 = [
       "images",
       "photo"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf19d",
@@ -3328,41 +3328,41 @@ var cleanIcons_3_0 = [
       "photo",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf44a",
     "name": "ios-infinite",
-    "oldName": "ios-infinite",
     "tags": [
       "ios",
       "forever",
       "infinite",
       "loop"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf449",
     "name": "ios-infinite-outline",
-    "oldName": "ios-infinite-outline",
     "tags": [
       "ios",
       "forever",
       "infinite",
       "loop",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf44d",
     "name": "ios-information",
-    "oldName": "ios-information",
     "tags": [
       "ios",
       "help",
       "information",
       "knowledge"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf1a0",
@@ -3374,7 +3374,7 @@ var cleanIcons_3_0 = [
       "knowledge",
       "circle"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf19f",
@@ -3387,19 +3387,19 @@ var cleanIcons_3_0 = [
       "circle",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf44d",
     "name": "ios-information-outline",
-    "oldName": "ios-information-outline",
     "tags": [
       "ios",
       "help",
       "information",
       "knowledge",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf1a1",
@@ -3412,12 +3412,11 @@ var cleanIcons_3_0 = [
       "ionic",
       "sexy"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf44e",
     "name": "ios-ionic-outline",
-    "oldName": "ios-ionic-outline",
     "tags": [
       "ios",
       "badass",
@@ -3426,7 +3425,8 @@ var cleanIcons_3_0 = [
       "ionic",
       "sexy",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf1a3",
@@ -3435,7 +3435,7 @@ var cleanIcons_3_0 = [
       "ios",
       "ionitron"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1a2",
@@ -3445,7 +3445,7 @@ var cleanIcons_3_0 = [
       "ionitron",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1a5",
@@ -3456,7 +3456,7 @@ var cleanIcons_3_0 = [
       "jet",
       "plane"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1a4",
@@ -3468,7 +3468,7 @@ var cleanIcons_3_0 = [
       "plane",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1a7",
@@ -3478,7 +3478,7 @@ var cleanIcons_3_0 = [
       "access",
       "key"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1a6",
@@ -3489,28 +3489,28 @@ var cleanIcons_3_0 = [
       "key",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf450",
     "name": "ios-keypad",
-    "oldName": "ios-keypad",
     "tags": [
       "ios",
       "keypad",
       "type"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf44f",
     "name": "ios-keypad-outline",
-    "oldName": "ios-keypad-outline",
     "tags": [
       "ios",
       "keypad",
       "type",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf1a8",
@@ -3522,7 +3522,7 @@ var cleanIcons_3_0 = [
       "macbook",
       "osx"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1a8",
@@ -3535,7 +3535,7 @@ var cleanIcons_3_0 = [
       "osx",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1aa",
@@ -3548,7 +3548,7 @@ var cleanIcons_3_0 = [
       "plant",
       "recycle"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1a9",
@@ -3562,7 +3562,7 @@ var cleanIcons_3_0 = [
       "recycle",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf22a",
@@ -3575,7 +3575,7 @@ var cleanIcons_3_0 = [
       "href",
       "link"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1ca",
@@ -3589,16 +3589,16 @@ var cleanIcons_3_0 = [
       "link",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf454",
     "name": "ios-list",
-    "oldName": "ios-list",
     "tags": [
       "ios",
       "list"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf1ac",
@@ -3608,7 +3608,7 @@ var cleanIcons_3_0 = [
       "list",
       "box"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1ab",
@@ -3619,17 +3619,17 @@ var cleanIcons_3_0 = [
       "box",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf454",
     "name": "ios-list-outline",
-    "oldName": "ios-list-outline",
     "tags": [
       "ios",
       "list",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf1ae",
@@ -3641,7 +3641,7 @@ var cleanIcons_3_0 = [
       "maps",
       "navigate"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1ad",
@@ -3654,7 +3654,7 @@ var cleanIcons_3_0 = [
       "navigate",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1b0",
@@ -3663,7 +3663,7 @@ var cleanIcons_3_0 = [
       "ios",
       "lock"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1af",
@@ -3673,7 +3673,7 @@ var cleanIcons_3_0 = [
       "lock",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1b1",
@@ -3683,7 +3683,7 @@ var cleanIcons_3_0 = [
       "log",
       "in"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1b1",
@@ -3694,7 +3694,7 @@ var cleanIcons_3_0 = [
       "in",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1b2",
@@ -3704,7 +3704,7 @@ var cleanIcons_3_0 = [
       "log",
       "out"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1b2",
@@ -3715,7 +3715,7 @@ var cleanIcons_3_0 = [
       "out",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1b4",
@@ -3726,7 +3726,7 @@ var cleanIcons_3_0 = [
       "magnet",
       "sticky"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1b3",
@@ -3738,7 +3738,7 @@ var cleanIcons_3_0 = [
       "sticky",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1b8",
@@ -3748,7 +3748,7 @@ var cleanIcons_3_0 = [
       "email",
       "mail"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1b6",
@@ -3759,7 +3759,7 @@ var cleanIcons_3_0 = [
       "mail",
       "open"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1b5",
@@ -3771,7 +3771,7 @@ var cleanIcons_3_0 = [
       "open",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1b7",
@@ -3782,7 +3782,7 @@ var cleanIcons_3_0 = [
       "mail",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1b9",
@@ -3795,7 +3795,7 @@ var cleanIcons_3_0 = [
       "male",
       "male"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1b9",
@@ -3809,7 +3809,7 @@ var cleanIcons_3_0 = [
       "male",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1bb",
@@ -3822,7 +3822,7 @@ var cleanIcons_3_0 = [
       "male",
       "man"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1ba",
@@ -3836,7 +3836,7 @@ var cleanIcons_3_0 = [
       "man",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1bd",
@@ -3848,7 +3848,7 @@ var cleanIcons_3_0 = [
       "navigation",
       "pin"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1bc",
@@ -3861,7 +3861,7 @@ var cleanIcons_3_0 = [
       "pin",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1bf",
@@ -3870,7 +3870,7 @@ var cleanIcons_3_0 = [
       "ios",
       "medal"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1be",
@@ -3880,31 +3880,30 @@ var cleanIcons_3_0 = [
       "medal",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf45c",
     "name": "ios-medical",
-    "oldName": "ios-medical",
     "tags": [
       "ios",
       "medical"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf45b",
     "name": "ios-medical-outline",
-    "oldName": "ios-medical-outline",
     "tags": [
       "ios",
       "medical",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf45e",
     "name": "ios-medkit",
-    "oldName": "ios-medkit",
     "tags": [
       "ios",
       "case",
@@ -3913,12 +3912,12 @@ var cleanIcons_3_0 = [
       "health",
       "medkit",
       "sick"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf45d",
     "name": "ios-medkit-outline",
-    "oldName": "ios-medkit-outline",
     "tags": [
       "ios",
       "case",
@@ -3928,7 +3927,8 @@ var cleanIcons_3_0 = [
       "medkit",
       "sick",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf1c1",
@@ -3937,7 +3937,7 @@ var cleanIcons_3_0 = [
       "ios",
       "megaphone"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1c0",
@@ -3947,7 +3947,7 @@ var cleanIcons_3_0 = [
       "megaphone",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1c3",
@@ -3956,7 +3956,7 @@ var cleanIcons_3_0 = [
       "ios",
       "menu"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1c2",
@@ -3966,12 +3966,11 @@ var cleanIcons_3_0 = [
       "menu",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf461",
     "name": "ios-mic",
-    "oldName": "ios-mic",
     "tags": [
       "ios",
       "mic",
@@ -3979,12 +3978,12 @@ var cleanIcons_3_0 = [
       "sound",
       "speaker",
       "talk"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf45f",
     "name": "ios-mic-off",
-    "oldName": "ios-mic-off",
     "tags": [
       "ios",
       "mic",
@@ -3993,7 +3992,8 @@ var cleanIcons_3_0 = [
       "speaker",
       "talk",
       "off"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf1c4",
@@ -4008,12 +4008,11 @@ var cleanIcons_3_0 = [
       "off",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf460",
     "name": "ios-mic-outline",
-    "oldName": "ios-mic-outline",
     "tags": [
       "ios",
       "mic",
@@ -4022,7 +4021,8 @@ var cleanIcons_3_0 = [
       "speaker",
       "talk",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf1c6",
@@ -4036,7 +4036,7 @@ var cleanIcons_3_0 = [
       "sound",
       "speak"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1c5",
@@ -4051,24 +4051,23 @@ var cleanIcons_3_0 = [
       "speak",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf468",
     "name": "ios-moon",
-    "oldName": "ios-moon",
     "tags": [
       "ios",
       "dark",
       "moon",
       "night",
       "sky"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf467",
     "name": "ios-moon-outline",
-    "oldName": "ios-moon-outline",
     "tags": [
       "ios",
       "dark",
@@ -4076,28 +4075,29 @@ var cleanIcons_3_0 = [
       "night",
       "sky",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf1c8",
     "name": "ios-more",
-    "oldName": "ios-more",
     "tags": [
       "ios",
       "more",
       "options"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf1c7",
     "name": "ios-more-outline",
-    "oldName": "ios-more-outline",
     "tags": [
       "ios",
       "more",
       "options",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf1cb",
@@ -4106,7 +4106,7 @@ var cleanIcons_3_0 = [
       "ios",
       "move"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1cb",
@@ -4116,17 +4116,17 @@ var cleanIcons_3_0 = [
       "move",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf46b",
     "name": "ios-musical-note",
-    "oldName": "ios-musical-note",
     "tags": [
       "ios",
       "musical",
       "note"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf1cc",
@@ -4137,17 +4137,17 @@ var cleanIcons_3_0 = [
       "note",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf46c",
     "name": "ios-musical-notes",
-    "oldName": "ios-musical-notes",
     "tags": [
       "ios",
       "musical",
       "notes"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf1cd",
@@ -4158,12 +4158,11 @@ var cleanIcons_3_0 = [
       "notes",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf46e",
     "name": "ios-navigate",
-    "oldName": "ios-navigate",
     "tags": [
       "ios",
       "gps",
@@ -4171,12 +4170,12 @@ var cleanIcons_3_0 = [
       "map",
       "navigate",
       "pin"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf46d",
     "name": "ios-navigate-outline",
-    "oldName": "ios-navigate-outline",
     "tags": [
       "ios",
       "gps",
@@ -4185,7 +4184,8 @@ var cleanIcons_3_0 = [
       "navigate",
       "pin",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf1cf",
@@ -4195,7 +4195,7 @@ var cleanIcons_3_0 = [
       "no",
       "smoking"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1ce",
@@ -4206,7 +4206,7 @@ var cleanIcons_3_0 = [
       "smoking",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1d3",
@@ -4215,7 +4215,7 @@ var cleanIcons_3_0 = [
       "ios",
       "notifications"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1d1",
@@ -4225,7 +4225,7 @@ var cleanIcons_3_0 = [
       "notifications",
       "off"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1d0",
@@ -4236,7 +4236,7 @@ var cleanIcons_3_0 = [
       "off",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1d2",
@@ -4246,7 +4246,7 @@ var cleanIcons_3_0 = [
       "notifications",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1d5",
@@ -4258,7 +4258,7 @@ var cleanIcons_3_0 = [
       "nuclear",
       "warning"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1d4",
@@ -4271,26 +4271,26 @@ var cleanIcons_3_0 = [
       "warning",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf470",
     "name": "ios-nutrition",
-    "oldName": "ios-nutrition",
     "tags": [
       "ios",
       "nutrition"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf46f",
     "name": "ios-nutrition-outline",
-    "oldName": "ios-nutrition-outline",
     "tags": [
       "ios",
       "nutrition",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf1d7",
@@ -4299,7 +4299,7 @@ var cleanIcons_3_0 = [
       "ios",
       "open"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1d6",
@@ -4309,7 +4309,7 @@ var cleanIcons_3_0 = [
       "open",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1d9",
@@ -4318,7 +4318,7 @@ var cleanIcons_3_0 = [
       "ios",
       "options"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1d8",
@@ -4328,7 +4328,7 @@ var cleanIcons_3_0 = [
       "options",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1db",
@@ -4340,7 +4340,7 @@ var cleanIcons_3_0 = [
       "electricity",
       "outlet"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1da",
@@ -4353,30 +4353,30 @@ var cleanIcons_3_0 = [
       "outlet",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf472",
     "name": "ios-paper",
-    "oldName": "ios-paper",
     "tags": [
       "ios",
       "feed",
       "paper",
       "paper"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf471",
     "name": "ios-paper-outline",
-    "oldName": "ios-paper-outline",
     "tags": [
       "ios",
       "feed",
       "paper",
       "paper",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf1dd",
@@ -4390,7 +4390,7 @@ var cleanIcons_3_0 = [
       "jet",
       "plane"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1dc",
@@ -4405,7 +4405,7 @@ var cleanIcons_3_0 = [
       "plane",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1df",
@@ -4419,7 +4419,7 @@ var cleanIcons_3_0 = [
       "weather",
       "whether"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1de",
@@ -4434,12 +4434,11 @@ var cleanIcons_3_0 = [
       "whether",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf478",
     "name": "ios-pause",
-    "oldName": "ios-pause",
     "tags": [
       "ios",
       "break",
@@ -4447,12 +4446,12 @@ var cleanIcons_3_0 = [
       "hold",
       "music",
       "pause"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf477",
     "name": "ios-pause-outline",
-    "oldName": "ios-pause-outline",
     "tags": [
       "ios",
       "break",
@@ -4461,31 +4460,31 @@ var cleanIcons_3_0 = [
       "music",
       "pause",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf47a",
     "name": "ios-paw",
-    "oldName": "ios-paw",
     "tags": [
       "ios",
       "paw"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf479",
     "name": "ios-paw-outline",
-    "oldName": "ios-paw-outline",
     "tags": [
       "ios",
       "paw",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf47c",
     "name": "ios-people",
-    "oldName": "ios-people",
     "tags": [
       "ios",
       "head",
@@ -4494,12 +4493,12 @@ var cleanIcons_3_0 = [
       "person",
       "stalker",
       "users"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf47b",
     "name": "ios-people-outline",
-    "oldName": "ios-people-outline",
     "tags": [
       "ios",
       "head",
@@ -4509,12 +4508,12 @@ var cleanIcons_3_0 = [
       "stalker",
       "users",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf47e",
     "name": "ios-person",
-    "oldName": "ios-person",
     "tags": [
       "ios",
       "head",
@@ -4522,7 +4521,8 @@ var cleanIcons_3_0 = [
       "person",
       "staff",
       "users"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf1e1",
@@ -4539,7 +4539,7 @@ var cleanIcons_3_0 = [
       "invite",
       "plus"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1e0",
@@ -4557,12 +4557,11 @@ var cleanIcons_3_0 = [
       "plus",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf47d",
     "name": "ios-person-outline",
-    "oldName": "ios-person-outline",
     "tags": [
       "ios",
       "head",
@@ -4571,7 +4570,8 @@ var cleanIcons_3_0 = [
       "staff",
       "users",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf1e2",
@@ -4581,7 +4581,7 @@ var cleanIcons_3_0 = [
       "phone",
       "landscape"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1e2",
@@ -4592,7 +4592,7 @@ var cleanIcons_3_0 = [
       "landscape",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1e3",
@@ -4602,7 +4602,7 @@ var cleanIcons_3_0 = [
       "phone",
       "portrait"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1e3",
@@ -4613,24 +4613,23 @@ var cleanIcons_3_0 = [
       "portrait",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf482",
     "name": "ios-photos",
-    "oldName": "ios-photos",
     "tags": [
       "ios",
       "images",
       "photos",
       "square",
       "stills"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf481",
     "name": "ios-photos-outline",
-    "oldName": "ios-photos-outline",
     "tags": [
       "ios",
       "images",
@@ -4638,24 +4637,24 @@ var cleanIcons_3_0 = [
       "square",
       "stills",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf484",
     "name": "ios-pie",
-    "oldName": "ios-pie",
     "tags": [
       "ios",
       "cog",
       "options",
       "pie",
       "settings"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf483",
     "name": "ios-pie-outline",
-    "oldName": "ios-pie-outline",
     "tags": [
       "ios",
       "cog",
@@ -4663,7 +4662,8 @@ var cleanIcons_3_0 = [
       "pie",
       "settings",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf1e5",
@@ -4674,7 +4674,7 @@ var cleanIcons_3_0 = [
       "navigation",
       "pin"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1e4",
@@ -4686,26 +4686,26 @@ var cleanIcons_3_0 = [
       "pin",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf486",
     "name": "ios-pint",
-    "oldName": "ios-pint",
     "tags": [
       "ios",
       "pint"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf485",
     "name": "ios-pint-outline",
-    "oldName": "ios-pint-outline",
     "tags": [
       "ios",
       "pint",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf1e7",
@@ -4717,7 +4717,7 @@ var cleanIcons_3_0 = [
       "food",
       "pizza"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1e6",
@@ -4730,7 +4730,7 @@ var cleanIcons_3_0 = [
       "pizza",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1e9",
@@ -4741,7 +4741,7 @@ var cleanIcons_3_0 = [
       "jet",
       "plane"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1e8",
@@ -4753,7 +4753,7 @@ var cleanIcons_3_0 = [
       "plane",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1eb",
@@ -4767,7 +4767,7 @@ var cleanIcons_3_0 = [
       "planet",
       "space"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1ea",
@@ -4782,12 +4782,11 @@ var cleanIcons_3_0 = [
       "space",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf488",
     "name": "ios-play",
-    "oldName": "ios-play",
     "tags": [
       "ios",
       "arrow",
@@ -4795,12 +4794,12 @@ var cleanIcons_3_0 = [
       "play",
       "right",
       "watch"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf487",
     "name": "ios-play-outline",
-    "oldName": "ios-play-outline",
     "tags": [
       "ios",
       "arrow",
@@ -4809,7 +4808,8 @@ var cleanIcons_3_0 = [
       "right",
       "watch",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf1ed",
@@ -4823,7 +4823,7 @@ var cleanIcons_3_0 = [
       "podium",
       "win"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1ec",
@@ -4838,7 +4838,7 @@ var cleanIcons_3_0 = [
       "win",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1ef",
@@ -4849,7 +4849,7 @@ var cleanIcons_3_0 = [
       "on",
       "power"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1ee",
@@ -4861,12 +4861,11 @@ var cleanIcons_3_0 = [
       "power",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf48d",
     "name": "ios-pricetag",
-    "oldName": "ios-pricetag",
     "tags": [
       "ios",
       "$",
@@ -4875,12 +4874,12 @@ var cleanIcons_3_0 = [
       "money",
       "pricetag",
       "shopping"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf48c",
     "name": "ios-pricetag-outline",
-    "oldName": "ios-pricetag-outline",
     "tags": [
       "ios",
       "$",
@@ -4890,12 +4889,12 @@ var cleanIcons_3_0 = [
       "pricetag",
       "shopping",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf48f",
     "name": "ios-pricetags",
-    "oldName": "ios-pricetags",
     "tags": [
       "ios",
       "$",
@@ -4904,12 +4903,12 @@ var cleanIcons_3_0 = [
       "money",
       "pricetags",
       "shopping"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf48e",
     "name": "ios-pricetags-outline",
-    "oldName": "ios-pricetags-outline",
     "tags": [
       "ios",
       "$",
@@ -4919,7 +4918,8 @@ var cleanIcons_3_0 = [
       "pricetags",
       "shopping",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf1f1",
@@ -4928,7 +4928,7 @@ var cleanIcons_3_0 = [
       "ios",
       "print"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1f0",
@@ -4938,19 +4938,19 @@ var cleanIcons_3_0 = [
       "print",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf493",
     "name": "ios-pulse",
-    "oldName": "ios-pulse",
     "tags": [
       "ios",
       "hot",
       "live",
       "pulse",
       "rate"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf1f2",
@@ -4963,7 +4963,7 @@ var cleanIcons_3_0 = [
       "rate",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1f3",
@@ -4973,7 +4973,7 @@ var cleanIcons_3_0 = [
       "qr",
       "scanner"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1f3",
@@ -4984,7 +4984,7 @@ var cleanIcons_3_0 = [
       "scanner",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1f5",
@@ -4995,7 +4995,7 @@ var cleanIcons_3_0 = [
       "quotation",
       "quote"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1f4",
@@ -5007,7 +5007,7 @@ var cleanIcons_3_0 = [
       "quote",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1f9",
@@ -5016,7 +5016,7 @@ var cleanIcons_3_0 = [
       "ios",
       "radio"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1f6",
@@ -5027,7 +5027,7 @@ var cleanIcons_3_0 = [
       "button",
       "off"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1f6",
@@ -5039,7 +5039,7 @@ var cleanIcons_3_0 = [
       "off",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1f7",
@@ -5050,7 +5050,7 @@ var cleanIcons_3_0 = [
       "button",
       "on"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1f7",
@@ -5062,7 +5062,7 @@ var cleanIcons_3_0 = [
       "on",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1f8",
@@ -5072,12 +5072,11 @@ var cleanIcons_3_0 = [
       "radio",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf495",
     "name": "ios-rainy",
-    "oldName": "ios-rainy",
     "tags": [
       "ios",
       "cloud",
@@ -5085,12 +5084,12 @@ var cleanIcons_3_0 = [
       "water",
       "weather",
       "whether"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf494",
     "name": "ios-rainy-outline",
-    "oldName": "ios-rainy-outline",
     "tags": [
       "ios",
       "cloud",
@@ -5099,24 +5098,24 @@ var cleanIcons_3_0 = [
       "weather",
       "whether",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf497",
     "name": "ios-recording",
-    "oldName": "ios-recording",
     "tags": [
       "ios",
       "film",
       "recording",
       "tape",
       "voicemail"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf496",
     "name": "ios-recording-outline",
-    "oldName": "ios-recording-outline",
     "tags": [
       "ios",
       "film",
@@ -5124,40 +5123,41 @@ var cleanIcons_3_0 = [
       "tape",
       "voicemail",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf499",
     "name": "ios-redo",
-    "oldName": "ios-redo",
     "tags": [
       "ios",
       "forward",
       "redo"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf498",
     "name": "ios-redo-outline",
-    "oldName": "ios-redo-outline",
     "tags": [
       "ios",
       "forward",
       "redo",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf49c",
     "name": "ios-refresh",
-    "oldName": "ios-refresh",
     "tags": [
       "ios",
       "refresh",
       "reload",
       "renew",
       "reset"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf226",
@@ -5170,7 +5170,7 @@ var cleanIcons_3_0 = [
       "reset",
       "circle"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf224",
@@ -5184,12 +5184,11 @@ var cleanIcons_3_0 = [
       "circle",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf49c",
     "name": "ios-refresh-outline",
-    "oldName": "ios-refresh-outline",
     "tags": [
       "ios",
       "refresh",
@@ -5197,7 +5196,8 @@ var cleanIcons_3_0 = [
       "renew",
       "reset",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf1fc",
@@ -5208,7 +5208,7 @@ var cleanIcons_3_0 = [
       "remove",
       "subtract"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1fb",
@@ -5220,7 +5220,7 @@ var cleanIcons_3_0 = [
       "subtract",
       "circle"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1fa",
@@ -5233,7 +5233,7 @@ var cleanIcons_3_0 = [
       "circle",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1fc",
@@ -5245,7 +5245,7 @@ var cleanIcons_3_0 = [
       "subtract",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1fd",
@@ -5254,7 +5254,7 @@ var cleanIcons_3_0 = [
       "ios",
       "reorder"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1fd",
@@ -5264,7 +5264,7 @@ var cleanIcons_3_0 = [
       "reorder",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1fe",
@@ -5273,7 +5273,7 @@ var cleanIcons_3_0 = [
       "ios",
       "repeat"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1fe",
@@ -5283,7 +5283,7 @@ var cleanIcons_3_0 = [
       "repeat",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1ff",
@@ -5292,7 +5292,7 @@ var cleanIcons_3_0 = [
       "ios",
       "resize"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1ff",
@@ -5302,7 +5302,7 @@ var cleanIcons_3_0 = [
       "resize",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf201",
@@ -5311,7 +5311,7 @@ var cleanIcons_3_0 = [
       "ios",
       "restaurant"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf200",
@@ -5321,7 +5321,7 @@ var cleanIcons_3_0 = [
       "restaurant",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf202",
@@ -5331,7 +5331,7 @@ var cleanIcons_3_0 = [
       "return",
       "left"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf202",
@@ -5342,7 +5342,7 @@ var cleanIcons_3_0 = [
       "left",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf203",
@@ -5352,7 +5352,7 @@ var cleanIcons_3_0 = [
       "return",
       "right"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf203",
@@ -5363,24 +5363,23 @@ var cleanIcons_3_0 = [
       "right",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf49f",
     "name": "ios-reverse-camera",
-    "oldName": "ios-reverse-camera",
     "tags": [
       "ios",
       "reverse",
       "camera",
       "image",
       "photo"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf49e",
     "name": "ios-reverse-camera-outline",
-    "oldName": "ios-reverse-camera-outline",
     "tags": [
       "ios",
       "reverse",
@@ -5388,24 +5387,24 @@ var cleanIcons_3_0 = [
       "image",
       "photo",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf4a1",
     "name": "ios-rewind",
-    "oldName": "ios-rewind",
     "tags": [
       "ios",
       "back",
       "music",
       "previous",
       "rewind"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf4a0",
     "name": "ios-rewind-outline",
-    "oldName": "ios-rewind-outline",
     "tags": [
       "ios",
       "back",
@@ -5413,7 +5412,8 @@ var cleanIcons_3_0 = [
       "previous",
       "rewind",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf205",
@@ -5422,7 +5422,7 @@ var cleanIcons_3_0 = [
       "ios",
       "ribbon"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf204",
@@ -5432,26 +5432,26 @@ var cleanIcons_3_0 = [
       "ribbon",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf4a3",
     "name": "ios-rose",
-    "oldName": "ios-rose",
     "tags": [
       "ios",
       "rose"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf4a2",
     "name": "ios-rose-outline",
-    "oldName": "ios-rose-outline",
     "tags": [
       "ios",
       "rose",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf207",
@@ -5463,7 +5463,7 @@ var cleanIcons_3_0 = [
       "no",
       "sad"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf206",
@@ -5476,7 +5476,7 @@ var cleanIcons_3_0 = [
       "sad",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf209",
@@ -5485,7 +5485,7 @@ var cleanIcons_3_0 = [
       "ios",
       "school"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf208",
@@ -5495,17 +5495,17 @@ var cleanIcons_3_0 = [
       "school",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf4a5",
     "name": "ios-search",
-    "oldName": "ios-search",
     "tags": [
       "ios",
       "magnifyingglass",
       "search"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf20a",
@@ -5516,7 +5516,7 @@ var cleanIcons_3_0 = [
       "search",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf20c",
@@ -5527,7 +5527,7 @@ var cleanIcons_3_0 = [
       "paper",
       "send"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf20b",
@@ -5539,17 +5539,17 @@ var cleanIcons_3_0 = [
       "send",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf4a7",
     "name": "ios-settings",
-    "oldName": "ios-settings",
     "tags": [
       "ios",
       "options",
       "settings"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf20d",
@@ -5560,7 +5560,7 @@ var cleanIcons_3_0 = [
       "settings",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf211",
@@ -5569,7 +5569,7 @@ var cleanIcons_3_0 = [
       "ios",
       "share"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf20f",
@@ -5579,7 +5579,7 @@ var cleanIcons_3_0 = [
       "share",
       "alt"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf20e",
@@ -5590,7 +5590,7 @@ var cleanIcons_3_0 = [
       "alt",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf210",
@@ -5600,7 +5600,7 @@ var cleanIcons_3_0 = [
       "share",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf213",
@@ -5609,7 +5609,7 @@ var cleanIcons_3_0 = [
       "ios",
       "shirt"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf212",
@@ -5619,17 +5619,17 @@ var cleanIcons_3_0 = [
       "shirt",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf4a9",
     "name": "ios-shuffle",
-    "oldName": "ios-shuffle",
     "tags": [
       "ios",
       "random",
       "shuffle"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf4a9",
@@ -5640,7 +5640,7 @@ var cleanIcons_3_0 = [
       "shuffle",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf215",
@@ -5650,7 +5650,7 @@ var cleanIcons_3_0 = [
       "skip",
       "backward"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf214",
@@ -5661,7 +5661,7 @@ var cleanIcons_3_0 = [
       "backward",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf217",
@@ -5671,7 +5671,7 @@ var cleanIcons_3_0 = [
       "skip",
       "forward"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf216",
@@ -5682,7 +5682,7 @@ var cleanIcons_3_0 = [
       "forward",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf218",
@@ -5691,7 +5691,7 @@ var cleanIcons_3_0 = [
       "ios",
       "snow"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf22c",
@@ -5701,24 +5701,23 @@ var cleanIcons_3_0 = [
       "snow",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf4b0",
     "name": "ios-speedometer",
-    "oldName": "ios-speedometer",
     "tags": [
       "ios",
       "drive",
       "level",
       "speed",
       "speedometer"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf4af",
     "name": "ios-speedometer-outline",
-    "oldName": "ios-speedometer-outline",
     "tags": [
       "ios",
       "drive",
@@ -5726,7 +5725,8 @@ var cleanIcons_3_0 = [
       "speed",
       "speedometer",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf21a",
@@ -5735,7 +5735,7 @@ var cleanIcons_3_0 = [
       "ios",
       "square"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf219",
@@ -5745,28 +5745,28 @@ var cleanIcons_3_0 = [
       "square",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf4b3",
     "name": "ios-star",
-    "oldName": "ios-star",
     "tags": [
       "ios",
       "favorite",
       "star"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf4b1",
     "name": "ios-star-half",
-    "oldName": "ios-star-half",
     "tags": [
       "ios",
       "favorite",
       "star",
       "half"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf4b1",
@@ -5778,18 +5778,18 @@ var cleanIcons_3_0 = [
       "half",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf4b2",
     "name": "ios-star-outline",
-    "oldName": "ios-star-outline",
     "tags": [
       "ios",
       "favorite",
       "star",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf21c",
@@ -5798,7 +5798,7 @@ var cleanIcons_3_0 = [
       "ios",
       "stats"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf21b",
@@ -5808,26 +5808,26 @@ var cleanIcons_3_0 = [
       "stats",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf4b5",
     "name": "ios-stopwatch",
-    "oldName": "ios-stopwatch",
     "tags": [
       "ios",
       "stopwatch"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf4b4",
     "name": "ios-stopwatch-outline",
-    "oldName": "ios-stopwatch-outline",
     "tags": [
       "ios",
       "stopwatch",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf21e",
@@ -5836,7 +5836,7 @@ var cleanIcons_3_0 = [
       "ios",
       "subway"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf21d",
@@ -5846,12 +5846,11 @@ var cleanIcons_3_0 = [
       "subway",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf4b7",
     "name": "ios-sunny",
-    "oldName": "ios-sunny",
     "tags": [
       "ios",
       "light",
@@ -5859,12 +5858,12 @@ var cleanIcons_3_0 = [
       "sunny",
       "weather",
       "whether"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf4b6",
     "name": "ios-sunny-outline",
-    "oldName": "ios-sunny-outline",
     "tags": [
       "ios",
       "light",
@@ -5873,7 +5872,8 @@ var cleanIcons_3_0 = [
       "weather",
       "whether",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf21f",
@@ -5882,7 +5882,7 @@ var cleanIcons_3_0 = [
       "ios",
       "swap"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf21f",
@@ -5892,7 +5892,7 @@ var cleanIcons_3_0 = [
       "swap",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf221",
@@ -5901,7 +5901,7 @@ var cleanIcons_3_0 = [
       "ios",
       "switch"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf220",
@@ -5911,7 +5911,7 @@ var cleanIcons_3_0 = [
       "switch",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf222",
@@ -5920,7 +5920,7 @@ var cleanIcons_3_0 = [
       "ios",
       "sync"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf222",
@@ -5930,7 +5930,7 @@ var cleanIcons_3_0 = [
       "sync",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf223",
@@ -5940,7 +5940,7 @@ var cleanIcons_3_0 = [
       "tablet",
       "landscape"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf223",
@@ -5951,7 +5951,7 @@ var cleanIcons_3_0 = [
       "landscape",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf24e",
@@ -5961,7 +5961,7 @@ var cleanIcons_3_0 = [
       "tablet",
       "portrait"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf24e",
@@ -5972,26 +5972,26 @@ var cleanIcons_3_0 = [
       "portrait",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf4bb",
     "name": "ios-tennisball",
-    "oldName": "ios-tennisball",
     "tags": [
       "ios",
       "tennisball"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf4ba",
     "name": "ios-tennisball-outline",
-    "oldName": "ios-tennisball-outline",
     "tags": [
       "ios",
       "tennisball",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf250",
@@ -6000,7 +6000,7 @@ var cleanIcons_3_0 = [
       "ios",
       "text"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf24f",
@@ -6010,7 +6010,7 @@ var cleanIcons_3_0 = [
       "text",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf252",
@@ -6024,7 +6024,7 @@ var cleanIcons_3_0 = [
       "temperature",
       "thermometer"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf251",
@@ -6039,7 +6039,7 @@ var cleanIcons_3_0 = [
       "thermometer",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf254",
@@ -6049,7 +6049,7 @@ var cleanIcons_3_0 = [
       "thumbs",
       "down"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf253",
@@ -6060,7 +6060,7 @@ var cleanIcons_3_0 = [
       "down",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf256",
@@ -6070,7 +6070,7 @@ var cleanIcons_3_0 = [
       "thumbs",
       "up"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf255",
@@ -6081,12 +6081,11 @@ var cleanIcons_3_0 = [
       "up",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf4bd",
     "name": "ios-thunderstorm",
-    "oldName": "ios-thunderstorm",
     "tags": [
       "ios",
       "cloudy",
@@ -6098,12 +6097,12 @@ var cleanIcons_3_0 = [
       "thunderstorm",
       "weather",
       "whether"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf4bc",
     "name": "ios-thunderstorm-outline",
-    "oldName": "ios-thunderstorm-outline",
     "tags": [
       "ios",
       "cloudy",
@@ -6116,12 +6115,12 @@ var cleanIcons_3_0 = [
       "weather",
       "whether",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf4bf",
     "name": "ios-time",
-    "oldName": "ios-time",
     "tags": [
       "ios",
       "clock",
@@ -6130,12 +6129,12 @@ var cleanIcons_3_0 = [
       "second",
       "time",
       "watch"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf4be",
     "name": "ios-time-outline",
-    "oldName": "ios-time-outline",
     "tags": [
       "ios",
       "clock",
@@ -6145,28 +6144,29 @@ var cleanIcons_3_0 = [
       "time",
       "watch",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf4c1",
     "name": "ios-timer",
-    "oldName": "ios-timer",
     "tags": [
       "ios",
       "clock",
       "timer"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf4c0",
     "name": "ios-timer-outline",
-    "oldName": "ios-timer-outline",
     "tags": [
       "ios",
       "clock",
       "timer",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf258",
@@ -6175,7 +6175,7 @@ var cleanIcons_3_0 = [
       "ios",
       "train"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf257",
@@ -6185,7 +6185,7 @@ var cleanIcons_3_0 = [
       "train",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf259",
@@ -6194,7 +6194,7 @@ var cleanIcons_3_0 = [
       "ios",
       "transgender"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf259",
@@ -6204,24 +6204,23 @@ var cleanIcons_3_0 = [
       "transgender",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf4c5",
     "name": "ios-trash",
-    "oldName": "ios-trash",
     "tags": [
       "ios",
       "close",
       "delete",
       "remove",
       "trash"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf4c4",
     "name": "ios-trash-outline",
-    "oldName": "ios-trash-outline",
     "tags": [
       "ios",
       "close",
@@ -6229,7 +6228,8 @@ var cleanIcons_3_0 = [
       "remove",
       "trash",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf25a",
@@ -6239,7 +6239,7 @@ var cleanIcons_3_0 = [
       "trending",
       "down"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf25a",
@@ -6250,7 +6250,7 @@ var cleanIcons_3_0 = [
       "down",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf25b",
@@ -6260,7 +6260,7 @@ var cleanIcons_3_0 = [
       "trending",
       "up"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf25b",
@@ -6271,7 +6271,7 @@ var cleanIcons_3_0 = [
       "up",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf25d",
@@ -6285,7 +6285,7 @@ var cleanIcons_3_0 = [
       "trophy",
       "win"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf25c",
@@ -6300,7 +6300,7 @@ var cleanIcons_3_0 = [
       "win",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf25f",
@@ -6313,7 +6313,7 @@ var cleanIcons_3_0 = [
       "umbrella",
       "wet"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf25e",
@@ -6327,28 +6327,28 @@ var cleanIcons_3_0 = [
       "wet",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf4c7",
     "name": "ios-undo",
-    "oldName": "ios-undo",
     "tags": [
       "ios",
       "reply",
       "undo"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf4c6",
     "name": "ios-undo-outline",
-    "oldName": "ios-undo-outline",
     "tags": [
       "ios",
       "reply",
       "undo",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf261",
@@ -6357,7 +6357,7 @@ var cleanIcons_3_0 = [
       "ios",
       "unlock"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf260",
@@ -6367,24 +6367,23 @@ var cleanIcons_3_0 = [
       "unlock",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf4cd",
     "name": "ios-videocam",
-    "oldName": "ios-videocam",
     "tags": [
       "ios",
       "camera",
       "film",
       "movie",
       "videocam"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf4cc",
     "name": "ios-videocam-outline",
-    "oldName": "ios-videocam-outline",
     "tags": [
       "ios",
       "camera",
@@ -6392,7 +6391,8 @@ var cleanIcons_3_0 = [
       "movie",
       "videocam",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf262",
@@ -6402,7 +6402,7 @@ var cleanIcons_3_0 = [
       "volume",
       "down"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf262",
@@ -6413,7 +6413,7 @@ var cleanIcons_3_0 = [
       "down",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf263",
@@ -6423,7 +6423,7 @@ var cleanIcons_3_0 = [
       "volume",
       "mute"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf263",
@@ -6434,7 +6434,7 @@ var cleanIcons_3_0 = [
       "mute",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf264",
@@ -6444,7 +6444,7 @@ var cleanIcons_3_0 = [
       "volume",
       "off"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf264",
@@ -6455,7 +6455,7 @@ var cleanIcons_3_0 = [
       "off",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf265",
@@ -6465,7 +6465,7 @@ var cleanIcons_3_0 = [
       "volume",
       "up"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf265",
@@ -6476,7 +6476,7 @@ var cleanIcons_3_0 = [
       "up",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf266",
@@ -6485,7 +6485,7 @@ var cleanIcons_3_0 = [
       "ios",
       "walk"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf266",
@@ -6495,7 +6495,7 @@ var cleanIcons_3_0 = [
       "walk",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf268",
@@ -6504,7 +6504,7 @@ var cleanIcons_3_0 = [
       "ios",
       "warning"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf267",
@@ -6514,7 +6514,7 @@ var cleanIcons_3_0 = [
       "warning",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf269",
@@ -6523,7 +6523,7 @@ var cleanIcons_3_0 = [
       "ios",
       "watch"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf269",
@@ -6533,7 +6533,7 @@ var cleanIcons_3_0 = [
       "watch",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf26b",
@@ -6542,7 +6542,7 @@ var cleanIcons_3_0 = [
       "ios",
       "water"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf26a",
@@ -6552,7 +6552,7 @@ var cleanIcons_3_0 = [
       "water",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf26d",
@@ -6564,7 +6564,7 @@ var cleanIcons_3_0 = [
       "internet",
       "wifi"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf26c",
@@ -6577,7 +6577,7 @@ var cleanIcons_3_0 = [
       "wifi",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf26f",
@@ -6586,7 +6586,7 @@ var cleanIcons_3_0 = [
       "ios",
       "wine"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf26e",
@@ -6596,7 +6596,7 @@ var cleanIcons_3_0 = [
       "wine",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf271",
@@ -6609,7 +6609,7 @@ var cleanIcons_3_0 = [
       "lady",
       "woman"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf270",
@@ -6623,7 +6623,7 @@ var cleanIcons_3_0 = [
       "woman",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf225",
@@ -6634,268 +6634,268 @@ var cleanIcons_3_0 = [
       "mobile",
       "logo"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf227",
     "name": "logo-angular",
-    "oldName": "social-angular",
     "tags": [
       "angular",
       "logo"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf229",
     "name": "logo-apple",
-    "oldName": "social-apple",
     "tags": [
       "apple",
       "mac",
       "mobile",
       "logo"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf22b",
     "name": "logo-bitcoin",
-    "oldName": "social-bitcoin",
     "tags": [
       "bitcoin",
       "currency",
       "money",
       "logo",
       "trade"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf22d",
     "name": "logo-buffer",
-    "oldName": "social-buffer",
     "tags": [
       "buffer",
       "share",
       "logo"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf22f",
     "name": "logo-chrome",
-    "oldName": "social-chrome",
     "tags": [
       "chrome",
       "logo"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf230",
     "name": "logo-codepen",
-    "oldName": "social-codepen",
     "tags": [
       "codepen",
       "logo"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf231",
     "name": "logo-css3",
-    "oldName": "social-css3",
     "tags": [
       "css3",
       "logo"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf232",
     "name": "logo-designernews",
-    "oldName": "social-designernews",
     "tags": [
       "design",
       "designernews",
       "post",
       "logo"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf233",
     "name": "logo-dribbble",
-    "oldName": "social-dribbble",
     "tags": [
       "design",
       "dribbble",
       "logo"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf234",
     "name": "logo-dropbox",
-    "oldName": "social-dropbox",
     "tags": [
       "dropbox",
       "logo",
       "upload"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf235",
     "name": "logo-euro",
-    "oldName": "social-euro",
     "tags": [
       "euro",
       "logo"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf236",
     "name": "logo-facebook",
-    "oldName": "social-facebook",
     "tags": [
       "facebook",
       "like",
       "post",
       "share",
       "logo"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf237",
     "name": "logo-foursquare",
-    "oldName": "social-foursquare",
     "tags": [
       "checkin",
       "foursquare",
       "logo"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf238",
     "name": "logo-freebsd-devil",
-    "oldName": "social-freebsd-devil",
     "tags": [
       "freebsd",
       "devil"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf239",
     "name": "logo-github",
-    "oldName": "social-github",
     "tags": [
       "code",
       "github",
       "logo"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf23a",
     "name": "logo-google",
-    "oldName": "social-google",
     "tags": [
       "follow",
       "google",
       "post",
       "share",
       "logo"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf23b",
     "name": "logo-googleplus",
-    "oldName": "social-googleplus",
     "tags": [
       "follow",
       "googleplus",
       "post",
       "share",
       "logo"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf23c",
     "name": "logo-hackernews",
-    "oldName": "social-hackernews",
     "tags": [
       "discuss",
       "hackernews",
       "karma",
       "logo",
       "upvotes"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf23d",
     "name": "logo-html5",
-    "oldName": "social-html5",
     "tags": [
       "html5",
       "logo"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf23e",
     "name": "logo-instagram",
-    "oldName": "social-instagram",
     "tags": [
       "camera",
       "instagram",
       "photo",
       "logo"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf23f",
     "name": "logo-javascript",
-    "oldName": "social-javascript",
     "tags": [
       "javascript",
       "logo"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf240",
     "name": "logo-linkedin",
-    "oldName": "social-linkedin",
     "tags": [
       "connect",
       "linkedin",
       "logo"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf241",
     "name": "logo-markdown",
-    "oldName": "social-markdown",
     "tags": [
       "markdown",
       "logo"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf242",
     "name": "logo-nodejs",
-    "oldName": "social-nodejs",
     "tags": [
       "nodejs",
       "logo"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf243",
     "name": "logo-octocat",
-    "oldName": "social-octocat",
     "tags": [
       "octocat",
       "logo"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf244",
     "name": "logo-pinterest",
-    "oldName": "social-pinterest",
     "tags": [
       "pinterest",
       "logo"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf245",
@@ -6906,66 +6906,66 @@ var cleanIcons_3_0 = [
       "playstation",
       "logo"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf246",
     "name": "logo-python",
-    "oldName": "social-python",
     "tags": [
       "python",
       "logo"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf247",
     "name": "logo-reddit",
-    "oldName": "social-reddit",
     "tags": [
       "karma",
       "news",
       "reddit",
       "logo",
       "upvotes"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf248",
     "name": "logo-rss",
-    "oldName": "social-rss",
     "tags": [
       "blogging",
       "rss",
       "logo"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf249",
     "name": "logo-sass",
-    "oldName": "social-sass",
     "tags": [
       "sass",
       "logo"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf24a",
     "name": "logo-skype",
-    "oldName": "social-skype",
     "tags": [
       "call",
       "skype",
       "logo"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf24b",
     "name": "logo-snapchat",
-    "oldName": "social-snapchat",
     "tags": [
       "snapchat",
       "logo"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf24c",
@@ -6976,54 +6976,53 @@ var cleanIcons_3_0 = [
       "logo",
       "steam"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf24d",
     "name": "logo-tumblr",
-    "oldName": "social-tumblr",
     "tags": [
       "blogging",
       "logo",
       "tumblr"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf2ae",
     "name": "logo-tux",
-    "oldName": "social-tux",
     "tags": [
       "linux",
       "opensource",
       "logo",
       "tux"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf2af",
     "name": "logo-twitch",
-    "oldName": "social-twitch",
     "tags": [
       "logo",
       "twitch"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf2b0",
     "name": "logo-twitter",
-    "oldName": "social-twitter",
     "tags": [
       "follow",
       "post",
       "share",
       "logo",
       "twitter"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf2b1",
     "name": "logo-usd",
-    "oldName": "social-usd",
     "tags": [
       "cash",
       "currency",
@@ -7031,12 +7030,12 @@ var cleanIcons_3_0 = [
       "logo",
       "trade",
       "usd"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf2c4",
     "name": "logo-vimeo",
-    "oldName": "social-vimeo",
     "tags": [
       "share",
       "logo",
@@ -7044,36 +7043,37 @@ var cleanIcons_3_0 = [
       "view",
       "vimeo",
       "watch"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf2c5",
     "name": "logo-whatsapp",
-    "oldName": "social-whatsapp",
     "tags": [
       "logo",
       "whatsapp"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf32f",
     "name": "logo-windows",
-    "oldName": "social-windows",
     "tags": [
       "pc",
       "logo",
       "windows"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf330",
     "name": "logo-wordpress",
-    "oldName": "social-wordpress",
     "tags": [
       "blogging",
       "logo",
       "wordpress"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf34c",
@@ -7084,30 +7084,29 @@ var cleanIcons_3_0 = [
       "logo",
       "xbox"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf34d",
     "name": "logo-yahoo",
-    "oldName": "social-yahoo",
     "tags": [
       "logo",
       "yahoo"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf34e",
     "name": "logo-yen",
-    "oldName": "social-yen",
     "tags": [
       "logo",
       "yen"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf34f",
     "name": "logo-youtube",
-    "oldName": "social-youtube",
     "tags": [
       "share",
       "logo",
@@ -7115,24 +7114,24 @@ var cleanIcons_3_0 = [
       "view",
       "watch",
       "youtube"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf273",
     "name": "md-add",
-    "oldName": "android-add",
     "tags": [
       "md",
       "add",
       "include",
       "invite",
       "plus"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf272",
     "name": "md-add-circle",
-    "oldName": "android-add-circle",
     "tags": [
       "md",
       "add",
@@ -7140,7 +7139,8 @@ var cleanIcons_3_0 = [
       "invite",
       "plus",
       "circle"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf274",
@@ -7149,7 +7149,7 @@ var cleanIcons_3_0 = [
       "md",
       "alarm"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf275",
@@ -7161,12 +7161,11 @@ var cleanIcons_3_0 = [
       "slides",
       "square"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf276",
     "name": "md-alert",
-    "oldName": "android-alert",
     "tags": [
       "md",
       "!",
@@ -7175,7 +7174,8 @@ var cleanIcons_3_0 = [
       "exclamation",
       "notice",
       "warning"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf277",
@@ -7185,7 +7185,7 @@ var cleanIcons_3_0 = [
       "american",
       "football"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf278",
@@ -7197,7 +7197,7 @@ var cleanIcons_3_0 = [
       "metrics",
       "track"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf279",
@@ -7211,17 +7211,17 @@ var cleanIcons_3_0 = [
       "light",
       "settings"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf27a",
     "name": "md-apps",
-    "oldName": "android-apps",
     "tags": [
       "md",
       "apps",
       "applications"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf27b",
@@ -7231,131 +7231,131 @@ var cleanIcons_3_0 = [
       "appstore",
       "store"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf27c",
     "name": "md-archive",
-    "oldName": "android-archive",
     "tags": [
       "md",
       "archive",
       "email"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf27d",
     "name": "md-arrow-back",
-    "oldName": "android-arrow-back",
     "tags": [
       "md",
       "arrow",
       "back"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf27e",
     "name": "md-arrow-down",
-    "oldName": "android-arrow-down",
     "tags": [
       "md",
       "arrow",
       "down"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf280",
     "name": "md-arrow-dropdown",
-    "oldName": "android-arrow-dropdown",
     "tags": [
       "md",
       "arrow",
       "dropdown"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf27f",
     "name": "md-arrow-dropdown-circle",
-    "oldName": "android-arrow-dropdown-circle",
     "tags": [
       "md",
       "arrow",
       "dropdown",
       "circle"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf282",
     "name": "md-arrow-dropleft",
-    "oldName": "android-arrow-dropleft",
     "tags": [
       "md",
       "arrow",
       "dropleft"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf281",
     "name": "md-arrow-dropleft-circle",
-    "oldName": "android-arrow-dropleft-circle",
     "tags": [
       "md",
       "arrow",
       "dropleft",
       "circle"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf284",
     "name": "md-arrow-dropright",
-    "oldName": "android-arrow-dropright",
     "tags": [
       "md",
       "arrow",
       "dropright"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf283",
     "name": "md-arrow-dropright-circle",
-    "oldName": "android-arrow-dropright-circle",
     "tags": [
       "md",
       "arrow",
       "dropright",
       "circle"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf286",
     "name": "md-arrow-dropup",
-    "oldName": "android-arrow-dropup",
     "tags": [
       "md",
       "arrow",
       "dropup"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf285",
     "name": "md-arrow-dropup-circle",
-    "oldName": "android-arrow-dropup-circle",
     "tags": [
       "md",
       "arrow",
       "dropup",
       "circle"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf287",
     "name": "md-arrow-forward",
-    "oldName": "android-arrow-forward",
     "tags": [
       "md",
       "arrow",
       "forward"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf288",
@@ -7366,7 +7366,7 @@ var cleanIcons_3_0 = [
       "round",
       "back"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf289",
@@ -7377,7 +7377,7 @@ var cleanIcons_3_0 = [
       "round",
       "down"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf28a",
@@ -7388,7 +7388,7 @@ var cleanIcons_3_0 = [
       "round",
       "forward"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf28b",
@@ -7399,17 +7399,17 @@ var cleanIcons_3_0 = [
       "round",
       "up"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf28c",
     "name": "md-arrow-up",
-    "oldName": "android-arrow-up",
     "tags": [
       "md",
       "arrow",
       "up"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf28d",
@@ -7419,16 +7419,16 @@ var cleanIcons_3_0 = [
       "@",
       "at"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf28e",
     "name": "md-attach",
-    "oldName": "android-attach",
     "tags": [
       "md",
       "attach"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf28f",
@@ -7437,7 +7437,7 @@ var cleanIcons_3_0 = [
       "md",
       "backspace"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf290",
@@ -7448,7 +7448,7 @@ var cleanIcons_3_0 = [
       "camera",
       "reader"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf291",
@@ -7457,7 +7457,7 @@ var cleanIcons_3_0 = [
       "md",
       "baseball"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf292",
@@ -7466,7 +7466,7 @@ var cleanIcons_3_0 = [
       "md",
       "basket"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf293",
@@ -7475,7 +7475,7 @@ var cleanIcons_3_0 = [
       "md",
       "basketball"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf294",
@@ -7485,7 +7485,7 @@ var cleanIcons_3_0 = [
       "battery",
       "charging"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf295",
@@ -7495,7 +7495,7 @@ var cleanIcons_3_0 = [
       "battery",
       "dead"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf296",
@@ -7505,7 +7505,7 @@ var cleanIcons_3_0 = [
       "battery",
       "full"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf297",
@@ -7517,7 +7517,7 @@ var cleanIcons_3_0 = [
       "mixture",
       "potion"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf298",
@@ -7529,16 +7529,16 @@ var cleanIcons_3_0 = [
       "eat",
       "food"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf299",
     "name": "md-bicycle",
-    "oldName": "android-bicycle",
     "tags": [
       "md",
       "bicycle"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf29a",
@@ -7549,16 +7549,16 @@ var cleanIcons_3_0 = [
       "cloud",
       "connection"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf29b",
     "name": "md-boat",
-    "oldName": "android-boat",
     "tags": [
       "md",
       "boat"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf29c",
@@ -7567,7 +7567,7 @@ var cleanIcons_3_0 = [
       "md",
       "body"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf29d",
@@ -7578,7 +7578,7 @@ var cleanIcons_3_0 = [
       "heat",
       "hot"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf29e",
@@ -7588,19 +7588,19 @@ var cleanIcons_3_0 = [
       "book",
       "read"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf29f",
     "name": "md-bookmark",
-    "oldName": "android-bookmark",
     "tags": [
       "md",
       "bookmark",
       "favorite",
       "save",
       "tag"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf2a0",
@@ -7610,7 +7610,7 @@ var cleanIcons_3_0 = [
       "bookmarks",
       "favorite"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2a1",
@@ -7619,7 +7619,7 @@ var cleanIcons_3_0 = [
       "md",
       "bowtie"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2a2",
@@ -7630,7 +7630,7 @@ var cleanIcons_3_0 = [
       "folder",
       "organize"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2a3",
@@ -7640,7 +7640,7 @@ var cleanIcons_3_0 = [
       "browsers",
       "square"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2a4",
@@ -7649,7 +7649,7 @@ var cleanIcons_3_0 = [
       "md",
       "brush"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2a5",
@@ -7662,7 +7662,7 @@ var cleanIcons_3_0 = [
       "hacker",
       "program"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2a6",
@@ -7671,25 +7671,25 @@ var cleanIcons_3_0 = [
       "md",
       "build"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2a7",
     "name": "md-bulb",
-    "oldName": "android-bulb",
     "tags": [
       "md",
       "bulb"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf2a8",
     "name": "md-bus",
-    "oldName": "android-bus",
     "tags": [
       "md",
       "bus"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf2a9",
@@ -7698,7 +7698,7 @@ var cleanIcons_3_0 = [
       "md",
       "cafe"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2aa",
@@ -7709,49 +7709,49 @@ var cleanIcons_3_0 = [
       "calculator",
       "math"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2ab",
     "name": "md-calendar",
-    "oldName": "android-calendar",
     "tags": [
       "md",
       "calendar",
       "date",
       "month",
       "week"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf2ac",
     "name": "md-call",
-    "oldName": "android-call",
     "tags": [
       "md",
       "call",
       "telephone"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf2ad",
     "name": "md-camera",
-    "oldName": "android-camera",
     "tags": [
       "md",
       "camera",
       "image",
       "photo"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf2b2",
     "name": "md-car",
-    "oldName": "android-car",
     "tags": [
       "md",
       "car"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf2b3",
@@ -7768,16 +7768,16 @@ var cleanIcons_3_0 = [
       "price",
       "shopping"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2b4",
     "name": "md-cart",
-    "oldName": "android-cart",
     "tags": [
       "md",
       "cart"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf2b5",
@@ -7793,7 +7793,7 @@ var cleanIcons_3_0 = [
       "price",
       "shopping"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2b6",
@@ -7803,7 +7803,7 @@ var cleanIcons_3_0 = [
       "chatboxes",
       "talk"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2b7",
@@ -7813,26 +7813,26 @@ var cleanIcons_3_0 = [
       "chatbubbles",
       "talk"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2b9",
     "name": "md-checkbox",
-    "oldName": "android-checkbox",
     "tags": [
       "md",
       "checkbox"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf2b8",
     "name": "md-checkbox-outline",
-    "oldName": "android-checkbox-outline",
     "tags": [
       "md",
       "checkbox",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf2bc",
@@ -7841,17 +7841,17 @@ var cleanIcons_3_0 = [
       "md",
       "checkmark"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2bb",
     "name": "md-checkmark-circle",
-    "oldName": "android-checkmark-circle",
     "tags": [
       "md",
       "checkmark",
       "circle"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf2ba",
@@ -7862,17 +7862,17 @@ var cleanIcons_3_0 = [
       "circle",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2bd",
     "name": "md-clipboard",
-    "oldName": "android-clipboard",
     "tags": [
       "md",
       "clipboard",
       "write"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf2be",
@@ -7882,18 +7882,18 @@ var cleanIcons_3_0 = [
       "clock",
       "time"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2c0",
     "name": "md-close",
-    "oldName": "android-close",
     "tags": [
       "md",
       "close",
       "delete",
       "remove"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf2bf",
@@ -7905,7 +7905,7 @@ var cleanIcons_3_0 = [
       "remove",
       "circle"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2c1",
@@ -7915,24 +7915,23 @@ var cleanIcons_3_0 = [
       "closed",
       "captioning"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2c9",
     "name": "md-cloud",
-    "oldName": "android-cloud",
     "tags": [
       "md",
       "cloud",
       "storage",
       "weather",
       "whether"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf2c2",
     "name": "md-cloud-circle",
-    "oldName": "android-cloud-circle",
     "tags": [
       "md",
       "cloud",
@@ -7940,12 +7939,12 @@ var cleanIcons_3_0 = [
       "weather",
       "whether",
       "circle"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf2c3",
     "name": "md-cloud-done",
-    "oldName": "android-cloud-done",
     "tags": [
       "md",
       "cloud",
@@ -7953,7 +7952,8 @@ var cleanIcons_3_0 = [
       "weather",
       "whether",
       "done"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf2c6",
@@ -7967,12 +7967,11 @@ var cleanIcons_3_0 = [
       "download",
       "export"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2c7",
     "name": "md-cloud-outline",
-    "oldName": "android-cloud-outline",
     "tags": [
       "md",
       "cloud",
@@ -7980,7 +7979,8 @@ var cleanIcons_3_0 = [
       "weather",
       "whether",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf2c8",
@@ -7993,7 +7993,7 @@ var cleanIcons_3_0 = [
       "whether",
       "upload"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2cb",
@@ -8005,7 +8005,7 @@ var cleanIcons_3_0 = [
       "weather",
       "whether"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2ca",
@@ -8018,7 +8018,7 @@ var cleanIcons_3_0 = [
       "whether",
       "night"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2ce",
@@ -8030,7 +8030,7 @@ var cleanIcons_3_0 = [
       "hacker",
       "program"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2cc",
@@ -8044,7 +8044,7 @@ var cleanIcons_3_0 = [
       "download",
       "export"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2cd",
@@ -8057,7 +8057,7 @@ var cleanIcons_3_0 = [
       "program",
       "working"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2cf",
@@ -8069,7 +8069,7 @@ var cleanIcons_3_0 = [
       "options",
       "settings"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2d0",
@@ -8079,7 +8079,7 @@ var cleanIcons_3_0 = [
       "color",
       "fill"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2d1",
@@ -8089,17 +8089,17 @@ var cleanIcons_3_0 = [
       "color",
       "filter"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2d2",
     "name": "md-color-palette",
-    "oldName": "android-color-palette",
     "tags": [
       "md",
       "color",
       "palette"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf2d3",
@@ -8109,19 +8109,19 @@ var cleanIcons_3_0 = [
       "color",
       "wand"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2d4",
     "name": "md-compass",
-    "oldName": "android-compass",
     "tags": [
       "md",
       "compass",
       "directions",
       "location",
       "navigation"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf2d5",
@@ -8130,38 +8130,38 @@ var cleanIcons_3_0 = [
       "md",
       "construct"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2d6",
     "name": "md-contact",
-    "oldName": "android-contact",
     "tags": [
       "md",
       "contact",
       "people",
       "users"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf2d7",
     "name": "md-contacts",
-    "oldName": "android-contacts",
     "tags": [
       "md",
       "contacts",
       "people",
       "users"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf2d8",
     "name": "md-contract",
-    "oldName": "android-contract",
     "tags": [
       "md",
       "contract"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf2d9",
@@ -8175,7 +8175,7 @@ var cleanIcons_3_0 = [
       "light",
       "settings"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2da",
@@ -8186,16 +8186,16 @@ var cleanIcons_3_0 = [
       "duplicate",
       "paper"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2db",
     "name": "md-create",
-    "oldName": "android-create",
     "tags": [
       "md",
       "create"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf2dc",
@@ -8204,7 +8204,7 @@ var cleanIcons_3_0 = [
       "md",
       "crop"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2dd",
@@ -8216,7 +8216,7 @@ var cleanIcons_3_0 = [
       "cube",
       "square"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2de",
@@ -8225,16 +8225,16 @@ var cleanIcons_3_0 = [
       "md",
       "cut"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2df",
     "name": "md-desktop",
-    "oldName": "android-desktop",
     "tags": [
       "md",
       "desktop"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf2e0",
@@ -8245,38 +8245,38 @@ var cleanIcons_3_0 = [
       "disc",
       "vinyl"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2e1",
     "name": "md-document",
-    "oldName": "android-document",
     "tags": [
       "md",
       "document",
       "file",
       "paper"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf2e2",
     "name": "md-done-all",
-    "oldName": "android-done-all",
     "tags": [
       "md",
       "done",
       "all"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf2e3",
     "name": "md-download",
-    "oldName": "android-download",
     "tags": [
       "md",
       "download",
       "export"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf2e4",
@@ -8285,7 +8285,7 @@ var cleanIcons_3_0 = [
       "md",
       "easel"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2e5",
@@ -8298,25 +8298,25 @@ var cleanIcons_3_0 = [
       "egg",
       "twitter"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2e6",
     "name": "md-exit",
-    "oldName": "android-exit",
     "tags": [
       "md",
       "exit"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf2e7",
     "name": "md-expand",
-    "oldName": "android-expand",
     "tags": [
       "md",
       "expand"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf2e9",
@@ -8329,7 +8329,7 @@ var cleanIcons_3_0 = [
       "see",
       "view"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2e8",
@@ -8343,7 +8343,7 @@ var cleanIcons_3_0 = [
       "view",
       "off"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2ea",
@@ -8355,7 +8355,7 @@ var cleanIcons_3_0 = [
       "next",
       "skip"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2eb",
@@ -8367,7 +8367,7 @@ var cleanIcons_3_0 = [
       "girl",
       "lady"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2ec",
@@ -8377,16 +8377,16 @@ var cleanIcons_3_0 = [
       "archive",
       "filing"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2ed",
     "name": "md-film",
-    "oldName": "android-film",
     "tags": [
       "md",
       "film"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf2ee",
@@ -8396,7 +8396,7 @@ var cleanIcons_3_0 = [
       "finger",
       "print"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2ef",
@@ -8407,7 +8407,7 @@ var cleanIcons_3_0 = [
       "flag",
       "marker"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2f0",
@@ -8419,7 +8419,7 @@ var cleanIcons_3_0 = [
       "heat",
       "hot"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2f1",
@@ -8431,7 +8431,7 @@ var cleanIcons_3_0 = [
       "weather",
       "whether"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2f2",
@@ -8443,7 +8443,7 @@ var cleanIcons_3_0 = [
       "mixture",
       "potion"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2f3",
@@ -8452,28 +8452,28 @@ var cleanIcons_3_0 = [
       "md",
       "flower"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2f5",
     "name": "md-folder",
-    "oldName": "android-folder",
     "tags": [
       "md",
       "file",
       "folder"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf2f4",
     "name": "md-folder-open",
-    "oldName": "android-folder-open",
     "tags": [
       "md",
       "file",
       "folder",
       "open"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf2f6",
@@ -8482,17 +8482,17 @@ var cleanIcons_3_0 = [
       "md",
       "football"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2f7",
     "name": "md-funnel",
-    "oldName": "android-funnel",
     "tags": [
       "md",
       "funnel",
       "sort"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf2f8",
@@ -8503,7 +8503,7 @@ var cleanIcons_3_0 = [
       "controller",
       "a"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2f9",
@@ -8514,7 +8514,7 @@ var cleanIcons_3_0 = [
       "controller",
       "b"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2fa",
@@ -8524,7 +8524,7 @@ var cleanIcons_3_0 = [
       "git",
       "branch"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2fb",
@@ -8534,7 +8534,7 @@ var cleanIcons_3_0 = [
       "git",
       "commit"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2fc",
@@ -8544,7 +8544,7 @@ var cleanIcons_3_0 = [
       "git",
       "compare"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2fd",
@@ -8554,7 +8554,7 @@ var cleanIcons_3_0 = [
       "git",
       "merge"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2fe",
@@ -8564,7 +8564,7 @@ var cleanIcons_3_0 = [
       "git",
       "network"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf2ff",
@@ -8575,7 +8575,7 @@ var cleanIcons_3_0 = [
       "pull",
       "request"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf300",
@@ -8588,16 +8588,16 @@ var cleanIcons_3_0 = [
       "see",
       "steve"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf301",
     "name": "md-globe",
-    "oldName": "android-globe",
     "tags": [
       "md",
       "globe"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf302",
@@ -8607,7 +8607,7 @@ var cleanIcons_3_0 = [
       "grid",
       "menu"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf303",
@@ -8619,22 +8619,21 @@ var cleanIcons_3_0 = [
       "settings",
       "tools"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf304",
     "name": "md-hand",
-    "oldName": "android-hand",
     "tags": [
       "md",
       "hand",
       "stop"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf305",
     "name": "md-happy",
-    "oldName": "android-happy",
     "tags": [
       "md",
       "fun",
@@ -8642,7 +8641,8 @@ var cleanIcons_3_0 = [
       "happy",
       "like",
       "yes"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf306",
@@ -8651,7 +8651,7 @@ var cleanIcons_3_0 = [
       "md",
       "headset"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf308",
@@ -8661,7 +8661,7 @@ var cleanIcons_3_0 = [
       "heart",
       "love"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf307",
@@ -8672,7 +8672,7 @@ var cleanIcons_3_0 = [
       "love",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf30b",
@@ -8684,7 +8684,7 @@ var cleanIcons_3_0 = [
       "information",
       "question"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf309",
@@ -8697,7 +8697,7 @@ var cleanIcons_3_0 = [
       "question",
       "buoy"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf30a",
@@ -8710,17 +8710,17 @@ var cleanIcons_3_0 = [
       "question",
       "circle"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf30c",
     "name": "md-home",
-    "oldName": "android-home",
     "tags": [
       "md",
       "home",
       "house"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf30d",
@@ -8730,18 +8730,18 @@ var cleanIcons_3_0 = [
       "ice",
       "cream"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf30e",
     "name": "md-image",
-    "oldName": "android-image",
     "tags": [
       "md",
       "camera",
       "image",
       "photo"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf30f",
@@ -8751,7 +8751,7 @@ var cleanIcons_3_0 = [
       "images",
       "photo"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf310",
@@ -8762,7 +8762,7 @@ var cleanIcons_3_0 = [
       "infinite",
       "loop"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf312",
@@ -8773,7 +8773,7 @@ var cleanIcons_3_0 = [
       "information",
       "knowledge"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf311",
@@ -8785,7 +8785,7 @@ var cleanIcons_3_0 = [
       "knowledge",
       "circle"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf313",
@@ -8798,7 +8798,7 @@ var cleanIcons_3_0 = [
       "ionic",
       "sexy"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf314",
@@ -8807,7 +8807,7 @@ var cleanIcons_3_0 = [
       "md",
       "ionitron"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf315",
@@ -8818,7 +8818,7 @@ var cleanIcons_3_0 = [
       "jet",
       "plane"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf316",
@@ -8828,7 +8828,7 @@ var cleanIcons_3_0 = [
       "access",
       "key"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf317",
@@ -8838,19 +8838,19 @@ var cleanIcons_3_0 = [
       "keypad",
       "type"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf318",
     "name": "md-laptop",
-    "oldName": "android-laptop",
     "tags": [
       "md",
       "apple",
       "laptop",
       "macbook",
       "osx"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf319",
@@ -8863,7 +8863,7 @@ var cleanIcons_3_0 = [
       "plant",
       "recycle"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf22e",
@@ -8876,16 +8876,16 @@ var cleanIcons_3_0 = [
       "href",
       "link"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf31b",
     "name": "md-list",
-    "oldName": "android-list",
     "tags": [
       "md",
       "list"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf31a",
@@ -8895,28 +8895,28 @@ var cleanIcons_3_0 = [
       "list",
       "box"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf31c",
     "name": "md-locate",
-    "oldName": "android-locate",
     "tags": [
       "md",
       "gps",
       "locate",
       "maps",
       "navigate"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf31d",
     "name": "md-lock",
-    "oldName": "android-lock",
     "tags": [
       "md",
       "lock"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf31e",
@@ -8926,7 +8926,7 @@ var cleanIcons_3_0 = [
       "log",
       "in"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf31f",
@@ -8936,7 +8936,7 @@ var cleanIcons_3_0 = [
       "log",
       "out"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf320",
@@ -8947,17 +8947,17 @@ var cleanIcons_3_0 = [
       "magnet",
       "sticky"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf322",
     "name": "md-mail",
-    "oldName": "android-mail",
     "tags": [
       "md",
       "email",
       "mail"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf321",
@@ -8968,7 +8968,7 @@ var cleanIcons_3_0 = [
       "mail",
       "open"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf323",
@@ -8981,7 +8981,7 @@ var cleanIcons_3_0 = [
       "male",
       "male"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf324",
@@ -8994,19 +8994,19 @@ var cleanIcons_3_0 = [
       "male",
       "man"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf325",
     "name": "md-map",
-    "oldName": "android-map",
     "tags": [
       "md",
       "gps",
       "map",
       "navigation",
       "pin"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf326",
@@ -9015,7 +9015,7 @@ var cleanIcons_3_0 = [
       "md",
       "medal"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf327",
@@ -9024,7 +9024,7 @@ var cleanIcons_3_0 = [
       "md",
       "medical"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf328",
@@ -9038,7 +9038,7 @@ var cleanIcons_3_0 = [
       "medkit",
       "sick"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf329",
@@ -9047,16 +9047,16 @@ var cleanIcons_3_0 = [
       "md",
       "megaphone"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf32a",
     "name": "md-menu",
-    "oldName": "android-menu",
     "tags": [
       "md",
       "menu"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf32c",
@@ -9069,7 +9069,7 @@ var cleanIcons_3_0 = [
       "speaker",
       "talk"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf32b",
@@ -9083,12 +9083,11 @@ var cleanIcons_3_0 = [
       "talk",
       "off"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf32d",
     "name": "md-microphone",
-    "oldName": "android-microphone",
     "tags": [
       "md",
       "microphone",
@@ -9097,7 +9096,8 @@ var cleanIcons_3_0 = [
       "recorde",
       "sound",
       "speak"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf32e",
@@ -9109,7 +9109,7 @@ var cleanIcons_3_0 = [
       "night",
       "sky"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf1c9",
@@ -9119,7 +9119,7 @@ var cleanIcons_3_0 = [
       "more",
       "options"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf331",
@@ -9128,7 +9128,7 @@ var cleanIcons_3_0 = [
       "md",
       "move"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf332",
@@ -9138,7 +9138,7 @@ var cleanIcons_3_0 = [
       "musical",
       "note"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf333",
@@ -9148,12 +9148,11 @@ var cleanIcons_3_0 = [
       "musical",
       "notes"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf334",
     "name": "md-navigate",
-    "oldName": "android-navigate",
     "tags": [
       "md",
       "gps",
@@ -9161,7 +9160,8 @@ var cleanIcons_3_0 = [
       "map",
       "navigate",
       "pin"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf335",
@@ -9171,26 +9171,26 @@ var cleanIcons_3_0 = [
       "no",
       "smoking"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf338",
     "name": "md-notifications",
-    "oldName": "android-notifications",
     "tags": [
       "md",
       "notifications"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf336",
     "name": "md-notifications-off",
-    "oldName": "android-notifications-off",
     "tags": [
       "md",
       "notifications",
       "off"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf337",
@@ -9200,7 +9200,7 @@ var cleanIcons_3_0 = [
       "notifications",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf339",
@@ -9212,7 +9212,7 @@ var cleanIcons_3_0 = [
       "nuclear",
       "warning"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf33a",
@@ -9221,25 +9221,25 @@ var cleanIcons_3_0 = [
       "md",
       "nutrition"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf33b",
     "name": "md-open",
-    "oldName": "android-open",
     "tags": [
       "md",
       "open"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf33c",
     "name": "md-options",
-    "oldName": "android-options",
     "tags": [
       "md",
       "options"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf33d",
@@ -9251,7 +9251,7 @@ var cleanIcons_3_0 = [
       "electricity",
       "outlet"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf33f",
@@ -9262,7 +9262,7 @@ var cleanIcons_3_0 = [
       "paper",
       "paper"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf33e",
@@ -9276,7 +9276,7 @@ var cleanIcons_3_0 = [
       "jet",
       "plane"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf340",
@@ -9290,7 +9290,7 @@ var cleanIcons_3_0 = [
       "weather",
       "whether"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf341",
@@ -9303,7 +9303,7 @@ var cleanIcons_3_0 = [
       "music",
       "pause"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf342",
@@ -9312,12 +9312,11 @@ var cleanIcons_3_0 = [
       "md",
       "paw"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf343",
     "name": "md-people",
-    "oldName": "android-people",
     "tags": [
       "md",
       "head",
@@ -9326,12 +9325,12 @@ var cleanIcons_3_0 = [
       "person",
       "stalker",
       "users"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf345",
     "name": "md-person",
-    "oldName": "android-person",
     "tags": [
       "md",
       "head",
@@ -9339,12 +9338,12 @@ var cleanIcons_3_0 = [
       "person",
       "staff",
       "users"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf344",
     "name": "md-person-add",
-    "oldName": "android-person-add",
     "tags": [
       "md",
       "head",
@@ -9356,27 +9355,28 @@ var cleanIcons_3_0 = [
       "include",
       "invite",
       "plus"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf346",
     "name": "md-phone-landscape",
-    "oldName": "android-phone-landscape",
     "tags": [
       "md",
       "phone",
       "landscape"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf347",
     "name": "md-phone-portrait",
-    "oldName": "android-phone-portrait",
     "tags": [
       "md",
       "phone",
       "portrait"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf348",
@@ -9388,7 +9388,7 @@ var cleanIcons_3_0 = [
       "square",
       "stills"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf349",
@@ -9400,18 +9400,18 @@ var cleanIcons_3_0 = [
       "pie",
       "settings"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf34a",
     "name": "md-pin",
-    "oldName": "android-pin",
     "tags": [
       "md",
       "gps",
       "navigation",
       "pin"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf34b",
@@ -9420,7 +9420,7 @@ var cleanIcons_3_0 = [
       "md",
       "pint"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf354",
@@ -9432,18 +9432,18 @@ var cleanIcons_3_0 = [
       "food",
       "pizza"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf355",
     "name": "md-plane",
-    "oldName": "android-plane",
     "tags": [
       "md",
       "fly",
       "jet",
       "plane"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf356",
@@ -9457,7 +9457,7 @@ var cleanIcons_3_0 = [
       "planet",
       "space"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf357",
@@ -9470,7 +9470,7 @@ var cleanIcons_3_0 = [
       "right",
       "watch"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf358",
@@ -9484,7 +9484,7 @@ var cleanIcons_3_0 = [
       "podium",
       "win"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf359",
@@ -9495,7 +9495,7 @@ var cleanIcons_3_0 = [
       "on",
       "power"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf35a",
@@ -9509,7 +9509,7 @@ var cleanIcons_3_0 = [
       "pricetag",
       "shopping"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf35b",
@@ -9523,16 +9523,16 @@ var cleanIcons_3_0 = [
       "pricetags",
       "shopping"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf35c",
     "name": "md-print",
-    "oldName": "android-print",
     "tags": [
       "md",
       "print"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf35d",
@@ -9544,7 +9544,7 @@ var cleanIcons_3_0 = [
       "pulse",
       "rate"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf35e",
@@ -9554,7 +9554,7 @@ var cleanIcons_3_0 = [
       "qr",
       "scanner"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf35f",
@@ -9565,7 +9565,7 @@ var cleanIcons_3_0 = [
       "quotation",
       "quote"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf362",
@@ -9574,29 +9574,29 @@ var cleanIcons_3_0 = [
       "md",
       "radio"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf360",
     "name": "md-radio-button-off",
-    "oldName": "android-radio-button-off",
     "tags": [
       "md",
       "radio",
       "button",
       "off"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf361",
     "name": "md-radio-button-on",
-    "oldName": "android-radio-button-on",
     "tags": [
       "md",
       "radio",
       "button",
       "on"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf363",
@@ -9609,7 +9609,7 @@ var cleanIcons_3_0 = [
       "weather",
       "whether"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf364",
@@ -9621,7 +9621,7 @@ var cleanIcons_3_0 = [
       "tape",
       "voicemail"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf365",
@@ -9631,19 +9631,19 @@ var cleanIcons_3_0 = [
       "forward",
       "redo"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf366",
     "name": "md-refresh",
-    "oldName": "android-refresh",
     "tags": [
       "md",
       "refresh",
       "reload",
       "renew",
       "reset"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf228",
@@ -9656,30 +9656,30 @@ var cleanIcons_3_0 = [
       "reset",
       "circle"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf368",
     "name": "md-remove",
-    "oldName": "android-remove",
     "tags": [
       "md",
       "minus",
       "remove",
       "subtract"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf367",
     "name": "md-remove-circle",
-    "oldName": "android-remove-circle",
     "tags": [
       "md",
       "minus",
       "remove",
       "subtract",
       "circle"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf369",
@@ -9688,7 +9688,7 @@ var cleanIcons_3_0 = [
       "md",
       "reorder"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf36a",
@@ -9697,7 +9697,7 @@ var cleanIcons_3_0 = [
       "md",
       "repeat"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf36b",
@@ -9706,16 +9706,16 @@ var cleanIcons_3_0 = [
       "md",
       "resize"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf36c",
     "name": "md-restaurant",
-    "oldName": "android-restaurant",
     "tags": [
       "md",
       "restaurant"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf36d",
@@ -9725,7 +9725,7 @@ var cleanIcons_3_0 = [
       "return",
       "left"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf36e",
@@ -9735,7 +9735,7 @@ var cleanIcons_3_0 = [
       "return",
       "right"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf36f",
@@ -9747,7 +9747,7 @@ var cleanIcons_3_0 = [
       "image",
       "photo"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf370",
@@ -9759,7 +9759,7 @@ var cleanIcons_3_0 = [
       "previous",
       "rewind"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf371",
@@ -9768,7 +9768,7 @@ var cleanIcons_3_0 = [
       "md",
       "ribbon"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf372",
@@ -9777,19 +9777,19 @@ var cleanIcons_3_0 = [
       "md",
       "rose"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf373",
     "name": "md-sad",
-    "oldName": "android-sad",
     "tags": [
       "md",
       "bad",
       "cry",
       "no",
       "sad"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf374",
@@ -9798,57 +9798,57 @@ var cleanIcons_3_0 = [
       "md",
       "school"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf375",
     "name": "md-search",
-    "oldName": "android-search",
     "tags": [
       "md",
       "magnifyingglass",
       "search"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf376",
     "name": "md-send",
-    "oldName": "android-send",
     "tags": [
       "md",
       "email",
       "paper",
       "send"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf377",
     "name": "md-settings",
-    "oldName": "android-settings",
     "tags": [
       "md",
       "options",
       "settings"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf379",
     "name": "md-share",
-    "oldName": "android-share",
     "tags": [
       "md",
       "share"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf378",
     "name": "md-share-alt",
-    "oldName": "android-share-alt",
     "tags": [
       "md",
       "share",
       "alt"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf37a",
@@ -9857,7 +9857,7 @@ var cleanIcons_3_0 = [
       "md",
       "shirt"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf37b",
@@ -9867,7 +9867,7 @@ var cleanIcons_3_0 = [
       "random",
       "shuffle"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf37c",
@@ -9877,7 +9877,7 @@ var cleanIcons_3_0 = [
       "skip",
       "backward"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf37d",
@@ -9887,7 +9887,7 @@ var cleanIcons_3_0 = [
       "skip",
       "forward"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf37e",
@@ -9896,7 +9896,7 @@ var cleanIcons_3_0 = [
       "md",
       "snow"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf37f",
@@ -9908,7 +9908,7 @@ var cleanIcons_3_0 = [
       "speed",
       "speedometer"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf381",
@@ -9917,7 +9917,7 @@ var cleanIcons_3_0 = [
       "md",
       "square"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf380",
@@ -9927,39 +9927,39 @@ var cleanIcons_3_0 = [
       "square",
       "outline"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf384",
     "name": "md-star",
-    "oldName": "android-star",
     "tags": [
       "md",
       "favorite",
       "star"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf382",
     "name": "md-star-half",
-    "oldName": "android-star-half",
     "tags": [
       "md",
       "favorite",
       "star",
       "half"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf383",
     "name": "md-star-outline",
-    "oldName": "android-star-outline",
     "tags": [
       "md",
       "favorite",
       "star",
       "outline"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf385",
@@ -9968,30 +9968,29 @@ var cleanIcons_3_0 = [
       "md",
       "stats"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf386",
     "name": "md-stopwatch",
-    "oldName": "android-stopwatch",
     "tags": [
       "md",
       "stopwatch"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf387",
     "name": "md-subway",
-    "oldName": "android-subway",
     "tags": [
       "md",
       "subway"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf388",
     "name": "md-sunny",
-    "oldName": "android-sunny",
     "tags": [
       "md",
       "light",
@@ -9999,7 +9998,8 @@ var cleanIcons_3_0 = [
       "sunny",
       "weather",
       "whether"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf389",
@@ -10008,7 +10008,7 @@ var cleanIcons_3_0 = [
       "md",
       "swap"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf38a",
@@ -10017,16 +10017,16 @@ var cleanIcons_3_0 = [
       "md",
       "switch"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf38b",
     "name": "md-sync",
-    "oldName": "android-sync",
     "tags": [
       "md",
       "sync"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf38c",
@@ -10036,7 +10036,7 @@ var cleanIcons_3_0 = [
       "tablet",
       "landscape"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf38d",
@@ -10046,7 +10046,7 @@ var cleanIcons_3_0 = [
       "tablet",
       "portrait"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf38e",
@@ -10055,7 +10055,7 @@ var cleanIcons_3_0 = [
       "md",
       "tennisball"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf38f",
@@ -10064,7 +10064,7 @@ var cleanIcons_3_0 = [
       "md",
       "text"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf390",
@@ -10078,7 +10078,7 @@ var cleanIcons_3_0 = [
       "temperature",
       "thermometer"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf391",
@@ -10088,7 +10088,7 @@ var cleanIcons_3_0 = [
       "thumbs",
       "down"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf392",
@@ -10098,7 +10098,7 @@ var cleanIcons_3_0 = [
       "thumbs",
       "up"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf393",
@@ -10115,12 +10115,11 @@ var cleanIcons_3_0 = [
       "weather",
       "whether"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf394",
     "name": "md-time",
-    "oldName": "android-time",
     "tags": [
       "md",
       "clock",
@@ -10129,7 +10128,8 @@ var cleanIcons_3_0 = [
       "second",
       "time",
       "watch"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf395",
@@ -10139,16 +10139,16 @@ var cleanIcons_3_0 = [
       "clock",
       "timer"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf396",
     "name": "md-train",
-    "oldName": "android-train",
     "tags": [
       "md",
       "train"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf397",
@@ -10157,7 +10157,7 @@ var cleanIcons_3_0 = [
       "md",
       "transgender"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf398",
@@ -10169,7 +10169,7 @@ var cleanIcons_3_0 = [
       "remove",
       "trash"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf399",
@@ -10179,7 +10179,7 @@ var cleanIcons_3_0 = [
       "trending",
       "down"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf39a",
@@ -10189,7 +10189,7 @@ var cleanIcons_3_0 = [
       "trending",
       "up"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf39b",
@@ -10203,7 +10203,7 @@ var cleanIcons_3_0 = [
       "trophy",
       "win"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf39c",
@@ -10216,7 +10216,7 @@ var cleanIcons_3_0 = [
       "umbrella",
       "wet"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf39d",
@@ -10226,16 +10226,16 @@ var cleanIcons_3_0 = [
       "reply",
       "undo"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf39e",
     "name": "md-unlock",
-    "oldName": "android-unlock",
     "tags": [
       "md",
       "unlock"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf39f",
@@ -10247,74 +10247,74 @@ var cleanIcons_3_0 = [
       "movie",
       "videocam"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf3a0",
     "name": "md-volume-down",
-    "oldName": "android-volume-down",
     "tags": [
       "md",
       "volume",
       "down"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf3a1",
     "name": "md-volume-mute",
-    "oldName": "android-volume-mute",
     "tags": [
       "md",
       "volume",
       "mute"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf3a2",
     "name": "md-volume-off",
-    "oldName": "android-volume-off",
     "tags": [
       "md",
       "volume",
       "off"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf3a3",
     "name": "md-volume-up",
-    "oldName": "android-volume-up",
     "tags": [
       "md",
       "volume",
       "up"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf3a4",
     "name": "md-walk",
-    "oldName": "android-walk",
     "tags": [
       "md",
       "walk"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf3a5",
     "name": "md-warning",
-    "oldName": "android-warning",
     "tags": [
       "md",
       "warning"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf3a6",
     "name": "md-watch",
-    "oldName": "android-watch",
     "tags": [
       "md",
       "watch"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf3a7",
@@ -10323,19 +10323,19 @@ var cleanIcons_3_0 = [
       "md",
       "water"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf3a8",
     "name": "md-wifi",
-    "oldName": "android-wifi",
     "tags": [
       "md",
       "bars",
       "connection",
       "internet",
       "wifi"
-    ]
+    ],
+    "communityTags": []
   },
   {
     "code": "0xf3a9",
@@ -10344,7 +10344,7 @@ var cleanIcons_3_0 = [
       "md",
       "wine"
     ],
-    "oldName": null
+    "communityTags": []
   },
   {
     "code": "0xf3aa",
@@ -10357,6 +10357,6 @@ var cleanIcons_3_0 = [
       "lady",
       "woman"
     ],
-    "oldName": null
+    "communityTags": []
   }
 ];

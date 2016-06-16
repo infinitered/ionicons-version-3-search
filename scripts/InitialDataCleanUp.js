@@ -6,34 +6,10 @@ APP.InitialDataCleanUp = (function(){
   var _matches = 0;
 
   function init(){
-    console.log("3.0: " + icons3_0.length + ", 2.0.1: " + icons2_0_1.length);
-    _addPotentialNameMatches();
-    console.log("name matches: " + _matches);
     _addTagsTo3_0();
   }
 
-  function _addPotentialNameMatches(){
-    var names_3_0 = icons3_0.map(function(e){
-      return e.name;
-    });
-
-    icons2_0_1.forEach(function(icon){
-      var newNameGuess = icon.name;
-      newNameGuess = newNameGuess.replace('social', 'logo');
-      newNameGuess = newNameGuess.replace('android', 'md');
-
-      // Check if name match exists
-      if (names_3_0.indexOf(newNameGuess) !== -1){
-        _matches += 1;
-        icon.newName = newNameGuess;
-        icons3_0[names_3_0.indexOf(newNameGuess)].oldName = icon.name;
-      } else {
-        icon.newName = null;
-      }
-    });
-  }
-
-  // Adds search tags and null old name if was not matched
+  // Adds search tags
   function _addTagsTo3_0(){
     icons3_0.forEach(function(icon){
       // Add tags
@@ -55,10 +31,8 @@ APP.InitialDataCleanUp = (function(){
         }
       });
 
-      // Add null oldName if not set yet
-      if (!icon.oldName){
-        icon.oldName = null;
-      }
+      // Add empty community tags
+      icon.communityTags = [];
     });
   }
 
