@@ -1,3 +1,4 @@
+// Icon list
 var Icons = React.createClass({
   render: function(){
     var icons = this.props.icons.map(function(icon){
@@ -19,17 +20,75 @@ var Icons = React.createClass({
   }
 });
 
+
+
+
+// Search form
+var SearchForm = React.createClass({
+  handleFilterChange: function(event){
+    var newFilterText = ReactDOM.findDOMNode(this.refs.search).value;
+    this.props.filter(newFilterText);
+  },
+
+  render: function(){
+    return (
+      <div id="search">
+        <form>
+          <div className="input-group">
+            <div className="input-group-addon">
+              <i className="icon ion-ios-search"></i>
+            </div>
+
+            <input
+              type="text"
+              placeholder="Search icons"
+              className="form-control"
+              ref="search"
+              value={this.props.filterText}
+              onChange={this.handleFilterChange} />
+          </div>
+        </form>
+      </div>
+    );
+  }
+});
+
+
+
+
+// Main container component
 var Main = React.createClass({
   getInitialState: function(){
     return {
-      icons: cleanIcons_3_0
+      icons: cleanIcons_3_0,
+      filterText: ''
     }
+  },
+
+  filter: function(newText){
+    this.setState({filterText: newText});
+  },
+
+  filteredIcons: function(){
+    var icons = this.state.icons,
+        filterTextLower = this.state.filterText.toLowerCase();
+
+    if (filterTextLower !== ''){
+      icons = icons.filter(function(icon){
+        var inName = icon.name.indexOf(filterTextLower) !== -1;
+        var inTags = icon.tags.join(' ').indexOf(filterTextLower) !== -1;
+        return (inName || inTags);
+      });
+    }
+
+    return icons;
   },
 
   render: function(){
     return (
       <div id="main">
-        <Icons icons={this.state.icons} />
+        <SearchForm filterText={this.state.filterText} filter={this.filter}  />
+        <Icons icons={this.filteredIcons()} />
       </div>
     );
   }

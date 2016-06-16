@@ -17,3 +17,14 @@
     font-size: 0.8em;
   }
 }
+
+#search {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+
+  form {
+    width: 50%;
+    min-width: 300px;
+  }
+}
