@@ -5,10 +5,12 @@
 
 .icon-container {
   margin-bottom: 20px;
-  width: 220px; }
+  width: 220px;
+  display: flex;
+  align-items: center; }
   .icon-container i {
     font-size: 2em;
-    margin-right: 5px; }
+    margin-right: 10px; }
   .icon-container .name {
     font-size: 0.8em; }
 
