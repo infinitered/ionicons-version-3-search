@@ -30,3 +30,25 @@
     min-width: 300px;
   }
 }
+
+
+
+
+// ****** Modal ******
+.quick-copy-inputs {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+  .quick-copy {
+    width: 40%;
+    min-width: 250px;
+  }
+}
+
+.sample-sizes {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin-bottom: 20px;
+}
