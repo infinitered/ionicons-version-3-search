@@ -1,10 +1,18 @@
-# ionicons version 3.0 search
+# Ionicons Version 3.0 Search
 
-Dynamically search for version 3.0 Ionicons using icon names, tags, and community-added tags to better locate the icon you need! View the live page [here](https://infinitered.github.io/ionicons-version-3-search/) and get your search on!
+Dynamically search for version 3.0 Ionicons using icon names, tags, and community-added tags to better locate the icon you need! **View the live page [here](https://infinitered.github.io/ionicons-version-3-search/)** and get your search on!
+
+Clicking on an icon provides convenience text for classname, full HTML tag, escaped HTML, and CSS content. It also shows the icon in various font sizes.
+
+Think an icon needs another tag? Is the version 2.0 name not finding the new 3.0 tag you want? See below for how to contribute!
+
+## What is Ionicons?
 
 [Ionicons](http://ionicons.com/) by [Drifty](https://github.com/driftyco) is the premium icon font for [Ionic](http://ionicframework.com/), but can be used in any project. It is completely free and open source under an MIT license. The original repo can be accessed [here](https://github.com/driftyco/ionicons/), and switch to branch 3.0 to see version 3.0.
 
-## Community Tag Contributions
+If you're using version 2.0, you can search for icons on the [Ionicons](http://ionicons.com/) site.
+
+## How to Contribute
 
 Contributions to the community tags are welcome. Add tags to the `communityTags` array for the associated icon in **scripts/icons.js**. Verify the changes are non-breaking - use a JSON linter and run the app locally to test.
 
