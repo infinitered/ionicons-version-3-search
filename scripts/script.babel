@@ -34,15 +34,12 @@ var SearchForm = React.createClass({
     return (
       <div id="search">
         <form>
-          <div className="input-group">
-            <div className="input-group-addon">
-              <i className="icon ion-ios-search"></i>
-            </div>
-
+          <div className="form-group">
             <input
               type="text"
-              placeholder="Search icons"
+              placeholder="&#xf4a5; Search icons"
               className="form-control"
+              style={{fontFamily: 'Arial, Ionicons'}}
               ref="search"
               value={this.props.filterText}
               onChange={this.handleFilterChange} />
