@@ -1,6 +1,6 @@
 # ionicons version 3.0 search
 
-Dynamically search for version 3.0 Ionicons using icon names, tags, and community-added tags to better locate the icon you need.
+Dynamically search for version 3.0 Ionicons using icon names, tags, and community-added tags to better locate the icon you need! View the live page [here](https://infinitered.github.io/ionicons-version-3-search/) and get your search on!
 
 [Ionicons](http://ionicons.com/) by [Drifty](https://github.com/driftyco) is the premium icon font for [Ionic](http://ionicframework.com/), but can be used in any project. It is completely free and open source under an MIT license. The original repo can be accessed [here](https://github.com/driftyco/ionicons/), and switch to branch 3.0 to see version 3.0.
 
