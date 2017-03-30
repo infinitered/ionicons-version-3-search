@@ -23,6 +23,10 @@ $ ruby -run -e httpd . -p 3000
 
 Then go to localhost:3000 to view it.
 
+## Premium Support
+
+[Ionicons Version 3.0 Search](https://github.com/infinitered/ionicons-version-3-search), as an open source project, is free to use and always will be. [Infinite Red](https://infinite.red/) offers premium Ionicons Version 3.0 Search support and general mobile app design/development services. Email us at [hello@infinite.red](mailto:hello@infinite.red) to get in touch with us for more details.
+
 ## License
 
 The MIT License (MIT)
