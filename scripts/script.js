@@ -109,6 +109,10 @@ var IconModal = React.createClass({
                 <QuickCopyInput
                   label={"CSS Content"}
                   inputValue={icon.code.replace("0x", "\\")} />
+                <DirectCopyInput
+                  label="Direct Copy"
+                  code={icon.code.replace('0x', '&#x') + ';'}
+                />
               </div>
             </div>
           </div>
@@ -152,6 +156,33 @@ var QuickCopyInput = React.createClass({
 });
 
 
+var DirectCopyInput = React.createClass({
+  handleClick: function (event) {
+    event.target.select()
+  },
+
+  componentDidUpdate: function () {
+    const container = document.createElement('label')
+    container.innerHTML = this.props.code
+    this.refs.input.value = container.innerText
+  },
+
+  render: function () {
+    return (
+      <div className="form-group quick-copy">
+        <label>{this.props.label}</label>
+        <input
+          ref="input"
+          className="form-control"
+          style={{ fontFamily: 'Ionicons' }}
+          type="text"
+          readOnly="readonly"
+          onClick={this.handleClick}
+        />
+      </div>
+    )
+  },
+})
 
 
 // Main container component
