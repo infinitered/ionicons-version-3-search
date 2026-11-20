@@ -1,7 +1,43 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>ionicons search</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ionicons v3 Icon Search – Find and Copy Ionicons 3 Icons</title>
+  <meta name="description" content="Search all Ionicons version 3 icons by name and community tags, preview them at multiple sizes, and copy the HTML, class name, escaped HTML or CSS content code.">
+  <link rel="canonical" href="https://infinitered.github.io/ionicons-version-3-search/">
+
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Infinite Red">
+  <meta property="og:title" content="Ionicons v3 Icon Search">
+  <meta property="og:description" content="Search all Ionicons version 3 icons by name and community tags, and copy the code you need.">
+  <meta property="og:url" content="https://infinitered.github.io/ionicons-version-3-search/">
+  <meta property="og:image" content="https://infinitered.github.io/ionicons-version-3-search/og-image.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@infinite_red">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "Ionicons v3 Icon Search",
+    "url": "https://infinitered.github.io/ionicons-version-3-search/",
+    "description": "Search all Ionicons version 3 icons by name and community tags, preview them at multiple sizes, and copy the HTML, class name, escaped HTML or CSS content code.",
+    "applicationCategory": "DeveloperApplication",
+    "operatingSystem": "Any",
+    "isAccessibleForFree": true,
+    "codeRepository": "https://github.com/infinitered/ionicons-version-3-search",
+    "author": { "@type": "Person", "name": "Sia Karamalegos", "url": "https://siakaramalegos.github.io/" },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Infinite Red",
+      "url": "https://infinite.red",
+      "sameAs": ["https://github.com/infinitered"]
+    }
+  }
+  </script>
 
   <!-- Bootstrap CSS -->
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
@@ -12,11 +48,10 @@
   <!-- Custom CSS -->
   <link rel="stylesheet" type="text/css" href="css/style.css">
 
-  <!-- React, React DOM, Browser Babel -->
-  <!-- TODO: switch to minified react -->
-  <script src="https://fb.me/react-15.1.0.js"></script>
-  <script src="https://fb.me/react-dom-15.1.0.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.6.16/browser.js"></script>
+  <!-- React and React DOM from cdnjs: Firefox's tracking protection blocks the old fb.me URLs -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.1.0/react.min.js" integrity="sha384-3aKuzevuBSs0FfxObUZ42KUGqneCk7kh9g7/aZ+Yzf5MhucA9KvfUSH5jcma9kdZ" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.1.0/react-dom.min.js" integrity="sha384-tEAvCNm5NozfOX3D8eOmg6E7CUNRQEaLq9xPqVr9ii9BW1cVXiuHKqrXUh3W7wg5" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.6.16/browser.js" integrity="sha384-ZGWrBt/E9VtLELcadGrIJFRgwd5Ln9sGmwKHewPbHxD3yLGCkSqZ3/yJ4GOu8j17" crossorigin="anonymous"></script>
 
   <!-- JQuery -->
   <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
@@ -29,13 +64,16 @@
 </head>
 <body>
   <div class="container">
-    <h1 class="text-primary">ionicons search and filter</h1>
+    <h1 class="text-primary">Ionicons v3 icon search</h1>
     <p class="lead text-muted">
-      search for version 3.0 icons<br>
-      adds community tags to better locate version 2.0 icons <br>
+      Search all Ionicons version 3.0 icons by name or tag.<br>
+      Community tags help you find the version 3 replacement for a version 2 icon.
     </p>
     <p>
-      Sponsored by <a href="https://infinite.red/">Infinite Red</a> <a href="https://github.com/infinitered"><i class="icon ion-logo-github"></i></a> <a href="https://twitter.com/infinite_red"><i class="icon ion-logo-twitter"></i></a>, Created by <a href="http://siakaramalegos.github.io/">Sia Karamalegos</a> <a href="https://github.com/siakaramalegos"><i class="icon ion-logo-github"></i></a> <a href="https://twitter.com/thegreengreek"><i class="icon ion-logo-twitter"></i></a>
+      Click any icon to preview it at 12, 24, 48 and 96px and copy its HTML, class name, escaped HTML or CSS content code.
+    </p>
+    <p>
+      Sponsored by <a href="https://infinite.red/">Infinite Red</a> <a href="https://github.com/infinitered"><i class="icon ion-logo-github"></i></a> <a href="https://twitter.com/infinite_red"><i class="icon ion-logo-twitter"></i></a>, Created by <a href="https://siakaramalegos.github.io/">Sia Karamalegos</a> <a href="https://github.com/siakaramalegos"><i class="icon ion-logo-github"></i></a> <a href="https://twitter.com/thegreengreek"><i class="icon ion-logo-twitter"></i></a>
     </p>
     <p>
       <a href="https://github.com/infinitered/ionicons-version-3-search" class="btn btn-primary btn-xs">
@@ -43,7 +81,7 @@
       </a>
     </p>
 
-    <div id="app"></div>
+    <main id="app"></main>
   </div>
 
 </body>
